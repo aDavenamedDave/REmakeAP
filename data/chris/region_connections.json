@@ -1,0 +1,763 @@
+
+[ 
+    { 
+        "from": "Main Hall",
+        "to": "Dining Room",
+        "condition": {}
+    },
+    { 
+        "from": "Dining Room",
+        "to": "Tea Room",
+        "condition": {}
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Graveyard",
+        "condition": {}
+    },
+    { 
+        "from": "Tea Room",
+        "to": "Bar",
+        "condition": {
+            "items": ["Armor Key"]
+        }
+    },
+    { 
+        "from": "Tea Room",
+        "to": "Kitchen",
+        "condition": {
+            "items": ["Sword Key"]
+        }
+    },
+    { 
+        "from": "Northern Corridor",
+        "to": "Tea Room",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Tea Room",
+        "to": "West Wing Outer Stairway",
+        "condition": {}
+    },
+    { 
+        "from": "West Wing Outer Stairway",
+        "to": "Mirror Corridor",
+        "condition": {}
+    },
+    { 
+        "from": "Mirror Corridor",
+        "to": "Death Passage",
+        "condition": {}
+    },
+    { 
+        "from": "Death Passage",
+        "to": "Library",
+        "condition": {
+            "items": ["Helmet Key"]
+        }
+    },
+    { 
+        "from": "Mirror Corridor",
+        "to": "Dining Room 2F",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    {
+        "from": "West Wing Inner Stairway",
+        "to": "Mirror Corridor",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Elevator Corridor",
+        "to": "West Wing Outer Stairway",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Dining Room 2F",
+        "to": "Main Hall",
+        "condition": {}
+    },
+    { 
+        "from": "Dining Room 2F",
+        "to": "West Wing Inner Stairway",
+        "condition": {
+            "items": ["Sword Key"]
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Art Room",
+        "condition": {}
+    },
+    { 
+        "from": "Outside Balcony",
+        "to": "Main Hall",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Outside Patio",
+        "condition": {
+            "items": ["Armor Key"]
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Graveyard",
+        "condition": {}
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Large Art Room",
+        "condition": {
+            "items": ["Helmet Key"]
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "'C' Corridor",
+        "condition": {
+            "items": ["Sword Key"]
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Stairway Passage",
+        "condition": {
+            "items": ["Stone and Metal Object", "Stone Ring", "Metal Object"]
+        }
+    },
+    { 
+        "from": "West Wing Inner Stairway",
+        "to": "Mansion Drug Room",
+        "condition": {}
+    },
+    { 
+        "from": "West Wing Inner Stairway",
+        "to": "Northern Corridor",
+        "condition": {
+            "items": ["Armor Key"]
+        }
+    },
+    { 
+        "from": "West Wing Inner Stairway",
+        "to": "Outside Balcony",
+        "condition": {
+            "items": ["Lock Pick"]
+        }
+    },
+    { 
+        "from": "West Wing Inner Stairway",
+        "to": "Small Storeroom",
+        "condition": {
+            "items": ["Lock Pick"]
+        }
+    },
+    { 
+        "from": "West Wing Inner Stairway",
+        "to": "Trophy Room",
+        "condition": {
+            "items": ["Helmet Key"]
+        }
+    },
+    { 
+        "from": "Northern Corridor",
+        "to": "Greenhouse",
+        "condition": {}
+    },
+    { 
+        "from": "Northern Corridor",
+        "to": "Researcher's Bedroom",
+        "condition": {}
+    },
+    { 
+        "from": "Northern Corridor",
+        "to": "Tiger Statue Room",
+        "condition": {}
+    },
+    { 
+        "from": "Graveyard",
+        "to": "Crypt",
+        "condition": {
+            "items": ["Golden Arrow - Arrowhead"]
+        }
+    },
+    { 
+        "from": "Large Art Room",
+        "to": "Mirror Room",
+        "condition": {}
+    },
+    { 
+        "from": "Art Room",
+        "to": "'L' Corridor",
+        "condition": {
+            "items": ["Sword Key"]
+        }
+    },
+    { 
+        "from": "'L' Corridor",
+        "to": "Winding Corridor",
+        "condition": {}
+    },
+    { 
+        "from": "Winding Corridor",
+        "to": "Outside Boiler",
+        "condition": {
+            "items": ["Lock Pick"]
+        }
+    },
+    {
+        "from": "Winding Corridor",
+        "to": "Bathroom",
+        "condition":{}
+    },
+    {
+        "from": "Winding Corridor",
+        "to": "Marble Room",
+        "condition":{}
+    },
+    {
+        "from": "Marble Room",
+        "to": "Living Room",
+        "condition":{}
+    },
+    {
+        "from": "Winding Corridor",
+        "to": "Dark Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Dark Corridor",
+        "to": "Courtyard Study",
+        "condition":{
+            "items": ["Emblem Key"]
+        }
+    },
+    {
+        "from": "Dark Corridor",
+        "to": "East Wing Stairway",
+        "condition":{}
+    },
+    {
+        "from": "Dark Corridor",
+        "to": "Large Gallery",
+        "condition":{
+            "items": ["Armor Key"]
+        }
+    },
+    {
+        "from": "Dark Corridor",
+        "to": "Roofed Passage",
+        "condition":{}
+    },
+    {
+        "from": "Large Gallery",
+        "to": "Graveyard",
+        "condition":{
+            "items": ["Lock Pick"]
+        }
+    },
+    {
+        "from": "East Wing Stairway",
+        "to": "East Wing Storeroom",
+        "condition":{}
+    },
+    {
+        "from": "East Wing Stairway",
+        "to": "'C' Corridor",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "East Wing Stairway",
+        "to": "Deer Room",
+        "condition":{
+            "items": ["Armor Key"]
+        }
+    },
+    {
+        "from": "East Wing Stairway",
+        "to": "Resting Room",
+        "condition":{}
+    },
+    {
+        "from": "Small Library",
+        "to": "East Wing Stairway",
+        "condition":{}
+    },
+    {
+        "from": "Deer Room",
+        "to": "Bedroom",
+        "condition":{}
+    },
+    {
+        "from": "Deer Room",
+        "to": "Fish Tank Room",
+        "condition":{
+            "items": ["Lock Pick"]
+        }
+    },
+    {
+        "from": "'C' Corridor",
+        "to": "Small Library",
+        "condition":{}
+    },
+    {
+        "from": "'C' Corridor",
+        "to": "Armor Room",
+        "condition":{
+            "items": ["Armor Key"]
+        }
+    },
+    {
+        "from": "'C' Corridor",
+        "to": "Pillar Room",
+        "condition":{
+            "items": ["Armor Key"]
+        }
+    },
+    {
+        "from": "Pillar Room",
+        "to": "Attic Entry",
+        "condition":{}
+    },
+    {
+        "from": "Attic Entry",
+        "to": "Attic",
+        "condition":{
+            "items": ["Shield Key"]
+        }
+    },
+    {
+        "from": "Attic Entry",
+        "to": "Small Dining Room",
+        "condition":{}
+    },
+    {
+        "from": "Resting Room",
+        "to": "Sliding Trap Room",
+        "condition":{}
+    },
+    {
+        "from": "Sliding Trap Room",
+        "to": "Secret Passage",
+        "condition":{},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Secret Passage",
+        "to": "Concrete Passage 1",
+        "condition":{}
+    },
+    {
+        "from": "Concrete Passage 1",
+        "to": "Concrete Passage 2",
+        "condition":{}
+    },
+    {
+        "from": "Concrete Passage 2",
+        "to": "Kitchen",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Kitchen",
+        "to": "Elevator Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Corridor",
+        "to": "Materials Room",
+        "condition":{}
+    },
+    {
+        "from": "Roofed Passage",
+        "to": "Garden Shed",
+        "condition":{
+            "items": ["Stone and Metal Object"]
+        }
+    },
+    {
+        "from": "Garden Shed",
+        "to": "Main Garden",
+        "condition":{}
+    },
+    {
+        "from": "Garden Shed",
+        "to": "Muddy Path",
+        "condition":{}
+    },
+    {
+        "from": "Muddy Path",
+        "to": "Small Headstone Area",
+        "condition":{}
+    },
+    {
+        "from": "Small Headstone Area",
+        "to": "Forest Pathway",
+        "condition":{}
+    },
+    {
+        "from": "Forest Pathway",
+        "to": "Cabin",
+        "condition":{}
+    },
+    {
+        "from": "Main Garden",
+        "to": "Water Pool",
+        "condition":{}
+    },
+    {
+        "from": "Water Pool",
+        "to": "Falls Area",
+        "condition":{
+            "items": ["Square Crank"]
+        }
+    },
+    {
+        "from": "Falls Area",
+        "to": "Main Garden",
+        "condition":{
+            "items":["Battery"]
+        }
+    },
+    {
+        "from": "Falls Area",
+        "to": "Zigzag Path",
+        "condition":{}
+    },
+    {
+        "from": "Falls Area",
+        "to": "Mining Area",
+        "condition":{
+            "items": ["Battery"]
+        }
+    },
+    {
+        "from": "Mining Area",
+        "to": "Forked Passage",
+        "condition":{}
+    },
+    {
+        "from": "Mining Area",
+        "to": "Boulder Passage 1",
+        "condition":{
+            "items": ["Hexagon Crank"]
+        }
+    },
+    {
+        "from": "Forked Passage",
+        "to": "Generator Room",
+        "condition":{}
+    },
+    {
+        "from": "Generator Room",
+        "to": "Enrico Room",
+        "condition":{}
+    },
+    {
+        "from": "Generator Room",
+        "to": "Garbage Compactor Room",
+        "condition":{
+            "items": ["Shaft", "Cylinder"]
+        }
+    },
+    {
+        "from": "Boulder Passage 1",
+        "to": "Spider Room",
+        "condition":{}
+    },
+    {
+        "from": "Spider Room",
+        "to": "Straight Passage",
+        "condition":{
+            "items": ["Survival Knife"]
+        }
+    },
+    {
+        "from": "Straight Passage",
+        "to": "Boulder Passage 2",
+        "condition":{}
+    },
+    {
+        "from": "Boulder Passage 2",
+        "to": "Underground Statue Room",
+        "condition":{
+            "items": ["Hexagon Crank"]
+        }
+    },
+    {
+        "from": "Garbage Compactor Room",
+        "to": "Winding Underground Passage",
+        "condition":{}
+    },
+    {
+        "from": "Winding Underground Passage",
+        "to": "Underground Storage Room",
+        "condition":{}
+    },
+    {
+        "from": "Winding Underground Passage",
+        "to": "Lisa's Room",
+        "condition":{
+            "items": ["Broken Flamethrower"]
+        }
+    },
+    {
+        "from": "Lisa's Room",
+        "to": "Cabin",
+        "condition":{},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Zigzag Path",
+        "to": "Entry Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Entry Corridor",
+        "to": "Central Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Entry Corridor",
+        "to": "Rec Room",
+        "condition":{}
+    },
+    {
+        "from": "Entry Corridor",
+        "to": "Residence Storeroom",
+        "condition":{}
+    },
+    {
+        "from": "Entry Corridor",
+        "to": "Room 001",
+        "condition":{
+            "items": ["Key for Room 001"]
+        }
+    },
+    {
+        "from": "Room 001",
+        "to": "Room 001 Bathroom",
+        "condition":{}
+    },
+    {
+        "from": "Central Corridor",
+        "to": "Room 002",
+        "condition":{}
+    },
+    {
+        "from": "Central Corridor",
+        "to": "Gallery",
+        "condition":{
+            "items": ["Gallery Key"]
+        }
+    },
+    {
+        "from": "Room 002",
+        "to": "Room 002 Bathroom",
+        "condition":{}
+    },
+    {
+        "from": "Room 002",
+        "to": "Aqua Ring Entry",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Entry",
+        "to": "Aqua Ring Walkway",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Walkway",
+        "to": "Guard Room",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Walkway",
+        "to": "Control Room",
+        "condition":{
+            "items": ["Control Room Key"]
+        }
+    },
+    {
+        "from": "Control Room",
+        "to": "Aqua Ring Storage",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Storage",
+        "to": "Aqua Ring Water Tank",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Storage",
+        "to": "Aqua Ring Exit",
+        "condition":{}
+    },
+    {
+        "from": "Aqua Ring Exit",
+        "to": "Aqua Ring Entry",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Gallery",
+        "to": "Residence Medical Room",
+        "condition":{}
+    },
+    {
+        "from": "Gallery",
+        "to": "Room 003",
+        "condition":{
+            "items": ["Key for Room 003"]
+        }
+    },
+    {
+        "from": "Room 003",
+        "to": "Room 003 Bathroom",
+        "condition":{}
+    },
+    {
+        "from": "Room 003",
+        "to": "Plant 42 Room",
+        "condition":{
+            "items": ["Red Book - Unprinted Book", "Dog Whistle"]
+        }
+    },
+    {
+        "from": "Plant 42 Room",
+        "to": "Gallery",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Stairway Passage",
+        "to": "Jessica's Tomb",
+        "condition":{}
+    },
+    {
+        "from": "Jessica's Tomb",
+        "to": "Fountain",
+        "condition":{}
+    },
+    {
+        "from": "Fountain",
+        "to": "Laboratory Entrance",
+        "condition":{
+            "items": ["Last Book Vol.2 - Medal of Wolf", "Last Book Vol.1 - Medal of Eagle"]
+        }
+    },
+    {
+        "from": "Laboratory Entrance",
+        "to": "Passage to Heliport",
+        "condition":{}
+    },
+    {
+        "from": "Laboratory Entrance",
+        "to": "Item Box Room",
+        "condition":{}
+    },
+    {
+        "from": "Item Box Room",
+        "to": "Laboratory Stairway",
+        "condition":{}
+    },
+    {
+        "from": "Laboratory Stairway",
+        "to": "Visual Data Room",
+        "condition":{}
+    },
+    {
+        "from": "Laboratory Stairway",
+        "to": "'O' Room",
+        "condition":{}
+    },
+    {
+        "from": "'O' Room",
+        "to": "Elevator Entry",
+        "condition":{
+            "items": ["Key for the Power Area"]
+        }
+    },
+    {
+        "from": "'O' Room",
+        "to": "Morgue",
+        "condition":{
+            "items": ["Key for the Power Area"]
+        }
+    },
+    {
+        "from": "'O' Room",
+        "to": "Operating Room",
+        "condition":{}
+    },
+    {
+        "from": "'O' Room",
+        "to": "Pass Code Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Pass Code Corridor",
+        "to": "Cell Entrance",
+        "condition":{
+            "items": ["MO Disk", "MO Disk", "MO Disk"]
+        }
+    },
+    {
+        "from": "Pass Code Corridor",
+        "to": "X-Ray Room A",
+        "condition":{}
+    },
+    {
+        "from": "Pass Code Corridor",
+        "to": "X-Ray Room B",
+        "condition":{}
+    },
+    {
+        "from": "Cell Entrance",
+        "to": "Cell",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Entry",
+        "to": "Laboratory Lounge Room",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Entry",
+        "to": "Power Maze A",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Entry",
+        "to": "Main Laboratory Entrance",
+        "condition":{
+            "items": ["Fuel Supply Capsule (Empty)"]
+        }
+    },
+    {
+        "from": "Power Maze A",
+        "to": "Power Maze B",
+        "condition":{}
+    },
+    {
+        "from": "Power Maze B",
+        "to": "Power Control Room",
+        "condition":{}
+    },
+    {
+        "from": "Main Laboratory Entrance",
+        "to": "Main Laboratory",
+        "condition":{}
+    },
+    {
+        "from": "Passage to Heliport",
+        "to": "Heliport",
+        "condition":{
+            "items": ["Fuse Unit"]
+        }
+    }
+]
