@@ -1,0 +1,487 @@
+[
+    {
+        "name": "Main Hall",
+        "zone_id": 1
+    },
+    {
+        "name": "Dining Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Small Library",
+        "zone_id": 1
+    },
+    {
+        "name": "West Wing Outer Stairway",
+        "zone_id": 1
+    },
+    {
+        "name": "Small Storeroom",
+        "zone_id": 1
+    },
+    {
+        "name": "Northern Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Researcher's Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Tiger Statue Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Greenhouse",
+        "zone_id": 1
+    },
+    {
+        "name": "Bar",
+        "zone_id": 1
+    },
+    {
+        "name": "Art Room",
+        "zone_id": 1
+    },
+    {
+        "name": "'L' Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Bathroom",
+        "zone_id": 1
+    },
+    {
+        "name": "Outside Boiler",
+        "zone_id": 1
+    },
+    {
+        "name": "Tea Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Mansion Drug Room",
+        "zone_id": 1
+    },
+    {
+        "name": "West Wing Inner Stairway",
+        "zone_id": 1
+    },
+    {
+        "name": "Large Gallery",
+        "zone_id": 1
+    },
+    {
+        "name": "Graveyard",
+        "zone_id": 1
+    },
+    {
+        "name": "Dark Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Courtyard Study",
+        "zone_id": 1
+    },
+    {
+        "name": "East Wing Stairway",
+        "zone_id": 1
+    },
+    {
+        "name": "East Wing Storeroom",
+        "zone_id": 1
+    },
+    {
+        "name": "Marble Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Living Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Large Art Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Mirror Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Secret Passage",
+        "zone_id": 1
+    },
+    {
+        "name": "Garden Shed",
+        "zone_id": 1
+    },
+    {
+        "name": "Roofed Passage",
+        "zone_id": 1
+    },
+    {
+        "name": "'C' Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Armor Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Pillar Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Attic Entry",
+        "zone_id": 1
+    },
+    {
+        "name": "Attic",
+        "zone_id": 1
+    },
+    {
+        "name": "Small Dining Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Deer Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Bedroom",
+        "zone_id": 1
+    },
+    {
+        "name": "Fish Tank Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Resting Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Sliding Trap Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Dining Room 2F",
+        "zone_id": 1
+    },
+    {
+        "name": "Mirror Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Death Passage",
+        "zone_id": 1
+    },
+    {
+        "name": "Library",
+        "zone_id": 1
+    },
+    {
+        "name": "Outside Balcony",
+        "zone_id": 1
+    },
+    {
+        "name": "Trophy Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Elevator Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Materials Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Crypt",
+        "zone_id": 1
+    },
+    {
+        "name": "Outside Patio",
+        "zone_id": 1
+    },
+    {
+        "name": "Kitchen",
+        "zone_id": 1
+    },
+    {
+        "name": "Concrete Passage 1",
+        "zone_id": 1
+    },
+    {
+        "name": "Concrete Passage 2",
+        "zone_id": 1
+    },
+    
+    {
+        "name": "Muddy Path",
+        "zone_id": 2
+    },
+    {
+        "name": "Small Headstone Area",
+        "zone_id": 2
+    },
+    {
+        "name": "Forest Pathway",
+        "zone_id": 2
+    },
+    {
+        "name": "Cabin",
+        "zone_id": 2
+    },
+    {
+        "name": "Main Garden",
+        "zone_id": 2
+    },
+    {
+        "name": "Water Pool",
+        "zone_id": 2
+    },
+    {
+        "name": "Falls Area",
+        "zone_id": 2
+    },
+    {
+        "name": "Zigzag Path",
+        "zone_id": 2
+    },
+    {
+        "name": "Mining Area",
+        "zone_id": 2
+    },
+    {
+        "name": "Forked Path",
+        "zone_id": 2
+    },
+    {
+        "name": "Generator Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Enrico Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Boulder Passage 1",
+        "zone_id": 2
+    },
+    {
+        "name": "Boulder Passage 2",
+        "zone_id": 2
+    },
+    {
+        "name": "Spider Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Straight Passage",
+        "zone_id": 2
+    },
+    {
+        "name": "Underground Statue Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Garbage Compactor Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Winding Underground Passage",
+        "zone_id": 2
+    },
+    {
+        "name": "Underground Storage Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Lisa's Room",
+        "zone_id": 2
+    },
+ 
+    
+    {
+        "name": "Entry Corridor",
+        "zone_id": 3
+    },
+    {
+        "name": "Residence Storeroom",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 001",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 001 Bathroom",
+        "zone_id": 3
+    },
+    {
+        "name": "Rec Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Central Corridor",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 002",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 002 Bathroom",
+        "zone_id": 3
+    },
+    {
+        "name": "Gallery",
+        "zone_id": 3
+    },
+    {
+        "name": "Residence Medical Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 003",
+        "zone_id": 3
+    },
+    {
+        "name": "Room 003 Bathroom",
+        "zone_id": 3
+    },
+    {
+        "name": "Plant 42 Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Aqua Ring Entry",
+        "zone_id": 3
+    },
+    {
+        "name": "Aqua Ring Walkway",
+        "zone_id": 3
+    },
+    {
+        "name": "Guard Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Control Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Aqua Ring Storage",
+        "zone_id": 3
+    },
+    {
+        "name": "Aqua Ring Water Tank",
+        "zone_id": 3
+    },
+    {
+        "name": "Aqua Ring Exit",
+        "zone_id": 3
+    },
+    
+    {
+        "name": "Stairway Passage",
+        "zone_id": 4
+    },
+    {
+        "name": "Jessica's Tomb",
+        "zone_id": 4
+    },
+    {
+        "name": "Fountain",
+        "zone_id": 4
+    },
+    {
+        "name": "Laboratory Entrance",
+        "zone_id": 4
+    },
+    {
+        "name": "Item Box Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Laboratory Stairway",
+        "zone_id": 4
+    },
+    {
+        "name": "Visual Data Room",
+        "zone_id": 4
+    },
+    {
+        "name": "'O' Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Pass Code Corridor",
+        "zone_id": 4
+    },
+    {
+        "name": "X-ray Room A",
+        "zone_id": 4
+    },
+    {
+        "name": "X-ray Room B",
+        "zone_id": 4
+    },
+    {
+        "name": "Cell Entrance",
+        "zone_id": 4
+    },
+    {
+        "name": "Cell",
+        "zone_id": 4
+    },
+    {
+        "name": "Operating Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Morgue",
+        "zone_id": 4
+    },
+    {
+        "name": "Surgeon's Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Elevator Entry",
+        "zone_id": 4
+    },
+    {
+        "name": "Laboratory Lounge Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Power Maze A",
+        "zone_id": 4
+    },
+    {
+        "name": "Power Maze B",
+        "zone_id": 4
+    },
+    {
+        "name": "Power Control Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Main Laboratory Entrance",
+        "zone_id": 4
+    },
+    {
+        "name": "Main Laboratory",
+        "zone_id": 4
+    },
+
+    {
+        "name": "Passage to Heliport",
+        "zone_id": 5
+    },
+    {
+        "name": "Heliport",
+        "zone_id": 5
+    }
+]

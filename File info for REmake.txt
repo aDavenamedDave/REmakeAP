@@ -1,0 +1,392 @@
+wep0a - Self Defense Gun - refers to Chris
+wep0b - Infinite Pistol - refers to Chris
+wep0c - Magnum - refers to Chris
+wep01 - Chris' Knife
+wep1a - Self Defense Gun - refers to Jill
+wep1b - Infinite Pistol - refers to Jill
+wep1c - Magnum - refers to Jill
+wep02 - Handgun refers to Chris
+wep03 - Magnum??? refers to Chris
+wep04 - Shotgun - refers to Chris
+wep05 - Flamethrower
+wep06 - Brads Rocket Launcher - Chris Version
+wep07 - Infinite Rocket Launcher - Chris Version
+wep08 - Assault Shotgun? - Chris
+wep11 - Jills Knife
+wep12 - Another Pistols
+wep13 - Barrys Magnum?
+wep14 - Shotgun - refers to Jill
+wep16 - Brads Rocket Launcher - Jill Version
+wep17 - Infinite Rocket Launcher - Jill Version
+wep18 - Assault Shotgun? - Jill
+wep19 - Grenade Launcher - Normal
+wep19a - Grenade Launcher - Acid
+wep19f - Grenade Launcher - Incendiary
+
+
+r50a - Researcher's private room (nitro refueling device room)
+r50b - Stairs leading to detention room
+r50c - Power chamber passage (T-shaped corridor leading to Lounge/Power room/Lift to Culture tank room passage).
+r50d - Lift leading to heliport
+r50e - Lab's Lounge
+r50f - Power room passage A (where the nitro capsule must be used)
+r500 - Lab entrance (with ladder going to Prep room/Emergency door leading to Helipad passage)
+r501 - Way to the heliport (passage to the lift)
+r502 - Preparation room (save room with ladder going up to lab entrance)
+r503 - B2F stair hall
+r504 - Visual Data Room (where you can watch Kenneth's tape)
+r505 - Central cloister (leads to multiple rooms like Power chamber passage/B3F West Corridor)
+r506 - Small lab (where you need enter the passwords in the computer)
+r507 - Operating room
+r508 - B3F West Corridor
+r509 - X-ray room
+r510 - Power room passage B (where you use a MO disk)
+r511 - Power room (where you restore power for the elevator)
+r512 - Detention room
+r513 - Culture tank room (where you fight Tyrant for the 1st time)
+r514 - Passage to Culture tank room
+r515 - Lift leading to Culture tank room Passage
+r412 a huge shark's room , push down the battery leakage
+r410 there are three doors,leading to the r412 room
+r408 take pesticides corridor, can reach room 003
+r406 room "002", Barry's story
+r405 a corridor to reach room 002
+r404 pub, snooker number puzzle
+r403 ,the first archive room in the dormitory
+r401 room "001", there is a hanged man
+r40e a circular pool, small sharks and more ruthless, a shark killed Richard
+r40d hallway before flooded shark tank room
+r40c - plant 42 room
+r40b - room 003 bathroom
+r40a - dormitory room 003
+r400 there are three blue herbs in the dormitory
+r316 need to crush wooden box to get the broken flamethrower
+r315 Lisa's mother's coffin
+r31a stairs behind the door in two badges
+r311 outdoors, there are two statues to open gate
+r305 the pool, need to insert badge "Eagle" and "wolf")
+r304 outdoor path, return from the dormitory
+r303 helipad end of game
+r302 garden, you need the battery to start the elevator
+r30c spider story, the door was tangled in spider web
+r30b a cave, the flamethrower gun on the wall, boulder run
+r30a enrico's room
+r301 ?
+r300 courtyard area, two lifts
+r219 a small warehouse, you can get batteries
+r217 generator room?
+r216 Serpent's final battle, the Blue book (wolf medal)
+r215 - trophy room
+r214 a Z-corridor, you can get the arrow keys, a fat zombie
+r213 a similar Z-corridor, two zombies, take the elevator up the room
+r212 forrest death area
+r21c Kitchen
+r21b a T shaped hallway, a few zombies, elevators need to connect the power
+r21a after pushing down the ladder, down the ladder, a few big spiders
+r210 serpent's room
+r209 a small bedroom, a box of herbs and ribbons, a small key
+r208 a small room, there is a deer head on the wall model
+r207 room where the door can only be used twice
+r206 a room to get a lighter and a dog whistle
+r205 four knights armor puzzle
+r204 a L-type corridors, outside the four knights armor room
+r203 Balcony, place where you get the dog collar
+r202 upper dining room
+r20f  Dark room Where you find the other part of the musical score
+r20e get the serum back ,Story: Jill saves Richard
+r20d meet Richard to get the serum
+r20c in this room you get "Eagle" medal
+r20b a small room, only a few herbs, next to the Goddess
+r20a - fishtank room (room with the bee and lure)
+r200 Luxury Lift
+r119 a study,
+r118 a storage room, beside the door which can be only used twice
+r117 Gallery
+r116 room to hold shotgun
+r115 outside the r116 room (jill sandwhich room)
+r114 Take herbicides, outdoor corridor
+r113 same as r114 , the dog jumped over the fence
+r112 - west wing/birdcage corridor
+r111 Several pieces jigsaw puzzle box
+r11c closet
+r11b small room, small pieces of the stairs, leading to the direction of Lisa
+r11a a short corridor, a dog, put the badge to unlock the door
+r10f piano room
+r10e two zombies, one lying on the ground, the other hiding in the closet
+r10d a tiger head statue room
+r10c room where player uses herbicides on the plants. collect 1 deathmask
+r10b outdoor basement. 4 deathmask area
+r10a an L-type corridor leading to the gallery, a zombie, the door can be only used twice
+r109 the corridor outside the jill sandwhich room
+r108 dogs jumped out from the windows
+r107 statue where you can take the map, next to main hall
+r106 main hall of the mansion
+r105 dining room
+r104 the first scene zombie eating - again?
+r103 the first scene zombie eating
+r102 room to get a broken shotgun
+r101 corridor outside the serum room
+r100 the serum room
+r30b - where a boulder blocks your path
+r30c - where you fight the spider boss
+r30d - where you need to put the flamethrower to unlock a door
+r30f - where you need to use the lever to avoid getting crused by a boulder
+r40f - Where the roots of the Plant 42 are and you use the V-Jolt
+r301 - Courtyard where you use the square lever to raise or lower the water
+r306 - Room where you get the second piece needed to start the cave lift, with the rotating statues
+r307 - Cave room with a typewriter, next to a hole to use the hexagonal lever
+r308 - Another boulder blocking the way
+r309 - Room with the elevator that takes you deeper into the caves
+r312 - Where you get the Colt Python (Cementery)
+r313 - Forrest after the cementery and before Lisa's cabin
+r314 - Lisa's cabin
+r317 - another room where you hook the flamethrower to open a door
+r318 - room with the transpoter that contains the box with the flametrower
+r319 - Lisa's hideout
+r402 - Room 101 Bathroom
+r407 - Room 002 Bathroom
+r409 - Room with the V-Jolt chemicals
+r411 - Where you solve the water pressure puzzle before the whole thing collapses
+
+
+em00 - zombie dogs
+em0a - Lisa
+em0b - Tyrant first one
+em01 - Bird/Crow
+em1a - Some Zombie?
+em1b - Crimson Head, also has 0a reference?
+em002 - Another dog, has a texture from 0a and 1b, shared texture?
+em02a - Snake
+em02b - Snake with a different colour to 02a
+em03 - A Bee
+em05 - ? maybe related to the bees?
+em06a - A Hunter
+em06b - Another Hunter, a different colour
+em07 - Chimera
+em08 - Plant 42?
+em09 - Tyrant Again (2nd fight)
+em10 - Zombie, also refers to em50 - Crimson Head Version
+em11 - Zombie, also refers to em51 - Crimson Head Version
+em12 - Zombie, also refers to em52
+em13 - Forest, also refers to kk01 grenade
+em15 - Zombie, also refers to em55 - Crimson Head Version
+em16 - Zombie with a Lab Coat, also refers to em56 - Crimson Head Version
+em17 - Another Zombie with a Lab Coat, also refers to em57 - Crimson Head Version
+em18 - Naked Lab Zombie - Has no crimson head version
+em19 - Zombie - Has no crimson head version
+em1a - Fat Zombie outside on hard
+em1b - Crimson head Boss
+em20 - Large Spider - also refers to em04
+em21 - Large Spider - also refers to em04
+em30 - Snake Boss
+em40 - Shark
+em41 - Another Shark
+
+
+i001 - Survival knife
+i002 - Combat knife
+i003 - Jill's gun
+i004 - Personal magnum (Self Defense gun?)
+i005 - Wesker's gun
+i006 - Shotgun
+i007 - Grenade Launcher
+i010 - Rocket Launcher
+i011 - Magnum .37
+i012 - Flame Thrower
+i013 - Assault Shotgun
+i014 - Special weapon
+i015 - Magnum .44 (Barry's?)
+i016 - Grenade ammo. (Expl)
+i017 - Handgun ammo.
+i018 - Shotgun ammo.
+i019 - Grenade ammo. (Acid)
+i020 - Grenade ammo. (Fire)
+i021 - Puzzle arrow
+i022 - Book of Sorrows with sword key
+i023 - Armor key
+i024 - Dog collar with armor key replica
+i025 - Magnum ammo.
+i026 - ¿Gold Emblem?
+i027 - gasoil bottle
+i028 - Puzzle arrow
+i029 - Armor key
+i030 - Gallery key
+i125 - Death Mask?
+i126 - Death Mask?
+i127 - Death Mask?
+i128 - Death Mask?
+
+
+
+
+pl00.arc - Chris STARS
+pl01.arc - Jill STARS
+pl02.arc - Barry
+pl03.arc - Rebecca
+pl04.arc - Wesker
+pl05.arc - Kenneth?
+pl06.arc - Enrico
+pl07.arc - Richard?
+pl08.arc - Chris bonus outfit
+pl09.arc - Chris bonus outfit (made in heaven)
+pl0a.arc - Jill bonus outfit
+pl0b.arc - Jill RE3 outfit
+pl0c.arc - Rebecca cowgirl outfit
+pl20.arc - Chris BSAA
+pl21.arc - Jill BSAA
+pl99.arc - man dead on the floor (killed by bees) in the guardhouse/residence
+
+
+ep00.arc - Chris STARS
+ep01.arc - Jill STARS
+ep02.arc - Barry
+ep03.arc - Rebecca
+ep04.arc - Wesker
+ep05.arc - Kenneth?
+ep06.arc - Enrico
+ep07.arc - Richard?
+ep08.arc - Chris bonus outfit
+ep09.arc - Chris bonus outfit (made in heaven)
+ep0a.arc - Jill bonus outfit
+ep0b.arc - Jill RE3 outfit
+ep0c.arc - Rebecca cowgirl outfit
+ep20.arc - Chris BSAA
+ep21.arc - Jill BSAA
+
+
+
+
+HEX values
+
+00:Nothing
+01:Survival Knife (Jill)
+02:Survival Knife
+03:Handgun
+04:Self Defense Gun
+05:Handgun (Infinite)
+06:Shotgun
+07:Grenade Launcher - Explosive
+08:Grenade Launcher - Acid
+09:Grenade Launcher - Incendiary
+0A:Rocket Launcher (10)
+0B:Magnum Revolver (11)
+0C:Flame Thrower (12)
+0D:Assault Shotgun (13)
+0E:Rocket Launcher (Infinite) (14)
+0F:Barry's 44 Magnum (15)
+10:Grenade Shells (16)
+11:Handgun Magazine (17)
+12:shotgun shells (18)
+13:Acid Shells (19)
+14:Incendiary shells (20)
+15:Golden Arrow (21)
+16:Book of Curse (22)
+17:Coin (23)
+18:Collar (24)
+19:Magnum Rounds (25)
+1A:Broach (26)
+1B:Fuel Canteen (27)
+1C:Arrowhead (28)
+1D:Imitation of a Key (29)
+1E:Residence Key - Gallery (30)
+1F:Fuel Supply Capsule (31)
+20:Musical Score (32)
+21:First Aid Spray (33)
+22:Green Herb (34)
+23:Red Herb (35)
+24:Blue Herb (36)
+25:Mixed Herbs (Green) (37)
+26:Mixed Herbs (Green) (38)
+27:Mixed Herbs (Green & Red) (39)
+28:Mixed Herbs (40)
+29:Mixed Herbs (Green& Blue) (41)
+2A:Mixed Herbs (Green& Blue) (42)
+2B:Lock Pick (43)
+2C:Old Key (44)
+2D:Mansion Key - Sword (45)
+2E:Mansion Key - Armor (46)
+2F:Mansion Key - Shield (47)
+30:Mansion Key - Helmet (48)
+31:Residence Key - 001 (49)
+32:Residence Key - 003 (50)
+33:Medal of Eagle (51)
+34:Medal of Wolf (52)
+35:Stone & Metal Object (Octagonal) (53)
+36:Laboratory Key - Key for the Power Area (54)
+37:Laboratory Key - Master Key (55)
+38:Star Crest (56)
+39:Wind Crest (57)
+3A:Sun Crest (58)
+3B:Moon Crest (59)
+3C:Square Crank (60)
+3D:Hex Crank (61)
+3E:Closet Key (Special) (62)
+3F:Emblem Key (63)
+40:Stone Ring (64)
+41:Metal Object (65)
+42:Survival Knife (Black) (66)
+43:Battery (67)
+44:Ink Ribbon (68)
+45:Emblem (69)
+46:Gold Emblem (70)
+47:Musical Score - Moonlight Sonata (71)
+48:Red Gemstone (72)
+49:Blue Gemstone (73)
+4A:Yellow Gemstone (74)
+4B:Broken Shotgun (75)
+4C:Chemical - Herbicide (76)
+4D:Lighter (77)
+4E:Serum (78)
+4F:Transceiver (79)
+50:Empty Bottle (80)
+51:Water (81)
+52:UMB No.3 (82)
+53:NP-004 (83)
+54:Yellow-6 (84)
+55:UMB No.7 (85)
+56:UMB No.10 (86)
+57:VP-017 (87)
+58:V-JOLT (88)
+5A:Red Book (89)
+5B:Last Book Vol.1 (90)
+5C:Last Book Vol.2 (91)
+5D:MO Disk (92)
+5E:MO Disk (93)
+5F:MO Disk (94)
+60:Dog Whistle (95)
+61:Fuse Unit (96)
+62:Capsule (97)
+63:Jewelry Box(Stone Ring) (98)
+64:Insecticide Spray (99)
+65:First Aid Box - First Aid Spray (100)
+66:Jewelry Box(Emblem Key) (101)
+67:Jewelry Box(Death Mask) (102)
+68:First Aid Box - Green Herb (103)
+69:First Aid Box - Blue Herb (104)
+6A:Signal Rockets (105)
+6B:Broken Flamethrower (106)
+6C:Wooden Mount (107)
+6D:Slide Filter (108)
+6E:Control Room Key (109)
+6F:Fuel Supply Capsule (110)
+70:Dagger (111)
+71:Flash Grenade (112)
+72:Taser (113)
+73:Bee Specimen (114)
+74:lure with out a hook (115)
+75:Fishhook (116)
+76:Lure of a bee (117)
+77:X-Ray of CLARK (118)
+78:X-Ray of GAIL (119)
+79:Battery Pack (120)
+7A:Shaft (121)
+7B:Cylinder (122)
+7C:Cylinder Shaft (123)
+7D:Mask without eyes, nose or mouth (124)
+7E:Mask without eyes (125)
+7F:Mask without nose (126)
+80:Mask without mouth (127)
+81:Music Score (128)
+82:2F Map (129)
+83:First Aid Box - Blue/Green Herb (130)
+84:First Aid Box - Green/Green Herb (131)

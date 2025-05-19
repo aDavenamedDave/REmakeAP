@@ -1,0 +1,203 @@
+Item Values:
+Lighter(J)///Jill's Handgun(C) - 0
+
+Ink Ribbon - 1,12,22,27,86,111,135
+
+Blue Gemstone - 2
+
+Shield Key - 3
+
+Handgun Ammo - 4,8,21,52,72,73,83,98,113,115,127,138,146
+
+Handgun Ammo(C) - 39
+
+Magnum Rounds - 126
+
+Shotgun Shells - 13,17,33,41,56,99,144
+
+Shotgun Shells(JN)//Magnum Rounds(JH) - 153
+
+Green Herb - 5,6,25,29,30,50,53,54,64,65,68,69,70, 	71,81,87,108,112,124,131,140,141,151
+
+Red Herb - 31,55,88,95,110,149
+
+Red Herb(JN)//Green Herb(JH) - 125
+
+Blue Herb - 96,109,119,120,130,132,133,134
+
+Battery Pack(J)//Flash Grenade(C) - 7,10,35,42,44,58,128,136
+
+Battery Pack(J)//Old Key(C) - 9
+
+Broken Shotgun - 11
+
+MO Disk - 14,159,161
+
+Missing Music - 15
+
+Mask without Eyes - 16
+
+Mask without mouth - 18
+
+Dagger - 19,20,23,26,49,63,67,80,97
+
+Jewelry Box->Emblem Key - 24
+
+Herbicide - 28
+
+Dagger(J)//Old Key(C)  - 32
+
+Metal Object - 34
+
+Fuel Canteen - 36
+
+Grenade Launcher(J)//Old Key(C) - 37
+
+First Aid Spray - 38,43,45
+
+Incendiary Shells(JN)//Shotgun Shells(C) - 40 
+
+
+Grenade Shells(J)//Shotgun Shells(C) - 46
+
+Last Book Volume 1->Medal of Eagle - 47
+
+Dog Collar - 48
+
+Golden Arrow->Arrowhead - 51
+
+Acid Shells(JN)//Magnum Rounds(JH)//Shotgun Shells(C) - 57
+
+Battery - 59
+
+Grenade Shells(JN)//Handgun Ammo(JH)//Shotgun Shells(CN) - 60
+
+Red Gemstone - 61
+
+Yellow Gemstone - 62
+
+Last Book Volume 2->Medal of Wolf - 66
+
+Music, Mid-pages - 74
+
+Mask Without Nose - 77
+
+Wooden Mount - 78
+
+Jewelry Box->Mask Without All - 79
+
+Dog Whistle - 82
+
+First Aid Box (First Aid Spray) - 84,121
+
+First Aid Box (Green/Blue) - 143 
+
+First Aid Box (Green/Green) - 152
+
+First Aid Box (Green/Green) (JN)//First Aid Box(Green)(JH) - 164
+
+First Aid Box (Green) - 172
+
+Empty Bottle(J) - 75,76,85,94
+
+Flash Grenade(C) - 75
+
+Old Key(C) - 85,94
+
+Shotgun Shells(C) - 76
+
+Fishhook - 89
+
+Wind Crest - 92
+
+Book of Curses->Sword Key - 100
+
+Stone and Metal Object - 102
+
+Moon Crest - 103
+
+Star Crest - 104
+
+Sun Crest - 105
+
+Magnum Revolver - 106
+
+Square Crank - 107
+
+Hexagon Crank - 116
+
+Survival Knife - 118
+
+Cylinder - 122
+
+Jewelry Box->Stone Ring - 129
+
+Self Defense Gun - 137
+
+Control Room Key - 139
+
+Unprinted Book - 142
+
+Key for Room 001 - 145
+
+Key for Room 003 - 148
+
+Insecticide Spray - 147
+
+Helmet Key - 150
+
+Gallery Key - 154
+
+Key for the Power Area - 163
+
+Slide Filter - 166
+
+X-Ray of CLARK - 167
+
+X-Ray of Gail - 168
+
+Fuel Supply Capsule (Empty) - 178
+
+Fuel Supply Capsule (Filled) - 180
+
+Shotgun - 181
+
+
+enemies values:
+Hunters - 1
+Chimeras - 2
+Tyrant - 3
+Dogs - 4
+Sharks - 5
+Zombies - 6
+Yawn - 7
+Spiders - 8
+Bees - 9
+Lisa - 10
+Elder Crimson Head - 12
+
+
+
+Lock Values:
+
+Armor Key - 0
+Control Room Key - 1
+Spencer Key - 2
+Gallery Key - 3
+Helmet Key - 4
+Old Key / Lockpick - 5
+One way door - 6,7
+One-way and lockpick/Old Key mix - 8
+Power Area Key - 10
+Room 001 Key - 11
+Room 003 Key - 12
+Shield Key - 13
+Sword Key - 14
+Unlocked - 15
+
+
+
+
+Door Rando:
+
+
