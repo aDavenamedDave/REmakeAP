@@ -1,5 +1,9 @@
 [
     {
+        "name": "Menu",
+        "zone_id": 1
+    },
+    {
         "name": "Main Hall",
         "zone_id": 1
     },
@@ -24,7 +28,7 @@
         "zone_id": 1
     },
     {
-        "name": "Researcher's Room",
+        "name": "Researcher's Bedroom",
         "zone_id": 1
     },
     {
@@ -45,6 +49,10 @@
     },
     {
         "name": "'L' Corridor",
+        "zone_id": 1
+    },
+    {
+        "name": "Winding Corridor",
         "zone_id": 1
     },
     {
@@ -253,7 +261,7 @@
         "zone_id": 2
     },
     {
-        "name": "Forked Path",
+        "name": "Forked Passage",
         "zone_id": 2
     },
     {

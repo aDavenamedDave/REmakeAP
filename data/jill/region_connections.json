@@ -1,5 +1,9 @@
-
 [ 
+    { 
+        "from": "Menu",
+        "to": "Main Hall",
+        "condition": {}
+    },
     { 
         "from": "Main Hall",
         "to": "Dining Room",
@@ -647,7 +651,7 @@
         "from": "Fountain",
         "to": "Laboratory Entrance",
         "condition":{
-            "items": ["Last Book Vol.2 - Medal of Wolf", "Last Book Vol.1 - Medal of Eagle"]
+            "items": ["Last Book Volume 2 - Medal of Wolf", "Last Book Volume 1 - Medal of Eagle"]
         }
     },
     {
@@ -708,12 +712,12 @@
     },
     {
         "from": "Pass Code Corridor",
-        "to": "X-Ray Room A",
+        "to": "X-ray Room A",
         "condition":{}
     },
     {
         "from": "Pass Code Corridor",
-        "to": "X-Ray Room B",
+        "to": "X-ray Room B",
         "condition":{}
     },
     {
