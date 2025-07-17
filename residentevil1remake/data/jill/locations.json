@@ -19,7 +19,8 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item": {}
+        "forbid_item": {},
+        "force_item": "Lock Pick"
     },
     {
         "name": "Dining Table",
@@ -166,7 +167,7 @@
     {
         "name": "Left Side",
         "region": "Tiger Statue Room",
-        "original_item": "MO Disk 2",
+        "original_item": "MO Disk 1",
         "condition": {
             "items":["Armor Key", "Yellow Gemstone"]},    
         "item_object": "",
@@ -389,7 +390,7 @@
         "forbid_item":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
         "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key to Room 001", "Key to Room 003"
         ],
-        "force_item":""
+        "force_item":"Assault Shotgun"
     
     },
     {
@@ -402,11 +403,8 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[
-            "Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-            "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key to Room 001", "Key to Room 003"
-                    ],
-        "force_item":""
+        "forbid_item":[],
+        "force_item":"Acid Rounds"
     },
     {
         "name": "Right Herb by Wheelbarrow",
@@ -771,6 +769,12 @@
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
+    },
+    {
+        "name": "Oh my God, You Killed Barry!"
+        "region": "Jessica's Tomb",
+        "original_item": "Barry's 44 Magnum",
+        "force_item": "Barry's 44 Magnum"
     },
     {
         "name": "On Table",
@@ -2239,7 +2243,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":["Stone and Metal Object", "MO Disk 1", "MO Disk 2", "MO Disk 3"],
-        "force_item":""
+        "force_item":"Shotgun Shells"
     },
     {
         "name": "Box by Lightswitch",
@@ -2309,7 +2313,7 @@
     {
         "name": "Shelf near Entrance",
         "region": "Visual Data Room",
-        "original_item": "MO Disk 1",
+        "original_item": "MO Disk 2",
         "condition":{
             "items":["Stone and Metal Object", "Metal Object", "Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
