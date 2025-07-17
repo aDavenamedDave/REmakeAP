@@ -130,7 +130,7 @@
         "from": "Main Hall",
         "to": "Stairway Passage",
         "condition": {
-            "items": ["Stone and Metal Object", "Stone Ring", "Metal Object"]
+            "items": ["Stone and Metal Object", "Jewelry box - Stone Ring", "Metal Object"]
         }
     },
     { 
