@@ -596,20 +596,7 @@
         "count": 6,
         "progression": 0
     },
-    {
-        "type": "Trap",
-        "name": "Damage Trap",
-        "decimal": "",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Trap",
-        "name": "Poison Trap",
-        "decimal": "",
-        "count": 1,
-        "progression": 0
-    },
+
 
     {
         "name": "Victory",
