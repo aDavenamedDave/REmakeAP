@@ -149,14 +149,14 @@
         "from": "West Wing Inner Stairway",
         "to": "Outside Balcony",
         "condition": {
-            "items": ["Lock Pick"]
+            "items": ["Old Key"]
         }
     },
     { 
         "from": "West Wing Inner Stairway",
         "to": "Small Storeroom",
         "condition": {
-            "items": ["Lock Pick"]
+            "items": ["Old Key"]
         }
     },
     { 
@@ -209,7 +209,7 @@
         "from": "Winding Corridor",
         "to": "Outside Boiler",
         "condition": {
-            "items": ["Lock Pick"]
+            "items": ["Old Key"]
         }
     },
     {
@@ -260,7 +260,7 @@
         "from": "Large Gallery",
         "to": "Graveyard",
         "condition":{
-            "items": ["Lock Pick"]
+            "items": ["Old Key"]
         }
     },
     {
@@ -300,7 +300,7 @@
         "from": "Deer Room",
         "to": "Fish Tank Room",
         "condition":{
-            "items": ["Lock Pick"]
+            "items": ["Old Key"]
         }
     },
     {
