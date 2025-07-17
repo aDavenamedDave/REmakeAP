@@ -21,7 +21,7 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Shield Key",
         "decimal": "2F", 
         "count": 1,
@@ -42,42 +42,42 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Key for Room 001",
         "decimal": "31",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Key for Room 003",
         "decimal": "32",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Mask Without Mouth",
         "decimal": "7D",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Mask Without Eyes",
         "decimal": "7F",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Mask Without Nose",
         "decimal": "80",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Mask Without All",
         "decimal": "63",
         "count": 1,
@@ -92,7 +92,7 @@
         
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Dog Whistle",
         "decimal": "60",
         "count": 1,
@@ -148,7 +148,7 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Unprinted Book",
         "decimal": "5A",
         "count": 1,
@@ -169,49 +169,49 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Gallery Key",
         "decimal": "1E",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Key for the Power Area",
         "decimal": "36",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Broken Flamethrower",
         "decimal": "6B",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Fuse Unit",
         "decimal": "61",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Golden Arrow - Arrowhead",
         "decimal": "15",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Emblem Key",
         "decimal": "something",
         "count": 1,
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Power Room Key",
         "decimal": "something",
         "count": 1,
@@ -254,11 +254,11 @@
         "progression": 1
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Broken Shotgun",
         "decimal": "4B",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
         "type": "Gating",
@@ -268,106 +268,106 @@
         "progression": 1
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Fishhook",
         "decimal": "75",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Moon Crest",
         "groups":["Crest"],
         "decimal": "103",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Wind Crest",
         "groups":["Crest"],
         "decimal": "92",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Star Crest",
         "groups":["Crest"],
         "decimal": "104",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Sun Crest",
         "groups":["Crest"],
         "decimal": "105",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Bee Specimen",
         "decimal": "73",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Lure of a Bee",
         "decimal": "74",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "X-ray of CLARK",
         "decimal": "77",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "X-ray of GAIL",
         "decimal": "78",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "MO Disk 1",
         "decimal": "5D",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "MO Disk 2",
         "decimal": "5E",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "MO Disk 3",
         "decimal": "5F",
         "count": 1,
-        "progression": 1
+        "progression": 0
     },    
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Wooden Mount",
         "decimal":"something",
         "count":1,
-        "progression": 1
+        "progression": 0
     },
     {
-        "type": "Gating",
+        "type": "Consumable",
         "name": "Lure Without Hook",
         "decimal":"something",
         "count":1,
-        "progression": 1
+        "progression": 0
     },
     {
         "type": "Gating",
