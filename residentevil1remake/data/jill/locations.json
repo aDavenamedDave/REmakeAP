@@ -20,7 +20,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item": {},
-        "force_item": "Lock Pick"
+        "randomized": 0
     },
     {
         "name": "Dining Table",
@@ -62,7 +62,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item": [],
-        "force_item": ["Emblem"]
+        "randomized": 0
     },
     {
         "name": "By Bird Cage",
@@ -387,10 +387,8 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key to Room 001", "Key to Room 003"
-        ],
-        "force_item":"Assault Shotgun"
+        "forbid_item":[],
+        "randomized": 0
     
     },
     {
@@ -404,7 +402,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Acid Rounds"
+        "randomized": 0
     },
     {
         "name": "Right Herb by Wheelbarrow",
@@ -521,7 +519,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "randomized": 0
     },
     {
         "name": "Far end of Table",
@@ -534,7 +532,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "randomized": 0
     },
     {
         "name": "Gun Rest",
@@ -547,7 +545,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Shotgun"
+        "randomized": 0
     },
     {
         "name": "Desk Drawer",
@@ -774,7 +772,7 @@
         "name": "Oh my God, You Killed Barry!"
         "region": "Jessica's Tomb",
         "original_item": "Barry's 44 Magnum",
-        "force_item": "Barry's 44 Magnum"
+        "randomized": 0
     },
     {
         "name": "On Table",
@@ -917,7 +915,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Bee Specimen"
+        "randomized": 0
     },
     {
         "name": "Insect Display",
@@ -930,7 +928,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Lure Without Hook"
+        "randomized": 0
     },
     {
         "name": "Secret behind Display",
@@ -1034,7 +1032,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Armor Key"
+        "randomized": 0
     },
     {
         "name": "By window (Left)",
@@ -1086,7 +1084,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Collar - Imitation of a Key"
+        "randomized": 0
     },
     {
         "name": "Below Deer Mount",
@@ -1541,7 +1539,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Shaft"
+        "randomized": 0
     },
     {
         "name": "Enrico",
@@ -1645,7 +1643,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Broken Flamethrower"
+        "randomized": 0
     },
     {
         "name": "Left Herb on Floor",
@@ -1715,7 +1713,7 @@
     {
         "name": "Lisa's Desk",
         "region": "Lisa's Room",
-        "original_item": "Stone Ring",
+        "original_item": "Jewelry Box - Stone Ring",
         "condition":{
             "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
         },
@@ -1957,7 +1955,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Insecticide"
+        "randomized": 0
     },
     {
         "name": "Desk Under Hive",
@@ -2125,7 +2123,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2138,7 +2136,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2151,7 +2149,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2164,7 +2162,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2177,7 +2175,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2190,7 +2188,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2203,7 +2201,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2216,7 +2214,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2229,7 +2227,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2243,7 +2241,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":["Stone and Metal Object", "MO Disk 1", "MO Disk 2", "MO Disk 3"],
-        "force_item":"Shotgun Shells"
+        "randomized": 0
     },
     {
         "name": "Box by Lightswitch",
@@ -2255,7 +2253,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2268,7 +2266,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2281,7 +2279,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2294,7 +2292,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2307,7 +2305,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2320,7 +2318,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2333,7 +2331,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2346,7 +2344,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2359,7 +2357,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2372,7 +2370,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2385,7 +2383,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2398,7 +2396,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2411,7 +2409,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2424,7 +2422,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
     {
@@ -2437,10 +2435,20 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
+        "forbid_item": [],
         "force_item":""
     },
-
+    {
+         "name": "Floor by Elevator",
+        "region": "Path to Heliport",
+        "original_item": "Fuse Unit",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "randomized": 0
+    },
     {
         "name": "Victory",
         "region": "Heliport",
