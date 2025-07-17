@@ -4,21 +4,21 @@ from Options import (Choice, OptionList, NamedRange,
     PerGameCommonOptions, DeathLinkMixin)
 
 class Character(Choice):
-    """Chris: Punches boulders, pretty solid choice.
-    Jill: Might actually be a sandwich, but also a solid choice."""
+    """Chris: Pre boulder punching days. Dropped his gun in the forest.
+    Jill: Might actually be a sandwich, also the master of unlocking."""
     display_name = "Character to Play"
     option_chris = 0
     option_jill = 1
     default = 0
 
 class Difficulty(Choice):
-    """Normal: idk, normal?
-    Easy: Easier than Normal?
-    Very Easy: Easier than Easy?"""
+    """Normal: First time playing should pick Mountain climbing
+       Hard: Not unlocked at start
+       Easy/Very Easy: currently not randomized; You can pick Normal here, but some items will not be randomized
+       Real Survival: If Hard isn't hard enough for you; has same item list as hard so pick hard"""
     display_name = "Difficulty to Play On"
     option_normal = 0
-    option_easy = 1
-    option_very_easy = 2
+    option_hard = 1
     default = 0
 
 class BonusStart(Choice):
