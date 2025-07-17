@@ -27,7 +27,6 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "randomized": 0
     },
     {
         "name": "Behind Clock",
@@ -39,7 +38,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item": ["Emblem" , "Gold Emblem"]
+        "forbid_item": ["Emblem"]
     },
     {
         "name": "Above Fireplace",
@@ -272,7 +271,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "force_item":"Gold Emblem"
     },
     {
         "name": "End of Blocked off Hallway",
@@ -504,7 +503,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "force_item":"Ink Ribbon"
     },
     {
         "name": "Far end of Table",
@@ -517,7 +516,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "force_item":"Dagger"
     },
     {
         "name": "Gun Rest",
@@ -1076,7 +1075,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "force_item":"Collar - Imitation of a Key"
     },
     {
         "name": "Below Deer Mount",
@@ -1648,7 +1647,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "force_item":"Cylinder"
     },
     {
         "name": "Garbage Compactor",
@@ -1731,7 +1730,7 @@
     {
         "name": "Lisa's Desk",
         "region": "Lisa's Room",
-        "original_item": "Stone Ring",
+        "original_item": "Jewelry Box - Stone Ring",
         "condition":{
             "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
         },
@@ -2153,7 +2152,7 @@
         "region": "Item Box Room",
         "original_item": "Ink Ribbon",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2166,7 +2165,7 @@
         "region": "Lab Stairway",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2179,7 +2178,7 @@
         "region": "Lab Stairway",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2192,7 +2191,7 @@
         "region": "Lab Stairway",
         "original_item": "MO Disk 2",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2205,7 +2204,7 @@
         "region": "'O' Room",
         "original_item": "Dagger",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2218,7 +2217,7 @@
         "region": "Operating Room",
         "original_item": "Magnum Rounds",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2231,7 +2230,7 @@
         "region": "Operating Room",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2244,7 +2243,7 @@
         "region": "Operating Room",
         "original_item": "First Aid Box - Green Herb",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2257,7 +2256,7 @@
         "region": "Pass Code Corridor",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2270,7 +2269,7 @@
         "region": "Cell",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", "MO Disk 1", "MO Disk 2", "MO Disk 3"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", "MO Disk 1", "MO Disk 2", "MO Disk 3"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2283,7 +2282,7 @@
         "region": "X-ray Room A",
         "original_item": "X-ray of CLARK",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2296,7 +2295,7 @@
         "region": "X-ray Room A",
         "original_item": "X-ray of GAIL",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2309,7 +2308,7 @@
         "region": "X-ray Room B",
         "original_item": "Slide Filter",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2322,7 +2321,7 @@
         "region": "X-ray Room B",
         "original_item": "Incendiary Shells",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2335,7 +2334,7 @@
         "region": "Visual Data Room",
         "original_item": "First Aid Spray",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2348,7 +2347,7 @@
         "region": "Visual Data Room",
         "original_item": "MO Disk 3",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2361,7 +2360,7 @@
         "region": "Visual Data Room",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2374,7 +2373,7 @@
         "region": "Visual Data Room",
         "original_item": "Power Room Key",
         "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2387,7 +2386,7 @@
         "region": "Morgue",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2400,7 +2399,7 @@
         "region": "Morgue",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object","Power Room Key", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object","Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2413,7 +2412,7 @@
         "region": "Lab Lounge",
         "original_item": "Ink Ribbon",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2426,7 +2425,7 @@
         "region": "Lab Lounge",
         "original_item": "First Aid Spray",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2439,7 +2438,7 @@
         "region": "Lab Lounge",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2452,7 +2451,7 @@
         "region": "Power Maze A",
         "original_item": "Fuel Supply Capsule (Empty)",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2465,7 +2464,7 @@
         "region": "Power Maze B",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
