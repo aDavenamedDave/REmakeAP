@@ -30,7 +30,7 @@
         "from": "Tea Room",
         "to": "Kitchen",
         "condition": {
-            "items": ["Sword Key"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -79,15 +79,15 @@
         "limitation": "ONE_SIDED_DOOR"
     },
     { 
-        "from": "Dining Room 2F",
-        "to": "Main Hall",
+        "from": "Main Hall",
+        "to": "Dining Room 2F",
         "condition": {}
     },
     { 
         "from": "Dining Room 2F",
         "to": "West Wing Inner Stairway",
         "condition": {
-            "items": ["Sword Key"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -123,7 +123,7 @@
         "from": "Main Hall",
         "to": "'C' Corridor",
         "condition": {
-            "items": ["Sword Key"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -197,7 +197,7 @@
         "from": "Art Room",
         "to": "'L' Corridor",
         "condition": {
-            "items": ["Sword Key"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -236,7 +236,7 @@
         "from": "Dark Corridor",
         "to": "Courtyard Study",
         "condition":{
-            "items": ["Emblem Key"]
+            "items": ["Emblem Key", "Red Gemstone"]
         }
     },
     {
@@ -347,8 +347,7 @@
     {
         "from": "Sliding Trap Room",
         "to": "Secret Passage",
-        "condition":{},
-        "limitation": "ONE_SIDED_DOOR"
+        "condition":{}
     },
     {
         "from": "Secret Passage",
@@ -363,8 +362,7 @@
     {
         "from": "Concrete Passage 2",
         "to": "Kitchen",
-        "condition":{},
-        "limitation":"ONE_SIDED_DOOR"
+        "condition":{}
     },
     {
         "from": "Kitchen",
@@ -476,9 +474,7 @@
     {
         "from": "Spider Room",
         "to": "Straight Passage",
-        "condition":{
-            "items": ["Survival Knife"]
-        }
+        "condition":{}
     },
     {
         "from": "Straight Passage",
@@ -636,6 +632,7 @@
         "to": "Gallery",
         "condition":{},
         "limitation":"ONE_SIDED_DOOR"
+        
     },
     {
         "from": "Stairway Passage",
@@ -707,7 +704,7 @@
         "from": "Pass Code Corridor",
         "to": "Cell Entrance",
         "condition":{
-            "items": ["MO Disk", "MO Disk", "MO Disk"]
+            "items": ["MO Disk 1", "MO Disk 2", "MO Disk 3"]
         }
     },
     {
@@ -760,8 +757,6 @@
     {
         "from": "Passage to Heliport",
         "to": "Heliport",
-        "condition":{
-            "items": ["Fuse Unit"]
-        }
+        "condition":{}
     }
 ]
