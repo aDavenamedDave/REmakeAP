@@ -289,7 +289,7 @@
         "region": "'L' Corridor",
         "original_item": "Dagger",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -302,7 +302,7 @@
         "region": "'L' Corridor",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -315,7 +315,7 @@
         "region": "Bathroom",
         "original_item": "Old Key",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -328,7 +328,7 @@
         "region": "Outside Boiler",
         "original_item": "Herbicide",
         "condition": {
-            "items":["Sword Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -341,7 +341,7 @@
         "region": "Outside Boiler",
         "original_item": "Red Herb",
         "condition": {
-            "items":["Sword Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -354,7 +354,7 @@
         "region": "Outside Boiler",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -367,7 +367,7 @@
         "region": "Outside Boiler",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -380,7 +380,7 @@
         "region": "Large Gallery",
         "original_item": "Mask Without Mouth",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -393,7 +393,7 @@
         "region": "Courtyard Study",
         "original_item": "Flash Grenade",
         "condition": {
-            "items":["Emblem Key", "Sword Key"]
+            "items":["Emblem Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -406,7 +406,7 @@
         "region": "Courtyard Study",
         "original_item": "Metal Object",
         "condition": {
-            "items":["Emblem Key", "Sword Key"]
+            "items":["Emblem Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -419,7 +419,7 @@
         "region": "Courtyard Study",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Emblem Key", "Sword Key"]
+            "items":["Emblem Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -432,7 +432,7 @@
         "region": "East Wing Storeroom",
         "original_item": "Fuel Canteen",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -445,7 +445,7 @@
         "region": "East Wing Storeroom",
         "original_item": "Old Key",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -458,7 +458,7 @@
         "region": "East Wing Storeroom",
         "original_item": "First Aid Spray",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -471,7 +471,7 @@
         "region": "East Wing Storeroom",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -484,7 +484,7 @@
         "region": "East Wing Storeroom",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -497,7 +497,7 @@
         "region": "Living Room",
         "original_item": "Ink Ribbon",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -510,7 +510,7 @@
         "region": "Living Room",
         "original_item": "Dagger",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -523,7 +523,7 @@
         "region": "Living Room",
         "original_item": "Shotgun",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -601,7 +601,7 @@
         "region": "Secret Passage",
         "original_item": "Last Book Volume 1 - Medal of Eagle",
         "condition": {
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -614,7 +614,7 @@
         "region": "Garden Shed",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Sword Key", "Stone and Metal Object"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -653,7 +653,7 @@
         "region": "Garden Shed",
         "original_item": "Flash Grenade",
         "condition": {
-            "items":["Sword Key", "Stone and Metal Object", "Unprinted Book", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -666,7 +666,7 @@
         "region": "Garden Shed",
         "original_item": "First Aid Spray",
         "condition": {
-            "items":["Sword Key", "Stone and Metal Object", "Unprinted Book", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -679,7 +679,7 @@
         "region": "Garden Shed",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Sword Key", "Stone and Metal Object", "Unprinted Book", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -692,7 +692,7 @@
         "region": "'C' Corridor",
         "original_item": "Wooden Mount",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -705,7 +705,7 @@
         "region": "Armor Room",
         "original_item": "Mask Without All",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -718,7 +718,7 @@
         "region": "Pillar Room",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -731,7 +731,7 @@
         "region": "Pillar Room",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -744,7 +744,7 @@
         "region": "Attic",
         "original_item": "Mask Without Nose",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Shield Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Shield Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -757,7 +757,7 @@
         "region": "Attic",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Shield Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Shield Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -770,7 +770,7 @@
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -783,7 +783,7 @@
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Lighter"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -796,7 +796,7 @@
         "region": "Small Dining Room",
         "original_item": "Missing Music",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Lighter"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -809,7 +809,7 @@
         "region": "Small Library",
         "original_item": "Dog Whistle",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },   
         "item_object": "",
         "parent_object": "",
@@ -822,7 +822,7 @@
         "region": "Small Library",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -835,7 +835,7 @@
         "region": "Deer Room",
         "original_item": "Red Herb",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -848,7 +848,7 @@
         "region": "Bedroom",
         "original_item": "First Aid Box - First Aid Spray",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -861,7 +861,7 @@
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -874,7 +874,7 @@
         "region": "Bedroom",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -887,7 +887,7 @@
         "region": "Fish Tank Room",
         "original_item": "Fishhook",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -900,7 +900,7 @@
         "region": "Fish Tank Room",
         "original_item": "Bee Specimen",
         "condition": {
-            "items":["Sword Key", "Armor Key","Old Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key","Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -913,7 +913,7 @@
         "region": "Fish Tank Room",
         "original_item": "Lure Without Hook",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Old Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Old Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -926,7 +926,7 @@
         "region": "Fish Tank Room",
         "original_item": "Wind Crest",
         "condition": {
-            "items":["Sword Key", "Armor Key", "Old Key", "Lure Without Hook", "Bee Specimen", "Fishhook"]
+            "items":["Book of Curses - Sword Key", "Armor Key", "Old Key", "Lure Without Hook", "Bee Specimen", "Fishhook"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -939,7 +939,7 @@
         "region": "Resting Room",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -952,7 +952,7 @@
         "region": "Sliding Trap Room",
         "original_item": "Dagger",
         "condition": {
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1069,20 +1069,20 @@
         "region": "Outside Balcony",
         "original_item": "Collar - Imitation of a Key",
         "condition": {
-            "items":["Sword Key", "Old Key", "Dog Whistle"]
+            "items":["Book of Curses - Sword Key", "Old Key", "Dog Whistle"]
         },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Collar - Imitation of a Key"
+        "randomized": 0
     },
     {
         "name": "Below Deer Mount",
         "region": "Trophy Room",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1095,7 +1095,7 @@
         "region": "Trophy Room",
         "original_item": "Red Gemstone",
         "condition": {
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1108,7 +1108,7 @@
         "region": "Trophy Room",
         "original_item": "Yellow Gemstone",
         "condition": {
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1121,7 +1121,7 @@
         "region": "Trophy Room",
         "original_item": "Dagger",
         "condition": {
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1134,7 +1134,7 @@
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1147,7 +1147,7 @@
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1160,7 +1160,7 @@
         "region": "Elevator Corridor",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Helmet Key", "Sword Key"]
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1186,7 +1186,7 @@
         "region": "Attic Entry",
         "original_item": "Flash Grenade",
         "condition": {
-            "items":["Sword Key", "Armor Key"]
+            "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1316,7 +1316,7 @@
         "region": "Kitchen",
         "original_item": "Dagger",
         "condition":{
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1329,7 +1329,7 @@
         "region": "Kitchen",
         "original_item": "Old Key",
         "condition":{
-            "items":["Sword Key"]
+            "items":["Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1342,7 +1342,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1355,7 +1355,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1368,7 +1368,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Dagger",
         "condition":{
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1381,7 +1381,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1394,7 +1394,7 @@
         "region": "Concrete Passage 1",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Sword Key", "Helmet Key"]
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1407,7 +1407,7 @@
         "region": "Zigzag Path",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Stone and Metal Object", "Square Crank", "Sword Key"]
+            "items":["Stone and Metal Object", "Square Crank", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1459,7 +1459,7 @@
         "region": "Small Headstone Area",
         "original_item": "Magnum Revolver",
         "condition":{
-            "items":["Sun Crest", "Moon Crest", "Star Crest", "Stone and Metal Object", "Sword Key"]
+            "items":["Sun Crest", "Moon Crest", "Star Crest", "Stone and Metal Object", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1472,7 +1472,7 @@
         "region": "Cabin",
         "original_item": "Square Crank",
         "condition":{
-            "items":["Stone and Metal Object", "Sword Key"]
+            "items":["Stone and Metal Object", "Book of Curses - Sword Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1485,7 +1485,7 @@
         "region": "Mining Area",
         "original_item": "Ink Ribbon",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1498,7 +1498,7 @@
         "region": "Mining Area",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1511,7 +1511,7 @@
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1524,7 +1524,7 @@
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1537,7 +1537,7 @@
         "region": "Generator Room",
         "original_item": "Shaft",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1550,7 +1550,7 @@
         "region": "Enrico Room",
         "original_item": "Hexagon Crank",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1563,7 +1563,7 @@
         "region": "Boulder Passage 1",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1576,7 +1576,7 @@
         "region": "Boulder Passage 1",
         "original_item": "Flamethrower",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1589,7 +1589,7 @@
         "region": "Spider Room",
         "original_item": "Survival Knife",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1602,7 +1602,7 @@
         "region": "Straight Passage",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1615,7 +1615,7 @@
         "region": "Straight Passage",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1628,7 +1628,7 @@
         "region": "Boulder Passage 2",
         "original_item": "First Aid Box - First Aid Spray",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1641,7 +1641,7 @@
         "region": "Underground Statue Room",
         "original_item": "Cylinder",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1654,7 +1654,7 @@
         "region": "Garbage Compactor Room",
         "original_item": "Broken Flamethrower",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1667,7 +1667,7 @@
         "region": "Winding Underground Passage",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1680,7 +1680,7 @@
         "region": "Winding Underground Passage",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1693,7 +1693,7 @@
         "region": "Underground Storage Room",
         "original_item": "Magnum Rounds",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1706,7 +1706,7 @@
         "region": "Underground Storage Room",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1719,7 +1719,7 @@
         "region": "Underground Storage Room",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1732,7 +1732,7 @@
         "region": "Lisa's Room",
         "original_item": "Jewelry Box - Stone Ring",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1745,7 +1745,7 @@
         "region": "Lisa's Room",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1758,7 +1758,7 @@
         "region": "Lisa's Room",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1771,7 +1771,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1784,7 +1784,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1797,7 +1797,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1810,7 +1810,7 @@
         "region": "Residence Storeroom",
         "original_item": "Ink Ribbon",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1823,7 +1823,7 @@
         "region": "Residence Storeroom",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1836,7 +1836,7 @@
         "region": "Room 001",
         "original_item": "Self-Defense Gun",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Key to Room 001"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1849,7 +1849,7 @@
         "region": "Room 001",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Key to Room 001"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1862,7 +1862,7 @@
         "region": "Room 001 Bathroom",
         "original_item": "Control Room Key",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Key to Room 001"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1875,7 +1875,7 @@
         "region": "Rec Room",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1888,7 +1888,7 @@
         "region": "Rec Room",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1899,9 +1899,9 @@
     {
         "name": "Bar Downstairs 1",
         "region": "Rec Room",
-        "original_item": "Unprinted Book",
+        "original_item": "Red Book - Unprinted Book",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1914,7 +1914,7 @@
         "region": "Rec Room",
         "original_item": "First Aid Box - Mixed Herbs (G+B)",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1927,7 +1927,7 @@
         "region": "Rec Room",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1940,7 +1940,7 @@
         "region": "Room 002 Bathroom",
         "original_item": "Key for Room 001",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1953,7 +1953,7 @@
         "region": "Gallery",
         "original_item": "Handgun Magazine",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1966,7 +1966,7 @@
         "region": "Gallery",
         "original_item": "Insecticide",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1979,7 +1979,7 @@
         "region": "Gallery",
         "original_item": "Key for Room 003",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Insecticide"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Insecticide"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1992,7 +1992,7 @@
         "region": "Gallery",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2005,7 +2005,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2019,7 +2019,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2033,7 +2033,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2047,7 +2047,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2061,7 +2061,7 @@
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Unprinted Book", "Key to Room 003"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Red Book - Unprinted Book", "Key for Room 003"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2074,7 +2074,7 @@
         "region": "Aqua Ring Entry",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2087,7 +2087,7 @@
         "region": "Control Room",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2100,7 +2100,7 @@
         "region": "Aqua Room Storage",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2113,7 +2113,7 @@
         "region": "Aqua Ring Water Tank",
         "original_item": "Gallery Key",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2126,7 +2126,7 @@
         "region": "Aqua Ring Water Tank",
         "original_item": "Assault Shotgun",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2139,7 +2139,7 @@
         "region": "Aqua Ring Exit",
         "original_item": "Magnum Rounds",
         "condition":{
-            "items":["Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2371,7 +2371,7 @@
     {
         "name": "Secret Editing Room",
         "region": "Visual Data Room",
-        "original_item": "Power Room Key",
+        "original_item": "Key for the Power Room",
         "condition":{
             "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
@@ -2386,7 +2386,7 @@
         "region": "Morgue",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2399,7 +2399,7 @@
         "region": "Morgue",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object","Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object","Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2412,7 +2412,7 @@
         "region": "Lab Lounge",
         "original_item": "Ink Ribbon",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2425,7 +2425,7 @@
         "region": "Lab Lounge",
         "original_item": "First Aid Spray",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2438,7 +2438,7 @@
         "region": "Lab Lounge",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2451,7 +2451,7 @@
         "region": "Power Maze A",
         "original_item": "Fuel Supply Capsule (Empty)",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2464,7 +2464,7 @@
         "region": "Power Maze B",
         "original_item": "Flash Grenade",
         "condition":{
-            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+            "items":["Stone and Metal Object", "Key for the Power Room", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2477,8 +2477,8 @@
         "name": "Victory",
         "region": "Heliport",
         "condition": {
-            "items": ["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-                        "Emblem Key", "Emblem", "Gold Emblem", "Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key to Room 001", "Key to Room 003"]
+            "items": ["Stone and Metal Object", "Key for the Power Room", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
+                        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
         },
         "item_object": "",
         "parent_object": "",
