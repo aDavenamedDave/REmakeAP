@@ -79,8 +79,8 @@
         "limitation": "ONE_SIDED_DOOR"
     },
     { 
-        "from": "Dining Room 2F",
-        "to": "Main Hall",
+        "from": "Main Hall",
+        "to": "Dining Room 2F",
         "condition": {}
     },
     { 
@@ -123,14 +123,7 @@
         "from": "Main Hall",
         "to": "'C' Corridor",
         "condition": {
-            "items": ["Sword Key"]
-        }
-    },
-    { 
-        "from": "Main Hall",
-        "to": "Stairway Passage",
-        "condition": {
-            "items": ["Stone and Metal Object", "Jewelry Box - Stone Ring", "Metal Object"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -197,7 +190,7 @@
         "from": "Art Room",
         "to": "'L' Corridor",
         "condition": {
-            "items": ["Sword Key"]
+            "items": ["Book of Curses - Sword Key"]
         }
     },
     { 
@@ -348,7 +341,6 @@
         "from": "Sliding Trap Room",
         "to": "Secret Passage",
         "condition":{},
-        "limitation": "ONE_SIDED_DOOR"
     },
     {
         "from": "Secret Passage",
@@ -364,7 +356,6 @@
         "from": "Concrete Passage 2",
         "to": "Kitchen",
         "condition":{},
-        "limitation":"ONE_SIDED_DOOR"
     },
     {
         "from": "Kitchen",
@@ -637,6 +628,13 @@
         "condition":{},
         "limitation":"ONE_SIDED_DOOR"
     },
+    { 
+        "from": "Main Hall",
+        "to": "Stairway Passage",
+        "condition": {
+            "items": ["Stone and Metal Object", "Jewelry Box - Stone Ring", "Metal Object"]
+        }
+    },
     {
         "from": "Stairway Passage",
         "to": "Jessica's Tomb",
@@ -683,14 +681,14 @@
         "from": "'O' Room",
         "to": "Elevator Entry",
         "condition":{
-            "items": ["Key for the Power Area"]
+            "items": ["Power Room Key"]
         }
     },
     {
         "from": "'O' Room",
         "to": "Morgue",
         "condition":{
-            "items": ["Key for the Power Area"]
+            "items": ["Power Room Key"]
         }
     },
     {
