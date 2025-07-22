@@ -1,0 +1,2469 @@
+[
+    {
+        "name": "Desk Opposite East Door",  
+        "region": "Small Library",
+        "original_item": "Lighter",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": {}
+    },
+    {
+        "name": "Barry",  
+        "region": "Main Hall",
+        "original_item": "Lock Pick",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": {},
+        "randomized": 0
+    },
+    {
+        "name": "Dining Table",
+        "region": "Dining Room",
+        "original_item": "Ink Ribbon",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Destroyed Statue",
+        "region": "Dining Room",
+        "original_item": "Blue Gemstone",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+        
+    },
+    {
+        "name": "Behind Clock",
+        "region": "Dining Room",
+        "original_item": "Shield Key",
+        "condition": {
+            "items" :[ "Gold Emblem"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+        
+    },
+    {
+        "name": "Above Fireplace",
+        "region": "Dining Room",
+        "original_item": "Emblem",
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "randomized": 0
+    },
+    {
+        "name": "By Bird Cage",
+        "region": "West Wing Outer Stairway",
+        "original_item": "Handgun Magazine",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Left Herb by Chairs",
+        "region": "West Wing Outer Stairway",
+        "original_item": "Green Herb",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Right Herb by Chairs",
+        "region": "West Wing Outer Stairway",
+        "original_item": "Green Herb",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Cabinet next to Entrance",
+        "region": "Small Storeroom",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items" : ["Book of Curses - Sword Key", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Desk Drawer",
+        "region": "Small Storeroom",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items": [ "Book of Curses - Sword Key", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+    {
+        "name": "Gun Case",
+        "region": "Small Storeroom",
+        "original_item": "Broken Shotgun",
+        "condition": {
+            "items" :[ "Book of Curses - Sword Key", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "Cabinet near Western Entrance",
+        "region": "Northern Corridor",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items":["Armor Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+    {
+        "name": "Floor Inside Wardrobe",
+        "region": "Researcher's Bedroom",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items":["Armor Key", "Book of Curses - Sword Key" ]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Bed",
+        "region": "Researcher's Bedroom",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":["Armor Key"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Side",
+        "region": "Tiger Statue Room",
+        "original_item": "MO Disk 1",
+        "condition": {
+            "items":["Armor Key", "Yellow Gemstone", "Book of Curses - Sword Key"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Side",
+        "region": "Tiger Statue Room",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":["Armor Key", "Blue Gemstone", "Book of Curses - Sword Key"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Against Wall 5",
+        "region": "Greenhouse",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Green Herb"
+    },
+    {
+        "name": "Against Wall 1",
+        "region": "Greenhouse",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Green Herb"
+    },
+    {
+        "name": "Against Wall 2",
+        "region": "Greenhouse",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Green Herb"
+    },
+    {
+        "name": "Against Wall 3",
+        "region": "Greenhouse",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Green Herb"
+    },
+    {
+        "name": "Against Wall 4",
+        "region": "Greenhouse",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Green Herb"
+    },
+    {
+        "name": "Past Fountain Roots",
+        "region": "Greenhouse",
+        "original_item": "Mask Without Eyes",
+        "condition": {
+            "items":["Armor Key", "Herbicide"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bookshelf Behind Cabinet",
+        "region": "Bar",
+        "original_item": "Missing Music",
+        "condition": {
+            "items":["Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Hidden Hallway",
+        "region": "Bar",
+        "original_item": "Gold Emblem",
+        "condition": {
+            "items":["Emblem","Armor Key", "Missing Music"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Gold Emblem"
+    },
+    {
+        "name": "End of Blocked off Hallway",
+        "region": "Art Room",
+        "original_item": "Dagger",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Under 1st Cabinet",
+        "region": "'L' Corridor",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Under 2nd Cabinet",
+        "region": "'L' Corridor",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Drained Bathtub",
+        "region": "Bathroom",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Herbicide",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Lock Pick" ]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Red Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key" , "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Herb by Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key" , "Lock Pick"]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        
+        "name": "Richard Gets Eaten",
+        "region": "Attic",
+        "original_item": "Assault Shotgun",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    
+    },
+    {
+        "name": "Barry Again",
+        "region": "Main Hall",
+        "original_item": "Acid Rounds",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Right Herb by Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Lock Pick" ]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Ground Outside",
+        "region": "Large Gallery",
+        "original_item": "Mask Without Mouth",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "West Wall Bookcase 1",
+        "region": "Courtyard Study",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "West Wall Bookcase 2",
+        "region": "Courtyard Study",
+        "original_item": "Metal Object",
+        "condition": {
+            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Study Desk Drawer",
+        "region": "Courtyard Study",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Item Box",
+        "region": "East Wing Storeroom",
+        "original_item": "Fuel Canteen",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor Resupply One",
+        "region": "East Wing Storeroom",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor Resupply Two",
+        "region": "East Wing Storeroom",
+        "original_item": "Incendiary Rounds",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Near End of Table",
+        "region": "Living Room",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Far end of Table",
+        "region": "Living Room",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Gun Rest",
+        "region": "Living Room",
+        "original_item": "Shotgun",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Desk Drawer",
+        "region": "Large Art Room",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items":["Helmet Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Mirror",
+        "region": "Mirror Room",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Helmet Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Cabinet",
+        "region": "Mirror Room",
+        "original_item": "Emblem Key",
+        "condition": {
+            "items":["Helmet Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Southern Wall",
+        "region": "Mirror Room",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Helmet Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "End of Graveyard",
+        "region": "Graveyard",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Gravestone",
+        "region": "Secret Passage",
+        "original_item": "Last Book Volume 1 - Medal of Eagle",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Door",
+        "region": "Garden Shed",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf Near Top of Stairs",
+        "region": "Garden Shed",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf Near Stairs",
+        "region": "Garden Shed",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shed Floor Resupply One",
+        "region": "Garden Shed",
+        "original_item": "Battery Pack",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shed Floor Resupply Two",
+        "region": "Garden Shed",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shed Floor Resupply Three",
+        "region": "Garden Shed",
+        "original_item": "Grenade Rounds",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "Green Herb by Fountain",
+        "region": "Main Garden",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "Blue Herb by Fountain",
+        "region": "Main Garden",
+        "original_item": "Blue Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Counter by Door",
+        "region": "'C' Corridor",
+        "original_item": "Wooden Mount",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Armor Puzzle",
+        "region": "Armor Room",
+        "original_item": "Mask Without All",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Herb by Pillar",
+        "region": "Pillar Room",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Herb by Pillar",
+        "region": "Pillar Room",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Boxes in Corner",
+        "region": "Attic",
+        "original_item": "Mask Without Nose",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Shield Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Oh my God, You Killed Barry!",
+        "region": "Jessica's Tomb",
+        "original_item": "Barry's 44 Magnum",
+         "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Table",
+        "region": "Small Dining Room",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Cabinet in Corner",
+        "region": "Small Dining Room",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Behind Bookcase",
+        "region": "Small Dining Room",
+        "original_item": "Music, Mid-Pages",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "South Entrance Desk",
+        "region": "Small Library",
+        "original_item": "Dog Whistle",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Desk by Chessboard",
+        "region": "Small Library",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Entrance Across from Mount",
+        "region": "Deer Room",
+        "original_item": "Red Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Chair by Desk",
+        "region": "Bedroom",
+        "original_item": "First Aid Box - First Aid Spray",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Dresser",
+        "region": "Bedroom",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Corner of Room",
+        "region": "Bedroom",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Hook Display",
+        "region": "Fish Tank Room",
+        "original_item": "Fishhook",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Lure Display",
+        "region": "Fish Tank Room",
+        "original_item": "Bee Specimen",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Insect Display",
+        "region": "Fish Tank Room",
+        "original_item": "Lure Without Hook",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick" ]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Secret behind Display",
+        "region": "Fish Tank Room",
+        "original_item": "Wind Crest",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Armor Key",  "Lure Without Hook", "Bee Specimen", "Fishhook", "Lock Pick"]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Window and Door",
+        "region": "Resting Room",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Cabinet by Hole",
+        "region": "Sliding Trap Room",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Door to Mirror Corridor",
+        "region": "Dining Room 2F",
+        "original_item": "Dagger",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Crimson Head",
+        "region": "Mirror Corridor",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "In Statue",
+        "region": "Mirror Corridor",
+        "original_item": "Golden Arrow - Arrowhead",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Mirror at End of Corridor",
+        "region": "Mirror Corridor",
+        "original_item": "Handgun Magazine",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Trap in Passage",
+        "region": "Death Passage",
+        "original_item": "Armor Key",
+        "condition": {
+            "items":["Book of Curses - Sword Key", "Collar - Imitation of a Key", "Dog Whistle"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item": "Armor Key"
+    },
+    {
+        "name": "By Window (Left)",
+        "region": "Library",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Window (Right)",
+        "region": "Library",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Glass Case",
+        "region": "Library",
+        "original_item": "Last Book Volume 2 - Medal of Wolf",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Dog",
+        "region": "Outside Balcony",
+        "original_item": "Collar - Imitation of a Key",
+        "condition": {
+            "items":["Book of Curses - Sword Key",  "Dog Whistle", "Lock Pick"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Below Deer Mount",
+        "region": "Trophy Room",
+        "original_item": "Grenade Rounds",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Deer Mount",
+        "region": "Trophy Room",
+        "original_item": "Red Gemstone",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bull Mount",
+        "region": "Trophy Room",
+        "original_item": "Yellow Gemstone",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "North West Cabinet",
+        "region": "Trophy Room",
+        "original_item": "Dagger",
+        "condition": {
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left in Alcove",
+        "region": "Elevator Corridor",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right in Alcove",
+        "region": "Elevator Corridor",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Also in Alcove",
+        "region": "Elevator Corridor",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":["Helmet Key", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Door 1",
+        "region": "Materials Room",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf",
+        "region": "Materials Room",
+        "original_item": "Battery",
+        "condition":{
+            "items":["Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor further from Door",
+        "region": "Materials Room",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Door 2",
+        "region": "Materials Room",
+        "original_item": "Acid Rounds",
+        "condition":{
+            "items":["Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Pedestal",
+        "region": "Crypt",
+        "original_item": "Book of Curses - Sword Key",
+        "condition":{
+            "items":["Golden Arrow - Arrowhead"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "In Coffin",
+        "region": "Crypt",
+        "original_item": "Stone and Metal Object",
+        "condition":{
+            "items":["Mask Without Nose","Mask Without Eyes", "Mask Without Mouth", "Mask Without All", "Golden Arrow - Arrowhead"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Beside Fallen Coffin",
+        "region": "Crypt",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Mask Without All","Mask Without Eyes","Mask Without Mouth","Mask Without Nose","Golden Arrow - Arrowhead"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bench",
+        "region": "Outside Patio",
+        "original_item": "Dagger",
+        "condition":{
+            "items":["Armor Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Forest's Corpse",
+        "region": "Outside Patio",
+        "original_item": "Grenade Launcher",
+        "condition":{
+            "items":["Armor Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Herb at end of Patio",
+        "region": "Outside Patio",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Armor Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Herb at end of Patio",
+        "region": "Outside Patio",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Armor Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Table",
+        "region": "Kitchen",
+        "original_item": "Dagger",
+        "condition":{
+            "items":["Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Red Floor Herb",
+        "region": "Concrete Passage 2",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Blue Floor Herb",
+        "region": "Concrete Passage 2",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Fence",
+        "region": "Concrete Passage 2",
+        "original_item": "Dagger",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Boxes by West Door",
+        "region": "Concrete Passage 2",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Dead End",
+        "region": "Concrete Passage 1",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Helmet Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Gate",
+        "region": "Zigzag Path",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":["Stone and Metal Object", "Square Crank", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Crest",
+        "region": "Small Headstone Area",
+        "original_item": "Sun Crest",
+        "condition":{
+            "items":["Stone and Metal Object", "Wind Crest", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Middle Crest",
+        "region": "Small Headstone Area",
+        "original_item": "Moon Crest",
+        "condition":{
+            "items":["Stone and Metal Object", "Wind Crest", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Crest",
+        "region": "Small Headstone Area",
+        "original_item": "Star Crest",
+        "condition":{
+            "items":["Stone and Metal Object", "Wind Crest", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Gravestone",
+        "region": "Small Headstone Area",
+        "original_item": "Magnum Revolver",
+        "condition":{
+            "items":["Sun Crest", "Moon Crest", "Star Crest", "Stone and Metal Object", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Wood Plank",
+        "region": "Cabin",
+        "original_item": "Square Crank",
+        "condition":{
+            "items":["Stone and Metal Object", "Book of Curses - Sword Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Typewriter",
+        "region": "Mining Area",
+        "original_item": "Ink Ribbon",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "End of Passageway",
+        "region": "Mining Area",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Elevator",
+        "region": "Generator Room",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Door to Enrico Room",
+        "region": "Generator Room",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Power to Elevator",
+        "region": "Generator Room",
+        "original_item": "Shaft",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Enrico",
+        "region": "Enrico Room",
+        "original_item": "Hexagon Crank",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf Past Boulder",
+        "region": "Boulder Passage 1",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Barrel",
+        "region": "Spider Room",
+        "original_item": "Survival Knife",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Herb by Map",
+        "region": "Straight Passage",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Herb by Map",
+        "region": "Straight Passage",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf past 2nd Boulder",
+        "region": "Boulder Passage 2",
+        "original_item": "First Aid Box - First Aid Spray",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Statue Puzzle",
+        "region": "Underground Statue Room",
+        "original_item": "Cylinder",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Garbage Compactor",
+        "region": "Garbage Compactor Room",
+        "original_item": "Broken Flamethrower",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Left Herb on Floor",
+        "region": "Winding Underground Passage",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Herb on Floor",
+        "region": "Winding Underground Passage",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Pile of Boxes opposite Cargo Transporter 3",
+        "region": "Underground Storage Room",
+        "original_item": "Magnum Rounds",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Pile of Boxes opposite Cargo Transporter 1",
+        "region": "Underground Storage Room",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Pile of Boxes opposite Cargo Transporter 2",
+        "region": "Underground Storage Room",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Lisa's Desk",
+        "region": "Lisa's Room",
+        "original_item": "Jewelry Box - Stone Ring",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Offshoot Near Ladder",
+        "region": "Lisa's Room",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Offshoot Near Ladder 2",
+        "region": "Lisa's Room",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Battery", "Hexagon Crank", "Cylinder", "Shaft", "Broken Flamethrower"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Left Herb by Entrance",
+        "region": "Entry Corridor",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Middle Herb by Entrance",
+        "region": "Entry Corridor",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Right Herb by Entrance",
+        "region": "Entry Corridor",
+        "original_item": "Blue Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "By Typewriter",
+        "region": "Residence Storeroom",
+        "original_item": "Ink Ribbon",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Bookshelf",
+        "region": "Residence Storeroom",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Desk by Hanged Man",
+        "region": "Room 001",
+        "original_item": "Self-Defense Gun",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Desk by Bookcase",
+        "region": "Room 001",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Shelf by Toilet",
+        "region": "Room 001 Bathroom",
+        "original_item": "Control Room Key",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Key for Room 001"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Rec Room Floor near Entrance",
+        "region": "Rec Room",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor next to Wine",
+        "region": "Rec Room",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bar Downstairs 1",
+        "region": "Rec Room",
+        "original_item": "Red Book - Unprinted Book",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bar Downstairs 2",
+        "region": "Rec Room",
+        "original_item": "First Aid Box - Mixed Herbs (G+B)",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Round Table near Bar",
+        "region": "Rec Room",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Room 002 Drained Bathtub",
+        "region": "Room 002 Bathroom",
+        "original_item": "Key for Room 001",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Table in Middle",
+        "region": "Gallery",
+        "original_item": "Handgun Magazine",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Stung Corpse",
+        "region": "Gallery",
+        "original_item": "Insecticide",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
+    },
+    {
+        "name": "Desk Under Hive",
+        "region": "Gallery",
+        "original_item": "Key for Room 003",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Insecticide"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Double Doors",
+        "region": "Gallery",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bottle 1",
+        "region": "Residence Medical Room",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bottle 2",
+        "region": "Residence Medical Room",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bottle 3",
+        "region": "Residence Medical Room",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Bottle 4",
+        "region": "Residence Medical Room",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Fireplace in Plant Room",
+        "region": "Plant 42 Room",
+        "original_item": "Helmet Key",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Red Book - Unprinted Book", "Key for Room 003", "Dog Whistle"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor at end of Hall",
+        "region": "Aqua Ring Entry",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor near Pressure Regulator",
+        "region": "Control Room",
+        "original_item": "First Aid Box - Mixed Herbs (G+G)",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Junk",
+        "region": "Aqua Ring Storage",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Key Rack in Water",
+        "region": "Aqua Ring Water Tank",
+        "original_item": "Gallery Key",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "Barrel by Ladder",
+        "region": "Aqua Ring Exit",
+        "original_item": "Magnum Rounds",
+        "condition":{
+            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "On Floor by Ladder",
+        "region": "Item Box Room",
+        "original_item": "Ink Ribbon",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Left by Railing",
+        "region": "Lab Stairway",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Right by Railing",
+        "region": "Lab Stairway",
+        "original_item": "Green Herb",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "On Gurney",
+        "region": "Lab Stairway",
+        "original_item": "MO Disk 3",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Shelf by Fan",
+        "region": "'O' Room",
+        "original_item": "Dagger",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Floor in Corner",
+        "region": "Operating Room",
+        "original_item": "Magnum Rounds",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Shelves by Body Bags 1",
+        "region": "Operating Room",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Shelves by Body Bags 2",
+        "region": "Operating Room",
+        "original_item": "First Aid Box - Green Herb",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Entrance",
+        "region": "Pass Code Corridor",
+        "original_item": "First Aid Box - Mixed Herbs (G+G)",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Box by Lightswitch",
+        "region": "X-ray Room A",
+        "original_item": "X-ray of CLARK",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Bench by South Wall",
+        "region": "X-ray Room A",
+        "original_item": "X-ray of GAIL",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Desk by X-ray",
+        "region": "X-ray Room B",
+        "original_item": "Slide Filter",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "In Sink",
+        "region": "X-ray Room B",
+        "original_item": "Incendiary Rounds",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Table by Entrance",
+        "region": "Visual Data Room",
+        "original_item": "First Aid Spray",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Shelf near Entrance",
+        "region": "Visual Data Room",
+        "original_item": "MO Disk 2",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Cupboard in Corner",
+        "region": "Visual Data Room",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Secret Editing Room",
+        "region": "Visual Data Room",
+        "original_item": "Power Room Key",
+        "condition":{
+            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Desk in Corner",
+        "region": "Morgue",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "North East Corner Shelf",
+        "region": "Morgue",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":["Stone and Metal Object","Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Next to Typewriter 1",
+        "region": "Lab Lounge",
+        "original_item": "Ink Ribbon",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Next to Typewriter 2",
+        "region": "Lab Lounge",
+        "original_item": "First Aid Spray",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Floor by Table",
+        "region": "Lab Lounge",
+        "original_item": "Grenade Rounds",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Fuelling Device",
+        "region": "Power Maze A",
+        "original_item": "Fuel Supply Capsule (Empty)",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "North West Corner Floor",
+        "region": "Power Maze B",
+        "original_item": "Battery Pack",
+        "condition":{
+            "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "Victory",
+        "region": "Heliport",
+        "condition": {
+            "items": ["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
+                        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "id": null,
+        "victory": true
+    }
+]
