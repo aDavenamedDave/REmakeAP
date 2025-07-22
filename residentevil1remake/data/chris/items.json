@@ -163,7 +163,7 @@
     },
     {
         "type": "Key",
-        "name": "Key for the Power Area",
+        "name": "Power Room Key",
         "decimal": "36",
         "count": 1,
         "progression": 1
