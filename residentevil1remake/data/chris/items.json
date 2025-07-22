@@ -107,7 +107,7 @@
     },
     {
         "type": "Key",
-        "name": "Stone Ring",
+        "name": "Jewelry Box - Stone Ring",
         "decimal": "67",
         "count": 1,
         "progression": 1
@@ -135,7 +135,7 @@
     },
     {
         "type": "Key",
-        "name": "Unprinted Book",
+        "name": "Red Book - Unprinted Book",
         "decimal": "5A",
         "count": 1,
         "progression": 1
@@ -219,11 +219,11 @@
     },
 
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Blue Gemstone",
         "decimal": "something", 
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
         "type": "Gating",
@@ -233,7 +233,7 @@
         "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Yellow Gemstone",
         "decimal": "something", 
         "count": 1,
@@ -289,11 +289,11 @@
         "progression": 1
     },
     {
-        "type": "Gating",
+        "type": "Lore",
         "name": "Wooden Mount",
         "decimal":"something",
         "count":1,
-        "progression": 1
+        "progression": 0
     },
     {
         "type": "Gating",
@@ -310,67 +310,67 @@
         "progression": 0
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Fishhook",
         "decimal": "75",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Moon Crest",
         "groups":["Crest"],
         "decimal": "103",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Wind Crest",
         "groups":["Crest"],
         "decimal": "92",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Star Crest",
         "groups":["Crest"],
         "decimal": "104",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Sun Crest",
         "groups":["Crest"],
         "decimal": "105",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Bee Specimen",
         "decimal": "73",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Lure of a Bee",
         "decimal": "74",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Lore",
         "name": "X-ray of CLARK",
         "decimal": "77",
         "count": 1,
         "progression": 0
     },
     {
-        "type": "Consumable",
+        "type": "Lore",
         "name": "X-ray of GAIL",
         "decimal": "78",
         "count": 1,
@@ -405,11 +405,11 @@
         "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Lure Without Hook",
         "decimal":"something",
         "count":1,
-        "progression": 0
+        "progression": 1
     },
 
     {
