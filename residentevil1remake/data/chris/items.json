@@ -70,7 +70,7 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Battery",
         "decimal": "43",
         "count": 1,
@@ -92,7 +92,7 @@
         "progression": 1
     },
     {
-        "type": "Key",
+        "type": "Gating",
         "name": "Hexagon Crank",
         "decimal": "3D",
         "count": 1,
@@ -172,13 +172,6 @@
         "type": "Gating",
         "name": "Broken Flamethrower",
         "decimal": "6B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Fuse Unit",
-        "decimal": "61",
         "count": 1,
         "progression": 1
     },
@@ -303,11 +296,11 @@
         "progression": 1
     },
     {
-        "type": "Consumable",
+        "type": "Gating",
         "name": "Broken Shotgun",
         "decimal": "4B",
         "count": 1,
-        "progression": 0
+        "progression": 1
     },
     {
         "type": "Gating",
