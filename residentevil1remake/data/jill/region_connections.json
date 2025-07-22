@@ -336,7 +336,9 @@
     {
         "from": "Resting Room",
         "to": "Sliding Trap Room",
-        "condition":{}
+        "condition":{
+            "items": ["Helmet Key"]
+        }
     },
     {
         "from": "Sliding Trap Room",
