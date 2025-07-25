@@ -131,7 +131,8 @@
         "region": "Researcher's Bedroom",
         "original_item": "Old Key",
         "condition": {
-            "items":["Armor Key", "Book of Curses - Sword Key"]},    
+            "items":["Armor Key", "Book of Curses - Sword Key"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -143,7 +144,8 @@
         "region": "Researcher's Bedroom",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Armor Key", "Book of Curses - Sword Key"]},    
+            "items":["Armor Key", "Book of Curses - Sword Key"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -155,7 +157,8 @@
         "region": "Tiger Statue Room",
         "original_item": "MO Disk 1",
         "condition": {
-            "items":["Armor Key", "Yellow Gemstone", "Book of Curses - Sword Key"]},    
+            "items":["Armor Key", "Yellow Gemstone", "Book of Curses - Sword Key"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -167,7 +170,8 @@
         "region": "Tiger Statue Room",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Armor Key", "Blue Gemstone", "Book of Curses - Sword Key"]},    
+            "items":["Armor Key", "Blue Gemstone", "Book of Curses - Sword Key"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -179,7 +183,8 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Armor Key", "Herbicide"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -191,7 +196,8 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Armor Key", "Herbicide"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -203,7 +209,8 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Armor Key", "Herbicide"]
+        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -265,7 +272,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Armor Key", "Missing Music"]
+            "items":["Emblem","Armor Key", "Missing Music", "Music, Mid-Pages"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -2503,7 +2510,7 @@
         "name": "Victory",
         "region": "Heliport",
         "condition": {
-            "items": ["Stone and Metal Object", "Power Room Key", "Stone and Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
+            "items": ["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
                         "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
         },
         "item_object": "",
