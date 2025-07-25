@@ -33,7 +33,7 @@
         "region": "Dining Room",
         "original_item": "Shield Key",
         "condition": {
-            "items" :[ "Gold Emblem"]
+            "items" :["Gold Emblem"]
         },
         "item_object": "",
         "parent_object": "",
@@ -272,7 +272,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Armor Key", "Missing Music", "Music, Mid-Pages"]
+            "items":["Emblem", "Armor Key", "Missing Music", "Music, Mid-Pages"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -2307,8 +2307,8 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object", "MO Disk 1", "MO Disk 2", "MO Disk 3"],
-        "force_item":""
+        "forbid_item":[],
+        "force_item":"Shotgun Shells"
     },
     {
         "name": "Box by Lightswitch",
