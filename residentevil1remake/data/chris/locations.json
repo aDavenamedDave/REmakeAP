@@ -28,17 +28,17 @@
         "parent_object": "",
         "folder_path": ""
     },
-    {
+       {
         "name": "Behind Clock",
         "region": "Dining Room",
         "original_item": "Shield Key",
         "condition": {
-            "items" :["Gold Emblem"]
+            "items" :[ "Gold Emblem"]
         },
         "item_object": "",
         "parent_object": "",
-        "folder_path": "",
-        "forbid_item": ["Emblem"]
+        "folder_path": ""
+        
     },
     {
         "name": "Above Fireplace",
@@ -827,7 +827,7 @@
     {
         "name": "Behind Bookcase",
         "region": "Small Dining Room",
-        "original_item": "Missing Music",
+        "original_item": "Music, Mid-Pages",
         "condition": {
             "items":["Book of Curses - Sword Key", "Armor Key"]
         },    
