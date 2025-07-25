@@ -15,11 +15,6 @@
         "condition": {}
     },
     { 
-        "from": "Main Hall",
-        "to": "Graveyard",
-        "condition": {}
-    },
-    { 
         "from": "Tea Room",
         "to": "Bar",
         "condition": {
@@ -340,7 +335,7 @@
     {
         "from": "Sliding Trap Room",
         "to": "Secret Passage",
-        "condition":{},
+        "condition":{}
     },
     {
         "from": "Secret Passage",
@@ -355,7 +350,7 @@
     {
         "from": "Concrete Passage 2",
         "to": "Kitchen",
-        "condition":{},
+        "condition":{}
     },
     {
         "from": "Kitchen",
