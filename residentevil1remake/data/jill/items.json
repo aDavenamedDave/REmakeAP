@@ -192,35 +192,35 @@
     {
         "type": "Gating",
         "name": "Emblem Key",
-        "decimal": "something",
+        "decimal": "66",
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Power Room Key",
-        "decimal": "something",
+        "decimal": "36",
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Yellow Gemstone",
-        "decimal": "something",
+        "decimal": "4A",
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Red Gemstone",
-        "decimal": "something",
+        "decimal": "48",
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Blue Gemstone",
-        "decimal": "something",
+        "decimal": "49",
         "count": 1,
         "progression": 1
     },
@@ -365,21 +365,21 @@
     {
         "type": "Lore",
         "name": "Wooden Mount",
-        "decimal":"something",
+        "decimal":"6C",
         "count":1,
         "progression": 0
     },
     {
         "type": "Gating",
         "name": "Lure Without Hook",
-        "decimal":"something",
+        "decimal":"74",
         "count":1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Collar - Imitation of a Key",
-        "decimal":"something",
+        "decimal":"18",
         "count":1,
         "progression": 1
     },
@@ -394,21 +394,21 @@
     {
         "type": "Consumable",
         "name": "Empty Bottle",
-        "decimal": "something",
+        "decimal": "50",
         "count": 1,
         "progression": 0
     },
     {
         "type": "Consumable",
         "name": "Fuel Canteen",
-        "decimal": "something",
+        "decimal": "1B",
         "count": 1,
         "progression": 0
     },
     {
         "type": "Lore",
         "name": "Slide Filter",
-        "decimal": "something",
+        "decimal": "6D",
         "count": 1,
         "progression": 0
     },
