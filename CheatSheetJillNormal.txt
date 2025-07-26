@@ -1,0 +1,277 @@
+Version 1.098 Beta
+Room names are taken from http://www.evilresource.com/resident-evil-remake/maps
+
+0	"Desk Opposite East Door"
+DINING ROOM
+1	"Dining Table"
+2	"Destroyed Statue"
+3	"Behind Clock"
+WEST WING OUTER STAIRWAY
+4	"By Bird Cage"
+5	"Left Herb by Chairs"
+6	"Right Herb by Chairs"
+NORTHERN CORRIDOR
+7	"Cabinet near Western Entrance"
+RESEARCHER'S BEDROOM
+8	"On Bed"
+9	"Floor Inside Wardrobe"
+SMALL STOREROOM
+10	"Cabinet next to Entrance",
+11	"Gun Case"
+12	"Desk Drawer",
+TIGER STATUE ROOM
+13	"Right Side"
+14	"Left Side"
+BAR
+15	"Bookshelf Behind Cabinet"
+GREENHOUSE
+16	"Past Fountain Roots"
+GRAVEYARD
+17	"End of Graveyard"
+LARGE GALLERY
+18	"On Ground Outside"
+ART ROOM
+19	"End of Blocked off Hallway"
+L CORRIDOR
+20	"Under 1st Cabinet"
+21	"Under 2nd Cabinet"
+LARGE ART ROOM
+22	"Desk Drawer"
+MIRROR ROOM
+23	Floor by Southern Wall"
+24	"Cabinet"
+25	"Floor by Mirror"
+LIVING ROOM
+26	"Far end of Table"
+27	"Near End of Table"
+
+OUTSIDE BOILER
+28	Wheelbarrow"
+29	"Right Herb by Wheelbarrow"
+30	"Left Herb by Wheelbarrow"
+31	"By Wheelbarrow"
+BATHROOM
+32	"Drained Bathtub"
+COURTYARD STUDY
+33	"Study Desk Drawer"
+34	"West Wall Bookcase 2"
+35	"West Wall Bookcase 1"
+EAST WING STOREROOM
+36	"Floor by Item Box"
+
+37	Forest's Corpse
+
+
+38	"Floor Resupply One"
+40	"Floor Resupply Two"
+GARDEN SHED
+41	"Floor by Door"
+42	"Shelf Near Top of Stairs"
+43	"Shelf Near Stairs"
+44	"Shed Floor Resupply One"
+45	"Shed Floor Resupply Two"
+46	"Shed Floor Resupply Three"
+SECRET PASSAGE
+47	"By Gravestone"
+OUTSIDE BALCONY
+48	Dog 
+DINING ROOM 2F
+49	"By Door to Mirror Corridor"
+MIRROR CORRIDOR
+50	"By Crimson Head"
+51	"In Statue"
+52	"By Mirror at End of Corridor"
+ELEVATOR CORRIDOR
+53	"Left Green in Alcove"
+54	"Right Green in Alcove"
+55	"Red in Alcove"
+MATERIALS ROOM
+56	Floor by Door 1
+57	Floor by Door 2
+58	Floor further from Door
+59	Shelf
+TROPHY ROOM
+60	Below Deer Mount
+61	 Deer Mount
+62	Bull Mount
+63	North West Cabinet
+LIBRARY
+64	By Window (Right)
+65	By Window (Left)
+66	Glass Case
+OUTSIDE PATIO
+67	Bench
+68	Left Herb at end of Patio
+69	Right Herb at end of Patio
+PILLAR ROOM
+70	Right Herb by Pillar
+71	Left Herb by Pillar
+SMALL DINING ROOM
+72	 Cabinet in Corner"
+73	 On Table
+74	Behind Bookcase
+ATTIC ENTRY
+ATTIC
+77	Boxes in Corner
+C CORRIDOR
+78	Counter by Door
+ARMOR ROOM
+79	Armor Puzzle
+SLIDING TRAP ROOM
+80	On Cabinet by Hole
+RESTING ROOM
+81	Floor by Window and Door
+SMALL LIBRARY
+82	South Entrance Desk
+83	Desk by Chessboard
+BEDROOM
+84	Chair by Desk
+86	Dresser
+87	Corner of Room"
+DEER ROOM
+88	By Entrance Across from Mount
+FISH TANK ROOM
+89	Hook Display
+90	Lure Display
+91	Insect Display
+92	Secret behind Display
+KITCHEN
+(?)	On Table
+CONCRETE PASSAGE 2
+95	Red Floor Herb
+96	Blue Floor Herb
+97	Floor by Fence
+98	Boxes by West Door
+CONCRETE PASSAGE 1
+99	 Dead End
+CRYPT
+100	 On Pedestal
+101	Beside Fallen Coffin
+102	In Coffin
+SMALL HEADSTONE AREA
+103	 Middle Crest
+104	Right Crest
+105	Left Crest
+106	Left Gravestone
+CABIN
+107	Wood Plank
+MAIN GARDEN
+108	Green Herb by Fountain
+109	Blue Herb by Fountain"
+ZIGZAG PATH
+110	By Gate
+MINING AREA
+111	By Typewriter
+112	End of Passageway
+GENERATOR ROOM
+113	By Door to Enrico Room
+114	Power to Elevator
+115	By Elevator
+ENRICO ROOM
+116	Enrico
+BOULDER PASSAGE 1
+117(?)	Shelf Past Boulder
+SPIDER ROOM
+118	Barrel
+STRAIGHT PASSAGE
+119	Right Herb by Map
+120	Left Herb by Map
+BOULDER PASSAGE 2
+121	Shelf past 2nd Boulder
+UNDERGROUND STATUE ROOM
+122	 Statue Puzzle
+GARBAGE COMPACTOR ROOM
+123(?)	 Garbage Compactor
+WINDING UNDERGROUND PASSAGE
+124	Left Herb on Floor
+125	Right Herb on Floor
+UNDERGROUND STORAGE
+126	Pile of Boxes opposite Cargo Transporter 3
+127	Pile of Boxes opposite Cargo Transporter 1
+128	Pile of Boxes opposite Cargo Transporter 2
+LISA'S ROOM
+129	Lisa's Desk
+130	Offshoot Near Ladder
+131	Offshoot Near Ladder 2
+ENTRY CORRIDOR
+132	Right Herb by Entrance
+133	Middle Herb by Entrance
+134	 Left Herb by Entrance
+RESIDENCE STOREROOM
+135	 By Typewriter
+136	On Bookshelf
+ROOM 001
+137	Desk by Hanged Man
+138	Desk by Bookcase
+ROOM 001 BATHROOM
+139	Shelf by Toilet
+REC ROOM
+140	Rec Room Floor near Entrance
+141	Floor next to Wine
+142	Bar Downstairs 1
+143	Bar Downstairs 2
+144	Round Table near Bar
+ROOM 002 BATHROOM
+145	 Room 002 Drained Bathtub
+GALLERY
+146	Table in Middle
+147	Stung Corpse
+148	Desk Under Hive
+149	 Double Doors
+RESIDENCE MEDICAL ROOM
+75	Bottle #1
+76	Bottle #2 
+85	Bottle #3 
+94	Bottle #4 
+PLANT 42 ROOM
+150	Fireplace in Plant Room
+AQUA RING ENTRY
+151	Floor at end of Hall
+CONTROL ROOM
+152	Floor near Pressure Regulator
+AQUA RING STORAGE
+153	Floor by Junk
+AQUA RING WATER TANK
+154	Key Rack in Water
+AQUA RING EXIT
+155	Barrel by Ladder
+ITEM BOX ROOM
+156	On Floor by Ladder
+LABORATORY STAIRWAY
+157	Right by Railing
+158	Left by Railing
+159	On Gurney
+VISUAL DATA ROOM
+160	Table by Entrance
+161	Shelf near Entrance
+162	Cupboard in Corner
+163	Secret Editing Room
+PASS CODE CORRIDOR
+164	Floor by Entrance
+X-RAY ROOM B
+165	 In Sink
+166	Desk by X-ray
+X-RAY ROOM A
+167	Box by Lightswitch
+168	Bench by South Wall"
+O ROOM
+169	Shelf by Fan
+OPERATING ROOM
+170	Floor in Corner
+171	Shelves by Body Bags 1
+172	shelves by Body Bags 2"
+MORGUE
+173	Desk in Corner
+174	North East Corner Shelf
+LABORATORY LOUNGE ROOM
+175	Next to Typewriter 1
+176	Next to Typewriter 2
+177	Floor by Table
+POWER MAZE A
+178	Fuelling Device
+POWER MAZE B
+179	North West Corner Floor
+
+180      Fuel supply cap (filled)
+181     "Gun Rest" - May not be randomizable
+
