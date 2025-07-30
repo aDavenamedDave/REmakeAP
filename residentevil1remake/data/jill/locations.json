@@ -3,9 +3,7 @@
         "name": "SL - Desk Opposite East Door",  
         "region": "Small Library",
         "original_item": "Lighter",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -99,7 +97,7 @@
         "region": "Small Storeroom",
         "original_item": "Battery Pack",
         "condition": {
-            "items" : ["Book of Curses - Sword Key", "Lock Pick"]
+            "items" : []
         },    
         "item_object": "",
         "parent_object": "",
@@ -111,7 +109,7 @@
         "region": "Small Storeroom",
         "original_item": "Ink Ribbon",
         "condition": {
-            "items": [ "Book of Curses - Sword Key", "Lock Pick"]
+            "items": []
         },    
         "item_object": "",
         "parent_object": "",
@@ -122,7 +120,7 @@
         "region": "Small Storeroom",
         "original_item": "Broken Shotgun",
         "condition": {
-            "items" :[ "Book of Curses - Sword Key", "Lock Pick"]
+            "items" :[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -134,7 +132,7 @@
         "region": "Northern Corridor",
         "original_item": "Battery Pack",
         "condition": {
-            "items":["Armor Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -145,7 +143,7 @@
         "region": "Researcher's Bedroom",
         "original_item": "Battery Pack",
         "condition": {
-            "items":["Armor Key", "Book of Curses - Sword Key" ]},    
+            "items":[]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -157,7 +155,7 @@
         "region": "Researcher's Bedroom",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Armor Key"]},    
+            "items":[]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -169,7 +167,7 @@
         "region": "Tiger Statue Room",
         "original_item": "MO Disk 1",
         "condition": {
-            "items":["Armor Key", "Yellow Gemstone", "Book of Curses - Sword Key"]},    
+            "items":["Yellow Gemstone"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -181,7 +179,7 @@
         "region": "Tiger Statue Room",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Armor Key", "Blue Gemstone", "Book of Curses - Sword Key"]},    
+            "items":[ "Blue Gemstone"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -193,7 +191,7 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":[ "Herbicide"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -205,7 +203,7 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":[ "Herbicide"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -217,7 +215,7 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Herbicide"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -229,7 +227,7 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Herbicide"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -241,7 +239,7 @@
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Armor Key", "Herbicide"]},    
+            "items":["Herbicide"]},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -253,7 +251,7 @@
         "region": "Greenhouse",
         "original_item": "Mask Without Eyes",
         "condition": {
-            "items":["Armor Key", "Herbicide"]
+            "items":["Herbicide"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -266,7 +264,7 @@
         "region": "Bar",
         "original_item": "Missing Music",
         "condition": {
-            "items":["Armor Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -279,7 +277,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Armor Key", "Missing Music"]
+            "items":["Emblem","Music Mid-Pages", "Missing Music"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -303,7 +301,7 @@
         "region": "'L' Corridor",
         "original_item": "Dagger",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -316,7 +314,7 @@
         "region": "'L' Corridor",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -329,7 +327,7 @@
         "region": "Bathroom",
         "original_item": "Dagger",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -342,7 +340,7 @@
         "region": "Outside Boiler",
         "original_item": "Herbicide",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Lock Pick" ]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -355,7 +353,7 @@
         "region": "Outside Boiler",
         "original_item": "Red Herb",
         "condition": {
-            "items":["Book of Curses - Sword Key" , "Lock Pick"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -368,7 +366,7 @@
         "region": "Outside Boiler",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Book of Curses - Sword Key" , "Lock Pick"]
+            "items":[]
         },   
         "item_object": "",
         "parent_object": "",
@@ -409,7 +407,7 @@
         "region": "Outside Boiler",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Lock Pick" ]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -422,7 +420,7 @@
         "region": "Large Gallery",
         "original_item": "Mask Without Mouth",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -435,7 +433,7 @@
         "region": "Courtyard Study",
         "original_item": "Battery Pack",
         "condition": {
-            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -448,7 +446,7 @@
         "region": "Courtyard Study",
         "original_item": "Metal Object",
         "condition": {
-            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -461,7 +459,7 @@
         "region": "Courtyard Study",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Emblem Key", "Book of Curses - Sword Key", "Red Gemstone"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -474,7 +472,7 @@
         "region": "East Wing Storeroom",
         "original_item": "Fuel Canteen",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -487,7 +485,6 @@
         "region": "East Wing Storeroom",
         "original_item": "First Aid Spray",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"],
             "locations":["DP - Trap in Passage"]
         },    
         "item_object": "",
@@ -501,7 +498,6 @@
         "region": "East Wing Storeroom",
         "original_item": "Incendiary Rounds",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"],
             "locations":["DP - Trap in Passage"]
         },    
         "item_object": "",
@@ -514,9 +510,7 @@
         "name": "LR - Near End of Table",
         "region": "Living Room",
         "original_item": "Ink Ribbon",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -527,9 +521,7 @@
         "name": "LR - Far end of Table",
         "region": "Living Room",
         "original_item": "Dagger",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -540,9 +532,7 @@
         "name": "LR - Gun Rest",
         "region": "Living Room",
         "original_item": "Shotgun",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {        },    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -554,7 +544,7 @@
         "region": "Large Art Room",
         "original_item": "Ink Ribbon",
         "condition": {
-            "items":["Helmet Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -567,7 +557,7 @@
         "region": "Mirror Room",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Helmet Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -580,7 +570,7 @@
         "region": "Mirror Room",
         "original_item": "Emblem Key",
         "condition": {
-            "items":["Helmet Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -593,7 +583,7 @@
         "region": "Mirror Room",
         "original_item": "Dagger",
         "condition": {
-            "items":["Helmet Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -619,7 +609,7 @@
         "region": "Secret Passage",
         "original_item": "Last Book Volume 1 - Medal of Eagle",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -632,7 +622,7 @@
         "region": "Garden Shed",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -645,7 +635,7 @@
         "region": "Garden Shed",
         "original_item": "Battery Pack",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -658,7 +648,6 @@
         "region": "Garden Shed",
         "original_item": "First Aid Spray",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -671,7 +660,6 @@
         "region": "Garden Shed",
         "original_item": "Battery Pack",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
             "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
@@ -685,7 +673,6 @@
         "region": "Garden Shed",
         "original_item": "First Aid Spray",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
             "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
@@ -699,7 +686,6 @@
         "region": "Garden Shed",
         "original_item": "Grenade Rounds",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
             "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
@@ -712,9 +698,7 @@
         "name": "MG - Green Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Green Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -725,9 +709,7 @@
         "name": "MG - Blue Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Blue Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -738,9 +720,7 @@
         "name": "CC - Counter by Door",
         "region": "'C' Corridor",
         "original_item": "Wooden Mount",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -751,9 +731,7 @@
         "name": "AR - Armor Puzzle",
         "region": "Armor Room",
         "original_item": "Mask Without All",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -764,9 +742,7 @@
         "name": "PR - Left Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -777,9 +753,7 @@
         "name": "PR - Right Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -790,9 +764,7 @@
         "name": "AT - Boxes in Corner",
         "region": "Attic",
         "original_item": "Mask Without Nose",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Shield Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -814,9 +786,7 @@
         "name": "SDR - On Table",
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -828,7 +798,7 @@
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
+            "items":["Lighter"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -841,7 +811,7 @@
         "region": "Small Dining Room",
         "original_item": "Music, Mid-Pages",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Lighter"]
+            "items":["Lighter"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -853,9 +823,7 @@
         "name": "SL - South Entrance Desk",
         "region": "Small Library",
         "original_item": "Dog Whistle",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },   
+        "condition": {},   
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -866,9 +834,7 @@
         "name": "SL - Desk by Chessboard",
         "region": "Small Library",
         "original_item": "Handgun Magazine",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -879,9 +845,7 @@
         "name": "DEER - By Entrance Across from Mount",
         "region": "Deer Room",
         "original_item": "Red Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -892,9 +856,7 @@
         "name": "BED - Chair by Desk",
         "region": "Bedroom",
         "original_item": "First Aid Box - First Aid Spray",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -905,9 +867,7 @@
         "name": "BED - Dresser",
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -918,9 +878,7 @@
         "name": "BED - Corner of Room",
         "region": "Bedroom",
         "original_item": "Green Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -931,9 +889,7 @@
         "name": "FTR - Hook Display",
         "region": "Fish Tank Room",
         "original_item": "Fishhook",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -943,9 +899,7 @@
         "name": "FTR - Lure Display",
         "region": "Fish Tank Room",
         "original_item": "Bee Specimen",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -956,9 +910,7 @@
         "name": "FTR - Insect Display",
         "region": "Fish Tank Room",
         "original_item": "Lure Without Hook",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key", "Lock Pick" ]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -970,7 +922,7 @@
         "region": "Fish Tank Room",
         "original_item": "Wind Crest",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Armor Key",  "Lure Without Hook", "Bee Specimen", "Fishhook", "Lock Pick"]
+            "items":["Lure Without Hook", "Bee Specimen", "Fishhook"]
         },   
         "item_object": "",
         "parent_object": "",
@@ -982,9 +934,7 @@
         "name": "RR - Floor by Window and Door",
         "region": "Resting Room",
         "original_item": "Green Herb",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -995,9 +945,7 @@
         "name": "STR - On Cabinet by Hole",
         "region": "Sliding Trap Room",
         "original_item": "Dagger",
-        "condition": {
-            "items":["Book of Curses - Sword Key", "Helmet Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1059,7 +1007,7 @@
         "region": "Death Passage",
         "original_item": "Armor Key",
         "condition": {
-            "items":["Book of Curses - Sword Key", "Collar - Imitation of a Key", "Dog Whistle"]
+            "items":["Collar - Imitation of a Key"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1072,7 +1020,7 @@
         "region": "Library",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1085,7 +1033,7 @@
         "region": "Library",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1098,7 +1046,7 @@
         "region": "Library",
         "original_item": "Last Book Volume 2 - Medal of Wolf",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1111,7 +1059,7 @@
         "region": "Outside Balcony",
         "original_item": "Collar - Imitation of a Key",
         "condition": {
-            "items":["Book of Curses - Sword Key",  "Dog Whistle", "Lock Pick"]
+            "items":["Dog Whistle"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1124,7 +1072,7 @@
         "region": "Trophy Room",
         "original_item": "Grenade Rounds",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1137,7 +1085,7 @@
         "region": "Trophy Room",
         "original_item": "Red Gemstone",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1150,7 +1098,7 @@
         "region": "Trophy Room",
         "original_item": "Yellow Gemstone",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1163,7 +1111,7 @@
         "region": "Trophy Room",
         "original_item": "Dagger",
         "condition": {
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },    
         "item_object": "",
         "parent_object": "",
@@ -1176,7 +1124,7 @@
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1189,7 +1137,7 @@
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1202,7 +1150,7 @@
         "region": "Elevator Corridor",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Helmet Key", "Book of Curses - Sword Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1215,7 +1163,7 @@
         "region": "Materials Room",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1228,7 +1176,7 @@
         "region": "Materials Room",
         "original_item": "Battery",
         "condition":{
-            "items":["Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1241,7 +1189,7 @@
         "region": "Materials Room",
         "original_item": "Battery Pack",
         "condition":{
-            "items":["Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1254,7 +1202,7 @@
         "region": "Materials Room",
         "original_item": "Acid Rounds",
         "condition":{
-            "items":["Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1280,7 +1228,7 @@
         "region": "Crypt",
         "original_item": "Stone and Metal Object",
         "condition":{
-            "items":["Mask Without Nose","Mask Without Eyes", "Mask Without Mouth", "Mask Without All", "Golden Arrow - Arrowhead"]
+            "items":["Mask Without Nose","Mask Without Eyes", "Mask Without Mouth", "Mask Without All"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1293,7 +1241,7 @@
         "region": "Crypt",
         "original_item": "Shotgun Shells",
         "condition":{
-            "items":["Mask Without All","Mask Without Eyes","Mask Without Mouth","Mask Without Nose","Golden Arrow - Arrowhead"]
+            "items":["Mask Without All","Mask Without Eyes","Mask Without Mouth","Mask Without Nose"]
         },
         "item_object": "",
         "parent_object": "",
@@ -1306,7 +1254,7 @@
         "region": "Outside Patio",
         "original_item": "Dagger",
         "condition":{
-            "items":["Armor Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1319,7 +1267,7 @@
         "region": "Outside Patio",
         "original_item": "Grenade Launcher",
         "condition":{
-            "items":["Armor Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1332,7 +1280,7 @@
         "region": "Outside Patio",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Armor Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1345,7 +1293,7 @@
         "region": "Outside Patio",
         "original_item": "Green Herb",
         "condition":{
-            "items":["Armor Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1358,7 +1306,7 @@
         "region": "Kitchen",
         "original_item": "Dagger",
         "condition":{
-            "items":["Book of Curses - Sword Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1371,7 +1319,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Red Herb",
         "condition":{
-            "items":["Book of Curses - Sword Key", "Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1384,7 +1332,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Blue Herb",
         "condition":{
-            "items":["Book of Curses - Sword Key", "Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
@@ -1397,7 +1345,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Dagger",
         "condition":{
-            "items":["Book of Curses - Sword Key", "Helmet Key"]
+            "items":[]
         },
         "item_object": "",
         "parent_object": "",
