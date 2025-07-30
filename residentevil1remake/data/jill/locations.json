@@ -488,7 +488,7 @@
         "original_item": "First Aid Spray",
         "condition": {
             "items":["Book of Curses - Sword Key", "Armor Key"],
-            "location":["DP - Trap in Passage"]
+            "locations":["DP - Trap in Passage"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -502,7 +502,7 @@
         "original_item": "Incendiary Rounds",
         "condition": {
             "items":["Book of Curses - Sword Key", "Armor Key"],
-            "location":["DP - Trap in Passage"]
+            "locations":["DP - Trap in Passage"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -672,7 +672,7 @@
         "original_item": "Battery Pack",
         "condition": {
             "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
-            "location":["42 - Fireplace in Plant Room"]
+            "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -686,7 +686,7 @@
         "original_item": "First Aid Spray",
         "condition": {
             "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
-            "location":["42 - Fireplace in Plant Room"]
+            "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -700,7 +700,7 @@
         "original_item": "Grenade Rounds",
         "condition": {
             "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Red Book - Unprinted Book", "Gallery Key"],
-            "location":["42 - Fireplace in Plant Room"]
+            "locations":["42 - Fireplace in Plant Room"]
         },    
         "item_object": "",
         "parent_object": "",
