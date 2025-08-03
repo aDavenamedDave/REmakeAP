@@ -374,7 +374,8 @@
         "from": "Roofed Passage",
         "to": "Garden Shed",
         "condition":{
-            "items": ["Stone and Metal Object"]
+            "items": ["Stone and Metal Object"],
+            "locations": ["AT - Boxes in Corner"]
         }
     },
     {
@@ -763,3 +764,4 @@
         "condition":{}
     }
 ]
+
