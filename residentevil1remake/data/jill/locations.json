@@ -1265,7 +1265,7 @@
     {
         "name": "OP - Forest's Corpse",
         "region": "Outside Patio",
-        "original_item": "Grenade Launcher",
+        "original_item": "Grenade Launcher - Grenade",
         "condition":{
             "items":[]
         },
@@ -2420,3 +2420,4 @@
         "victory": true
     }
 ]
+
