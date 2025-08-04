@@ -6,7 +6,7 @@ wep1a - Self Defense Gun - refers to Jill
 wep1b - Infinite Pistol - refers to Jill
 wep1c - Magnum - refers to Jill
 wep02 - Handgun refers to Chris
-wep03 - Magnum??? refers to Chris
+wep03 - Magnum (Barry's Magnum?) refers to Chris
 wep04 - Shotgun - refers to Chris
 wep05 - Flamethrower
 wep06 - Brads Rocket Launcher - Chris Version
@@ -22,6 +22,12 @@ wep18 - Assault Shotgun? - Jill
 wep19 - Grenade Launcher - Normal
 wep19a - Grenade Launcher - Acid
 wep19f - Grenade Launcher - Incendiary
+
+
+kk00 - Dagger(?)
+kk01 - Flash Grenade(?)
+kk02 - Stun Gun (?)
+lh05 - Lighter(?)
 
 
 r50a - Researcher's private room (nitro refueling device room)
@@ -195,7 +201,7 @@ i011 - Magnum .37
 i012 - Flame Thrower
 i013 - Assault Shotgun
 i014 - Special weapon
-i015 - Magnum .44 (Barry's?)
+i015 - Magnum .44 (Barry's)
 i016 - Grenade ammo. (Expl)
 i017 - Handgun ammo.
 i018 - Shotgun ammo.
