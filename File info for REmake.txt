@@ -30,15 +30,15 @@ kk02 - Stun Gun (?)
 lh05 - Lighter(?)
 
 
-r50a - Researcher's private room (nitro refueling device room)
-r50b - Stairs leading to detention room
+r50a - Researcher's private room (nitro refueling device room) (X-ray Room B)
+r50b - Stairs leading to detention room   (Passage to Cell(?))
 r50c - Power chamber passage (T-shaped corridor leading to Lounge/Power room/Lift to Culture tank room passage).
 r50d - Lift leading to heliport
 r50e - Lab's Lounge
-r50f - Power room passage A (where the nitro capsule must be used)
+r50f - Power room passage A (where the nitro capsule must be used) 
 r500 - Lab entrance (with ladder going to Prep room/Emergency door leading to Helipad passage)
 r501 - Way to the heliport (passage to the lift)
-r502 - Preparation room (save room with ladder going up to lab entrance)
+r502 - Preparation room (save room with ladder going up to lab entrance) (Item Box Room(?))
 r503 - B2F stair hall
 r504 - Visual Data Room (where you can watch Kenneth's tape)
 r505 - Central cloister (leads to multiple rooms like Power chamber passage/B3F West Corridor)
@@ -49,31 +49,31 @@ r509 - X-ray room
 r510 - Power room passage B (where you use a MO disk)
 r511 - Power room (where you restore power for the elevator)
 r512 - Detention room
-r513 - Culture tank room (where you fight Tyrant for the 1st time)
+r513 - Culture tank room (where you fight Tyrant for the 1st time) (Main Laboratory)
 r514 - Passage to Culture tank room
-r515 - Lift leading to Culture tank room Passage
-r412 a huge shark's room , push down the battery leakage
+r515 - Lift leading to Culture tank room Passage (Main Laboratory Entrance)
+r412 a huge shark's room , push down the battery leakage (Aqua Ring Water Tank)
 r410 there are three doors,leading to the r412 room
-r408 take pesticides corridor, can reach room 003
+r408 take pesticides corridor, can reach room 003 
 r406 room "002", Barry's story
 r405 a corridor to reach room 002
-r404 pub, snooker number puzzle
+r404 pub, snooker number puzzle (Rec Room)
 r403 ,the first archive room in the dormitory
 r401 room "001", there is a hanged man
-r40e a circular pool, small sharks and more ruthless, a shark killed Richard
+r40e a circular pool, small sharks and more ruthless, a shark killed Richard (Aqua Ring Walkway)
 r40d hallway before flooded shark tank room
 r40c - plant 42 room
 r40b - room 003 bathroom
 r40a - dormitory room 003
 r400 there are three blue herbs in the dormitory
-r316 need to crush wooden box to get the broken flamethrower
-r315 Lisa's mother's coffin
-r31a stairs behind the door in two badges
+r316 need to crush wooden box to get the broken flamethrower (Garbage compactor room)
+r315 Lisa's mother's coffin (Jessica's Tomb)
+r31a stairs behind the door in two badges (Stairway Passage)
 r311 outdoors, there are two statues to open gate
-r305 the pool, need to insert badge "Eagle" and "wolf")
-r304 outdoor path, return from the dormitory
+r305 the pool, need to insert badge "Eagle" and "wolf") (Fountain)
+r304 outdoor path, return from the dormitory 
 r303 helipad end of game
-r302 garden, you need the battery to start the elevator
+r302 garden, you need the battery to start the elevator (Main Garden)
 r30c spider story, the door was tangled in spider web
 r30b a cave, the flamethrower gun on the wall, boulder run
 r30a enrico's room
@@ -91,10 +91,10 @@ r21b a T shaped hallway, a few zombies, elevators need to connect the power
 r21a after pushing down the ladder, down the ladder, a few big spiders
 r210 serpent's room
 r209 a small bedroom, a box of herbs and ribbons, a small key
-r208 a small room, there is a deer head on the wall model
+r208 a small room, there is a deer head on the wall model (Deer Room)
 r207 room where the door can only be used twice
-r206 a room to get a lighter and a dog whistle
-r205 four knights armor puzzle
+r206 a room to get a lighter and a dog whistle (Small Library)
+r205 four knights armor puzzle (Armor Room
 r204 a L-type corridors, outside the four knights armor room
 r203 Balcony, place where you get the dog collar
 r202 upper dining room
