@@ -525,13 +525,28 @@
     },
     {
         "type": "Weapon",
-        "name": "Grenade Launcher",
+        "name": "Grenade Launcher - Grenade",
         "decimal": "07",
         "count": 6,
         "progression": 0,
         "ammo": "Grenade Shells"
     },
-
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Acid",
+        "decimal": "08",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Acid Shells"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Incendiary",
+        "decimal": "09",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Incendiary Shells"
+    },
     {
         "type": "Subweapon",
         "name": "Dagger",
@@ -611,3 +626,4 @@
         "progression": 1
     }
 ]
+
