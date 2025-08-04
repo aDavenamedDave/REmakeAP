@@ -529,7 +529,7 @@
         "decimal": "07",
         "count": 6,
         "progression": 0,
-        "ammo": "Grenade Shells"
+        "ammo": "Grenade Rounds"
     },
     {
         "type": "Weapon",
@@ -537,7 +537,7 @@
         "decimal": "08",
         "count": 6,
         "progression": 0,
-        "ammo": "Acid Shells"
+        "ammo": "Acid Rounds"
     },
     {
         "type": "Weapon",
@@ -545,7 +545,7 @@
         "decimal": "09",
         "count": 6,
         "progression": 0,
-        "ammo": "Incendiary Shells"
+        "ammo": "Incendiary Rounds"
     },
     {
         "type": "Subweapon",
@@ -626,4 +626,5 @@
         "progression": 1
     }
 ]
+
 
