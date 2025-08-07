@@ -621,7 +621,8 @@
         "from": "Room 003",
         "to": "Plant 42 Room",
         "condition":{
-            "items": ["Red Book - Unprinted Book", "Dog Whistle"]
+            "items": ["Red Book - Unprinted Book"],
+            "locations":["OUTB - Dog"]
         }
     },
     {
@@ -764,4 +765,5 @@
         "condition":{}
     }
 ]
+
 
