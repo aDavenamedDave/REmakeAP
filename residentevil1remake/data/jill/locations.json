@@ -269,7 +269,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Music Mid-Pages", "Missing Music"]
+            "items":["Emblem","Music, Mid-Pages", "Missing Music"]
         },    
         "item_object": "",
         "parent_object": "",
@@ -2258,6 +2258,7 @@
         "victory": true
     }
 ]
+
 
 
 
