@@ -257,9 +257,7 @@
         "name": "Bar - Bookshelf Behind Cabinet",
         "region": "Bar",
         "original_item": "Missing Music",
-        "condition": {
-            
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -803,7 +801,7 @@
     {
         "name": "SDR - Behind Bookcase",
         "region": "Small Dining Room",
-        "original_item": "Music, Mid-Pages",
+        "original_item": "Music Mid-Pages",
         "condition": {
             "items":["Lighter"]
         },    
@@ -2260,6 +2258,7 @@
         "victory": true
     }
 ]
+
 
 
 
