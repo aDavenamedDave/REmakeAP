@@ -1920,9 +1920,7 @@
         "name": "42 - Fireplace in Plant Room",
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
-        "condition":{
-            "locations"["OUTB - Dog"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2262,5 +2260,6 @@
         "victory": true
     }
 ]
+
 
 
