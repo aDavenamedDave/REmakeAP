@@ -1693,7 +1693,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "randomized": 0
     },
     {
         "name": "Green Herb on Floor",
@@ -2520,3 +2520,4 @@
         "victory": true
     }
 ]
+
