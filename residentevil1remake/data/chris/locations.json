@@ -2094,7 +2094,7 @@
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
         "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Gallery Key", "Red Book - Unprinted Book", "Key for Room 003"]
+            "locations":["Dog"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2106,9 +2106,7 @@
         "name": "Floor at end of Hall",
         "region": "Aqua Ring Entry",
         "original_item": "Green Herb",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2119,9 +2117,7 @@
         "name": "Floor near Pressure Regulator",
         "region": "Control Room",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2132,9 +2128,7 @@
         "name": "Floor by Junk",
         "region": "Aqua Room Storage",
         "original_item": "Shotgun Shells",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2145,9 +2139,7 @@
         "name": "Key Rack in Water",
         "region": "Aqua Ring Water Tank",
         "original_item": "Gallery Key",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2158,9 +2150,7 @@
         "name": "Floor Halfway in Room",
         "region": "Aqua Ring Water Tank",
         "original_item": "Assault Shotgun",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2171,9 +2161,7 @@
         "name": "Barrel by Ladder",
         "region": "Aqua Ring Exit",
         "original_item": "Magnum Rounds",
-        "condition":{
-            "items":["Book of Curses - Sword Key", "Stone and Metal Object", "Square Crank", "Control Room Key"]
-        },
+        "condition":{ },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2184,9 +2172,7 @@
         "name": "Floor by Item Box",
         "region": "Item Box Room",
         "original_item": "Ink Ribbon",
-        "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
-        },
+        "condition":{ },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2197,9 +2183,7 @@
         "name": "Left by Railing",
         "region": "Lab Stairway",
         "original_item": "Green Herb",
-        "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2210,9 +2194,7 @@
         "name": "Right by Railing",
         "region": "Lab Stairway",
         "original_item": "Green Herb",
-        "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2223,9 +2205,7 @@
         "name": "On Gurney",
         "region": "Lab Stairway",
         "original_item": "MO Disk 2",
-        "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
-        },
+        "condition":{},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2236,9 +2216,7 @@
         "name": "Shelf by Fan",
         "region": "'O' Room",
         "original_item": "Dagger",
-        "condition":{
-            "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
-        },
+        "condition":{ },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2352,7 +2330,7 @@
     {
         "name": "In Sink",
         "region": "X-ray Room B",
-        "original_item": "Incendiary Shells",
+        "original_item": "Magnum Rounds",
         "condition":{
             "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
         },
@@ -2520,4 +2498,5 @@
         "victory": true
     }
 ]
+
 
