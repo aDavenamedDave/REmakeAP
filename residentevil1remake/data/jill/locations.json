@@ -801,7 +801,7 @@
     {
         "name": "SDR - Behind Bookcase",
         "region": "Small Dining Room",
-        "original_item": "Music Mid-Pages",
+        "original_item": "Music, Mid-Pages",
         "condition": {
             "items":["Lighter"]
         },    
@@ -2258,6 +2258,7 @@
         "victory": true
     }
 ]
+
 
 
 
