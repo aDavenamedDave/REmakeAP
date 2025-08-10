@@ -8,7 +8,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item": {},
-        "force_item": ["Handgun", "Broken Shotgun"]
+        "force_item": ["Broken Shotgun"]
     },
     {
         "name": "Dining Table",
@@ -2326,6 +2326,7 @@
         "victory": true
     }
 ]
+
 
 
 
