@@ -1993,7 +1993,7 @@
     },
     {
         "name": "LS - Left by Railing",
-        "region": "Lab Stairway",
+        "region": "Laboratory Stairway",
         "original_item": "Green Herb",
         "condition":{},
         "item_object": "",
@@ -2004,7 +2004,7 @@
     },
     {
         "name": "LS - Right by Railing",
-        "region": "Lab Stairway",
+        "region": "Laboratory Stairway",
         "original_item": "Green Herb",
         "condition":{},
         "item_object": "",
@@ -2015,7 +2015,7 @@
     },
     {
         "name": "LS - On Gurney",
-        "region": "Lab Stairway",
+        "region": "Laboratory Stairway",
         "original_item": "MO Disk 3",
         "condition":{},
         "item_object": "",
@@ -2191,7 +2191,7 @@
     },
     {
         "name": "LL - Next to Typewriter 1",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "Ink Ribbon",
         "condition":{},
         "item_object": "",
@@ -2202,7 +2202,7 @@
     },
     {
         "name": "LL - Next to Typewriter 2",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "First Aid Spray",
         "condition":{},
         "item_object": "",
@@ -2213,7 +2213,7 @@
     },
     {
         "name": "LL - Floor by Table",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "Grenade Rounds",
         "condition":{},
         "item_object": "",
@@ -2258,6 +2258,7 @@
         "victory": true
     }
 ]
+
 
 
 
