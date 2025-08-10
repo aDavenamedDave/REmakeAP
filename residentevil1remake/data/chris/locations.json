@@ -1407,7 +1407,9 @@
         "name": "MA - End of Passageway",
         "region": "Mining Area",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition":{
+            "items":["Hexagon Crank"]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1478,7 +1480,7 @@
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":"Flamethrower"
+        "randomized":0
     },
     {
         "name": "SR - Barrel",
@@ -2251,6 +2253,7 @@
         "victory": true
     }
 ]
+
 
 
 
