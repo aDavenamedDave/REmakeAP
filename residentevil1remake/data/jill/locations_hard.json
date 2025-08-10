@@ -3,9 +3,7 @@
         "name": "SL - Desk Opposite East Door",  
         "region": "Small Library",
         "original_item": "Lighter",
-        "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
