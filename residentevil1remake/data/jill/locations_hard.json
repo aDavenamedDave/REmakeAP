@@ -1767,7 +1767,7 @@
     },
     {
         "name": "LS - Right by Railing",
-        "region": "Lab Stairway",
+        "region": "Laboratory Stairway",
         "original_item": "Green Herb",
         "condition":{
             "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
@@ -1780,7 +1780,7 @@
     },
     {
         "name": "LS - On Gurney",
-        "region": "Lab Stairway",
+        "region": "Laboratory Stairway",
         "original_item": "MO Disk 3",
         "condition":{
             "items":["Stone and Metal Object", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
@@ -1923,7 +1923,7 @@
     },
     {
         "name": "LL - Next to Typewriter 1",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "Ink Ribbon",
         "condition":{
             "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
@@ -1936,7 +1936,7 @@
     },
     {
         "name": "LL - Next to Typewriter 2",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "First Aid Spray",
         "condition":{
             "items":["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
@@ -1949,7 +1949,7 @@
     },
     {
         "name": "LL - Floor by Table",
-        "region": "Lab Lounge",
+        "region": "Laboratory Lounge",
         "original_item": "Incendiary Rounds",
         "condition":{
             "items":["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf"]
