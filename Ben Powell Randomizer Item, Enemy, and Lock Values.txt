@@ -2,41 +2,32 @@ Item Values:
 Lighter(J) - 0
 Handgun(C) - 0
 
-Ink Ribbon - 1,12,22,27,86,111,135
-
+Ink Ribbon - 1
 Blue Gemstone - 2
 
 Shield Key - 3
 
-Handgun Ammo - 4,8,21,52,72,73,83,98,113,115,127,138,146
-
-Handgun Ammo(C) - 39
+Handgun Ammo - 4
 
 Magnum Rounds - 126
 
-Shotgun Shells - 13,17,33,41,56,99,144
+Shotgun Shells - 13
 
-Shotgun Shells(JN) - 153
-Magnum Rounds(JH) - 153
+Green Herb - 5
 
-Green Herb - 5,6,25,29,30,50,53,54,64,65,68,69,70,71,81,87,108,112,124,131,140,141,151
+Red Herb - 31
 
-Red Herb - 31,55,88,95,110,149
 
-Red Herb(JN) - 125
-Green Herb(JH) - 125
+Blue Herb - 96
 
-Blue Herb - 96,109,119,120,130,132,133,134
+Battery Pack(J) - 7
+Flash Grenade(C) - 7
 
-Battery Pack(J) - 7,10,35,42,44,58,128,136
-Flash Grenade(C) - 7,10,35,42,44,58,128,136
-
-Battery Pack(J) - 9
 Old Key(C) - 9
 
 Broken Shotgun - 11
 
-MO Disk - 14,159,161
+MO Disk - 14
 
 Missing Music - 15
 
@@ -44,30 +35,27 @@ Mask without Eyes - 16
 
 Mask without mouth - 18
 
-Dagger - 19,20,23,26,49,63,67,80,97
+Dagger - 19
 
 Emblem Key - 24
 
 Herbicide - 28
-
-Dagger(J) - 32
-Old Key(C)  - 32
 
 Metal Object - 34
 
 Fuel Canteen - 36
 
 Grenade Launcher(J) - 37
-Old Key(C) - 37
 
-First Aid Spray - 38,43,45
+
+First Aid Spray - 38
 
 Incendiary Shells(JN) - 40
-Shotgun Shells(C) - 40 
+
 
 
 Grenade Shells(J) - 46
-Shotgun Shells(C) - 46
+
 
 Last Book Volume 1 - Medal of Eagle - 47
 
@@ -78,14 +66,9 @@ Shaft - 114
 Golden Arrow - Arrowhead - 51
 
 Acid Shells(JN) - 57
-Magnum Rounds(JH) - 57
-Shotgun Shells(C) - 57
+
 
 Battery - 59
-
-Grenade Shells(JN) - 60
-Handgun Ammo(JH) - 60
-Shotgun Shells(CN) - 60
 
 Red Gemstone - 61
 
@@ -103,7 +86,7 @@ Mask Without All - 79
 
 Dog Whistle - 82
 
-First Aid Box (First Aid Spray) - 84,121
+First Aid Box (First Aid Spray) - 84
 
 First Aid Box (Green/Blue) - 143 
 
@@ -114,13 +97,7 @@ First Aid Box(Green)(JH) - 164
 
 First Aid Box (Green) - 172
 
-Empty Bottle(J) - 75,76,85,94
-
-Flash Grenade(C) - 75
-
-Old Key(C) - 85,94
-
-Shotgun Shells(C) - 76
+Empty Bottle(J) - 75
 
 Fishhook - 89
 
@@ -215,5 +192,6 @@ Unlocked - 15
 
 
 Door Rando:
+
 
 
