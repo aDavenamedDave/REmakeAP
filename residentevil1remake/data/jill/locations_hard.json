@@ -234,9 +234,7 @@
         "name": "Bar - Bookshelf Behind Cabinet",
         "region": "Bar",
         "original_item": "Missing Music",
-        "condition": {
-            "items":["Armor Key"]
-        },    
+        "condition": {},    
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -248,7 +246,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Armor Key", "Missing Music"]
+            "items":["Emblem", "Missing Music", "Music, Mid-Pages"]
         },    
         "item_object": "",
         "parent_object": "",
