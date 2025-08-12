@@ -80,7 +80,9 @@ class ResidentEvil1Remake(World):
             
             for location in region.locations:
                 location_data = scenario_locations[location.address]
+                #Need code added to make Jill's handgun location in Chris's playthrough to guarantee a weapon randomized between broken shotgun, handgun, and magnum
                 
+                    
                 # if location has an item that should be forced there, place that. for cases where the item to place differs from the original.
                 if 'force_item' in location_data and location_data['force_item']:
                     location.place_locked_item(self.create_item(location_data['force_item']))
