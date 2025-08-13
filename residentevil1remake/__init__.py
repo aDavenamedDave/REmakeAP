@@ -80,7 +80,7 @@ class ResidentEvil1Remake(World):
             
             for location in region.locations:
                 location_data = scenario_locations[location.address]
-                #Need code added to make Jill's handgun location in Chris's playthrough to guarantee a weapon randomized between broken shotgun, handgun, and magnum
+                
                 
                     
                 # if location has an item that should be forced there, place that. for cases where the item to place differs from the original.
@@ -95,7 +95,13 @@ class ResidentEvil1Remake(World):
                 # we check for zone id > 3 because 3 is typically Sewers, and anything beyond that is Labs / endgame stuff
                 elif self._format_option_text(self.options.allow_progression_in_lab) == 'False' and region_data['zone_id'] > 3:
                     location.item_rule = lambda item: not item.advancement
-                # END if
+                #end if
+                
+               # if self._format_option_text(self.options.early_weapon_for_chris) == 'True': not sure if this is done right so commented out for now
+                    # something that makes "MH - Main Hall Floor" location guaranteed to be one of the weapons available to chris
+                   
+                    
+                
 
                 if 'forbid_item' in location_data and location_data['forbid_item']:
                     current_item_rule = location.item_rule or None
@@ -234,7 +240,7 @@ class ResidentEvil1Remake(World):
         return new_item
 
     def get_filler_item_name(self) -> str:
-        return "Empty Bottle"
+        return "Wooden Mount"
 
     def fill_slot_data(self) -> Dict[str, Any]:
         slot_data = {
@@ -292,25 +298,25 @@ class ResidentEvil1Remake(World):
                 if loc['character'] == character and loc['scenario'] == scenario
         }
 
-        # if the player chose hardcore, take out any matching standard difficulty locations
-        if self._format_option_text(self.options.difficulty) == 'Hardcore':
-            for hardcore_loc in [loc for loc in locations_pool.values() if loc['difficulty'] == 'hardcore']:
-                check_loc_region = re.sub(r'H\)$', ')', hardcore_loc['region']) # take the Hardcore off the region name
-                check_loc_name = hardcore_loc['name']
+        # if the player chose hard, take out any matching standard difficulty locations
+        if self._format_option_text(self.options.difficulty) == 'Hard':
+            for hard_loc in [loc for loc in locations_pool.values() if loc['difficulty'] == 'Hard']:
+                check_loc_region = re.sub(r'H\)$', ')', hard_loc['region']) # take the hard off the region name
+                check_loc_name = hard_loc['name']
 
-                # if there's a standard location with matching name and region, it's obsoleted in hardcore, remove it
-                standard_locs = [id for id, loc in locations_pool.items() if loc['region'] == check_loc_region and loc['name'] == check_loc_name and loc['difficulty'] != 'hardcore']
+                # if there's a standard location with matching name and region, it's obsoleted in hard, remove it
+                standard_locs = [id for id, loc in locations_pool.items() if loc['region'] == check_loc_region and loc['name'] == check_loc_name and loc['difficulty'] != 'hard']
 
                 if len(standard_locs) > 0:
                     del locations_pool[standard_locs[0]]
 
-        # else, the player is still playing standard, take out all of the matching hardcore difficulty locations
+        # else, the player is still playing standard, take out all of the matching hard difficulty locations
         else:
             locations_pool = {
-                id: loc for id, loc in locations_pool.items() if loc['difficulty'] != 'hardcore'
+                id: loc for id, loc in locations_pool.items() if loc['difficulty'] != 'hard'
             }
 
-        # now that we've factored in hardcore swaps, remove any hardcore locations that were just there for removing unused standard ones
+        # now that we've factored in hard swaps, remove any hard locations that were just there for removing unused standard ones
         locations_pool = { id: loc for id, loc in locations_pool.items() if 'remove' not in loc }
         
         return locations_pool
