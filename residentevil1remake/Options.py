@@ -13,7 +13,7 @@ class Character(Choice):
 
 class Difficulty(Choice):
     """Normal: First time playing should pick Mountain climbing
-       Hard: Not unlocked at start
+       Hard: Not unlocked at start currently not randomized
        Easy/Very Easy: currently not randomized; You can pick Normal here, but some items will not be randomized
        Real Survival: If Hard isn't hard enough for you; has same item list as hard so pick hard"""
     display_name = "Difficulty to Play On"
@@ -22,10 +22,11 @@ class Difficulty(Choice):
     default = 0
 
 class BonusStart(Choice):
-    """Some players might want to start with a little help in the way of a few extra heal items and packs of ammo.
+    """Some players might want to start with a little help in the way of a few extra heal items and packs of ammo. 
 
     False: Normal, don't start with extra heal items and packs of ammo.
-    True: Start with those helper items."""
+    True: Start with those helper items.
+    WARNING. This is currently not functional"""
     display_name = "Bonus Start"
     option_false = 0
     option_true = 1
@@ -45,6 +46,24 @@ class AllowProgressionInLab(Choice):
     default = 0
 
 
+class EarlyWeaponforChris(Choice):
+    """Chris doesn't start with a gun. This option lets people who want to guarantee Jill's Handgun at the start is guaranteed to be a weapon. For those
+    who aren't or don't enjoy playing through with a knife. This won't do anything for Jill as she starts with a gun.
+    False: You don't need any guns and don't mind the game taunting you with ammo you can't use yet. This can cause a majority of the game to be knife only
+    True:  (Default) Jill's Handgun is randomized between handgun, broken shotgun (to get the shotgun), and magnum
+    """
+    display_name = "Early Weapon for Chris"
+    option_false = 0
+    option_true = 1
+    default = 1
+    
+
+
+
+
+
+    
+
 # making this mixin so we can keep actual game options separate from AP core options that we want enabled
 # not sure why this isn't a mixin in core atm, anyways
 @dataclass
@@ -57,4 +76,5 @@ class RE1ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOpti
     difficulty: Difficulty
     bonus_start: BonusStart
     allow_progression_in_lab: AllowProgressionInLab
+
 
