@@ -76,5 +76,7 @@ class RE1ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOpti
     difficulty: Difficulty
     bonus_start: BonusStart
     allow_progression_in_lab: AllowProgressionInLab
+    early_weapon_for_chris: EarlyWeaponforChris
+
 
 
