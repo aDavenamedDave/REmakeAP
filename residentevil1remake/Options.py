@@ -46,16 +46,16 @@ class AllowProgressionInLab(Choice):
     default = 0
 
 
-class EarlyWeaponforChris(Choice):
-    """Chris doesn't start with a gun. This option lets people who want to guarantee Jill's Handgun at the start is guaranteed to be a weapon. For those
-    who aren't or don't enjoy playing through with a knife. This won't do anything for Jill as she starts with a gun.
-    False: You don't need any guns and don't mind the game taunting you with ammo you can't use yet. This can cause a majority of the game to be knife only
-    True:  (Default) Jill's Handgun is randomized between handgun, broken shotgun (to get the shotgun), and magnum
-    """
-    display_name = "Early Weapon for Chris"
-    option_false = 0
-    option_true = 1
-    default = 1
+#class EarlyWeaponforChris(Choice):
+ #   """Chris doesn't start with a gun. This option lets people who want to guarantee Jill's Handgun at the start is guaranteed to be a weapon. For those
+  #  who aren't or don't enjoy playing through with a knife. This won't do anything for Jill as she starts with a gun.
+   # False: You don't need any guns and don't mind the game taunting you with ammo you can't use yet. This can cause a majority of the game to be knife only
+    #True:  (Default) Jill's Handgun is randomized between handgun, broken shotgun (to get the shotgun), and magnum
+   # """
+#    display_name = "Early Weapon for Chris"
+ #   option_false = 0
+  #  option_true = 1
+   # default = 1
     
 
 
@@ -76,7 +76,8 @@ class RE1ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOpti
     difficulty: Difficulty
     bonus_start: BonusStart
     allow_progression_in_lab: AllowProgressionInLab
-    early_weapon_for_chris: EarlyWeaponforChris
+    #early_weapon_for_chris: EarlyWeaponforChris
+
 
 
 
