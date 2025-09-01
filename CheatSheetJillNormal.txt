@@ -1,133 +1,93 @@
 Version 1.098 Beta
 Room names are taken from http://www.evilresource.com/resident-evil-remake/maps
 
-0	"Desk Opposite East Door"
-DINING ROOM
-1	"Dining Table"
-2	"Destroyed Statue"
-3	"Behind Clock"
-WEST WING OUTER STAIRWAY
-4	"By Bird Cage"
-5	"Left Herb by Chairs"
-6	"Right Herb by Chairs"
-NORTHERN CORRIDOR
-7	"Cabinet near Western Entrance"
-RESEARCHER'S BEDROOM
-8	"On Bed"
-9	"Floor Inside Wardrobe"
-SMALL STOREROOM
-10	"Cabinet next to Entrance",
-11	"Gun Case"
-12	"Desk Drawer",
-TIGER STATUE ROOM
-13	"Right Side"
-14	"Left Side"
-BAR
-15	"Bookshelf Behind Cabinet"
-GREENHOUSE
-16	"Past Fountain Roots"
-GRAVEYARD
-17	"End of Graveyard"
-LARGE GALLERY
-18	"On Ground Outside"
-ART ROOM
-19	"End of Blocked off Hallway"
-L CORRIDOR
-20	"Under 1st Cabinet"
-21	"Under 2nd Cabinet"
-LARGE ART ROOM
-22	"Desk Drawer"
-MIRROR ROOM
-23	Floor by Southern Wall"
-24	"Cabinet"
-25	"Floor by Mirror"
-LIVING ROOM
-26	"Far end of Table"
-27	"Near End of Table"
-
-OUTSIDE BOILER
-28	Wheelbarrow"
-29	"Right Herb by Wheelbarrow"
-30	"Left Herb by Wheelbarrow"
-31	"By Wheelbarrow"
-BATHROOM
-32	"Drained Bathtub"
-COURTYARD STUDY
-33	"Study Desk Drawer"
-34	"West Wall Bookcase 2"
-35	"West Wall Bookcase 1"
-EAST WING STOREROOM
-36	"Floor by Item Box"
-
-37	Forest's Corpse
-
-
-38	"Floor Resupply One"
-40	"Floor Resupply Two"
-GARDEN SHED
-41	"Floor by Door"
-42	"Shelf Near Top of Stairs"
-43	"Shelf Near Stairs"
-44	"Shed Floor Resupply One"
-45	"Shed Floor Resupply Two"
-46	"Shed Floor Resupply Three"
-SECRET PASSAGE
-47	"By Gravestone"
-OUTSIDE BALCONY
-48	Dog 
-DINING ROOM 2F
-49	"By Door to Mirror Corridor"
-MIRROR CORRIDOR
-50	"By Crimson Head"
-51	"In Statue"
-52	"By Mirror at End of Corridor"
-ELEVATOR CORRIDOR
-53	"Left Green in Alcove"
-54	"Right Green in Alcove"
-55	"Red in Alcove"
-MATERIALS ROOM
-56	Floor by Door 1
-57	Floor by Door 2
-58	Floor further from Door
-59	Shelf
-TROPHY ROOM
-60	Below Deer Mount
-61	 Deer Mount
-62	Bull Mount
-63	North West Cabinet
-LIBRARY
-64	By Window (Right)
-65	By Window (Left)
-66	Glass Case
-OUTSIDE PATIO
-67	Bench
-68	Left Herb at end of Patio
-69	Right Herb at end of Patio
-PILLAR ROOM
-70	Right Herb by Pillar
-71	Left Herb by Pillar
-SMALL DINING ROOM
-72	 Cabinet in Corner"
-73	 On Table
-74	Behind Bookcase
-ATTIC ENTRY
-ATTIC
-77	Boxes in Corner
-C CORRIDOR
-78	Counter by Door
-ARMOR ROOM
-79	Armor Puzzle
-SLIDING TRAP ROOM
-80	On Cabinet by Hole
-RESTING ROOM
-81	Floor by Window and Door
+0	"SL - Desk Opposite East Door"
+1	"DR - Dining Table"
+2	"DR - Destroyed Statue"
+3	"DR - Behind Clock"
+4	"WWOS - By Bird Cage"
+5	"WWOS - Left Herb by Chairs"
+6	"WWOS - Right Herb by Chairs"
+7	"NC - Cabinet near Western Entrance"
+8	"RB - On Bed"
+9	"RB - Floor Inside Wardrobe"
+10	"SSR - Cabinet next to Entrance",
+11	"SSR - Gun Case"
+12	"SSR - Desk Drawer"
+13	"TSR - Right Side"
+14	"TSR - Left Side"
+15	"Bar - Bookshelf Behind Cabinet"
+16	"GH - Past Fountain Roots"
+17	"GY - End of Graveyard"
+18	"LG - On Ground Outside"
+19	"AR - End of Blocked off Hallway"
+20	"LC - Under 1st Cabinet"
+21	"LC - Under 2nd Cabinet"
+22	"LAR - Desk Drawer"
+23	"MR - Floor by Southern Wall"
+24	"MR - Cabinet"
+25	"MR - Floor by Mirror"
+26	"LR - Far end of Table" --- NOT RANDO
+27	"LR - Near End of Table" ---- NOT RANDO
+28	"OB - Wheelbarrow"
+29	"OB - Right Herb by Wheelbarrow"
+30	"OB - Left Herb by Wheelbarrow"
+31	"OB - By Wheelbarrow"
+32	"BR - Drained Bathtub"
+33	"CS - Study Desk Drawer"
+34	"CS - West Wall Bookcase 2"
+35	"CS - West Wall Bookcase 1"
+36	"EWS - Floor by Item Box"
+37	"OP - Forest's Corpse"
+38	"EWS - Floor Resupply One"
+39 ---NOT IN JILL PLAYTHROUGH
+40	"EWS - Floor Resupply Two"
+41	"GS - Floor by Door"
+42	"GS - Shelf Near Top of Stairs"
+43	"GS - Shelf Near Stairs"
+44	"GS - Shed Floor Resupply One"
+45	"GS - Shed Floor Resupply Two"
+46	"GS - Shed Floor Resupply Three"
+47	"SP - By Gravestone"
+48	OUTB - Dog 
+49	"DR2 - By Door to Mirror Corridor"
+50	"MC - By Crimson Head"
+51	"MC - In Statue"
+52	"MC - By Mirror at End of Corridor"
+53	"EC - Left Green in Alcove"
+54	"EC - Right Green in Alcove"
+55	"EC - Red in Alcove"
+56	MAT - Floor by Door 1
+57	MAT - Floor by Door 2
+58	MAT - Floor further from Door
+59	MAT - Shelf
+60	TR - Below Deer Mount
+61	TR - Deer Mount
+62	TR - Bull Mount
+63	TR - North West Cabinet
+64	LIB - By Window (Right)
+65	LIB - By Window (Left)
+66	LIB - Glass Case
+67	OP - Bench
+68	OP - Left Herb at end of Patio
+69	OP - Right Herb at end of Patio
+70	PR - Right Herb by Pillar
+71	PR - Left Herb by Pillar
+72	SDR - Cabinet in Corner"
+73	SDR - On Table
+74	SDR - Behind Bookcase
+77	AT - Boxes in Corner
+78	CC - Counter by Door
+79	AR - Armor Puzzle
+80	STR - On Cabinet by Hole
+81	RR - Floor by Window and Door
 SMALL LIBRARY
-82	South Entrance Desk
-83	Desk by Chessboard
+82	SL - South Entrance Desk
+83	SL - Desk by Chessboard
 BEDROOM
-84	Chair by Desk
-86	Dresser
-87	Corner of Room"
+84	BED - Chair by Desk
+86	BED - Dresser
+87	BED - Corner of Room"
 DEER ROOM
 88	By Entrance Across from Mount
 FISH TANK ROOM
@@ -136,7 +96,7 @@ FISH TANK ROOM
 91	Insect Display
 92	Secret behind Display
 KITCHEN
-(?)	On Table
+93	On Table
 CONCRETE PASSAGE 2
 95	Red Floor Herb
 96	Blue Floor Herb
@@ -274,4 +234,5 @@ POWER MAZE B
 
 180      Fuel supply cap (filled)
 181     "Gun Rest" - May not be randomizable
+
 
