@@ -81,7 +81,7 @@ class ResidentEvil1Remake(World):
             for location in region.locations:
                 location_data = scenario_locations[location.address]
                 
-                
+                #maybe the code for giving chris an early weapon goes here??
                     
                 # if location has an item that should be forced there, place that. for cases where the item to place differs from the original.
                 if 'force_item' in location_data and location_data['force_item']:
@@ -96,10 +96,10 @@ class ResidentEvil1Remake(World):
                 elif self._format_option_text(self.options.allow_progression_in_lab) == 'False' and region_data['zone_id'] > 3:
                     location.item_rule = lambda item: not item.advancement
                 #end if
-                
+  ######################################################################################################################################################################################################################              
                # if self._format_option_text(self.options.early_weapon_for_chris) == 'True': not sure if this is done right so commented out for now
                     # something that makes "MH - Main Hall Floor" location guaranteed to be one of the weapons available to chris
-                   
+ ####################################################################################################################################################################################################
                     
                 
 
@@ -159,16 +159,18 @@ class ResidentEvil1Remake(World):
                 pool.remove(filled_location.item)
 
         # check the bonus start option and add some heal items and ammo packs as precollected / starting items
+        #Needs changed to be based on character, with Jill getting spray, ammo, dagger; Currently not implemented
+        #and chris getting spray ammo, dagger, and an Old Key count_bangs repurposed into old key for chris
         if self._format_option_text(self.options.bonus_start) == 'True':
             count_spray = 3
             count_ammo = 4
             count_grenades = 3
-            count_bangs = 3
+            count_bangs = 1
 
             for x in range(count_spray): self.multiworld.push_precollected(self.create_item('First Aid Spray'))
             for x in range(count_ammo): self.multiworld.push_precollected(self.create_item('Handgun Magazine'))
-            for x in range(count_grenades): self.multiworld.push_precollected(self.create_item('Hand Grenade'))
-            for x in range(count_bangs): self.multiworld.push_precollected(self.create_item('Flash Grenade'))
+            for x in range(count_grenades): self.multiworld.push_precollected(self.create_item('Dagger'))
+            for x in range(count_bangs): self.multiworld.push_precollected(self.create_item('Old Key'))
 
 
         # if the number of unfilled locations exceeds the count of the pool, fill the remainder of the pool with extra maybe helpful items
@@ -181,6 +183,8 @@ class ResidentEvil1Remake(World):
         # Make any items that result in a really quick BK either early or local items, so the BK time is reduced
         early_items = {}       
         #early_items["Fuse - Main Hall"] = 1
+        #Possible items for this: Book of Curses, Dog whistle, Stone and Metal Object, Square crank 
+        #need to find which items cause BK to be sure
 
         for item_name, item_qty in early_items.items():
             if item_qty > 0:
@@ -337,14 +341,29 @@ class ResidentEvil1Remake(World):
         return self._format_option_text(self.options.character).lower()
     
     def _get_scenario(self) -> str:
-        # preserving scenario in case it's ever used later, in which case this function can be updated
+        # preserving scenario in case it's ever used later, in which case this function can be updated. may change this to set up real survival mode, or one dangerous zombie??
         # don't forget to restructure the data folders and update the data folder structure to support any changes here
 
         return "a"; 
-    
+
+
+    ##################################################################################################################
+    #Trying to set an option for the chris playthrough to guarantee an early gun since he doesn't start with one
+  #  def _get_earlywep(self) -> str:
+   #     if self._format_option_text(self.options.character).lower() =="chris"
+    #        return self._format_option_text(self.options.earlywep).lower()
+     #   else return None
+    ########################################################################################################################
     def _get_difficulty(self) -> str:
         return self._format_option_text(self.options.difficulty).lower()
+
+
+#######################################################################################################################################################################
     
+    #with open(os.path.join(f"ItemList{self._format_option_text(self.options.character).lower()}Normal.txt", 'w') as f:
+    #Need to write programming to automatically write the itemlist file for the randomizer (may be changed if randomizer is altered or new randomizer made)
+    #Top may need rewritten file should have name "ItemListJillNormal.txt" for Jill and "ItemListChrisNormal.txt" for Chris
+  #################################################################################################################################################################  
     def _replace_pool_item_with(self, pool, from_item_name, to_item_name) -> list:
         items_to_remove = [item for item in pool if item.name == from_item_name]
         count_of_new_items = len(items_to_remove)
