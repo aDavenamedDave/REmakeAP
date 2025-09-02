@@ -1607,7 +1607,7 @@
         "force_item":""
     },
     {
-        "name": "USTR - Pile of Boxes opposite Cargo Transporter 3",
+        "name": "USTR - Pile of Boxes opposite Cargo Transporter 1",
         "region": "Underground Storage Room",
         "original_item": "Magnum Rounds",
         "condition":{},
@@ -1618,7 +1618,7 @@
         "force_item":""
     },
     {
-        "name": "USTR - Pile of Boxes opposite Cargo Transporter 1",
+        "name": "USTR - Pile of Boxes opposite Cargo Transporter 2",
         "region": "Underground Storage Room",
         "original_item": "Handgun Magazine",
         "condition":{ },
@@ -1629,7 +1629,7 @@
         "force_item":""
     },
     {
-        "name": "USTR - Pile of Boxes opposite Cargo Transporter 2",
+        "name": "USTR - Pile of Boxes opposite Cargo Transporter 3",
         "region": "Underground Storage Room",
         "original_item": "Battery Pack",
         "condition":{},
@@ -2258,6 +2258,7 @@
         "victory": true
     }
 ]
+
 
 
 
