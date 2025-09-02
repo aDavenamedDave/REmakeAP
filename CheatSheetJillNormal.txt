@@ -76,27 +76,26 @@ Room names are taken from http://www.evilresource.com/resident-evil-remake/maps
 72	SDR - Cabinet in Corner"
 73	SDR - On Table
 74	SDR - Behind Bookcase
+75	Bottle #1
+76	Bottle #2 
 77	AT - Boxes in Corner
 78	CC - Counter by Door
 79	AR - Armor Puzzle
 80	STR - On Cabinet by Hole
 81	RR - Floor by Window and Door
-SMALL LIBRARY
 82	SL - South Entrance Desk
 83	SL - Desk by Chessboard
-BEDROOM
 84	BED - Chair by Desk
+85	Bottle #3 
 86	BED - Dresser
 87	BED - Corner of Room"
-DEER ROOM
 88	By Entrance Across from Mount
-FISH TANK ROOM
 89	Hook Display
 90	Lure Display
 91	Insect Display
 92	Secret behind Display
-KITCHEN
 93	On Table
+94	Bottle #4 
 CONCRETE PASSAGE 2
 95	Red Floor Herb
 96	Blue Floor Herb
@@ -146,9 +145,9 @@ WINDING UNDERGROUND PASSAGE
 124	Left Herb on Floor
 125	Right Herb on Floor
 UNDERGROUND STORAGE
-126	Pile of Boxes opposite Cargo Transporter 3
-127	Pile of Boxes opposite Cargo Transporter 1
-128	Pile of Boxes opposite Cargo Transporter 2
+126	Pile of Boxes opposite Cargo Transporter 1
+127	Pile of Boxes opposite Cargo Transporter 2
+128	Pile of Boxes opposite Cargo Transporter 3
 LISA'S ROOM
 129	Lisa's Desk
 130	Offshoot Near Ladder
@@ -178,11 +177,8 @@ GALLERY
 147	Stung Corpse
 148	Desk Under Hive
 149	 Double Doors
-RESIDENCE MEDICAL ROOM
-75	Bottle #1
-76	Bottle #2 
-85	Bottle #3 
-94	Bottle #4 
+
+
 PLANT 42 ROOM
 150	Fireplace in Plant Room
 AQUA RING ENTRY
@@ -232,7 +228,8 @@ POWER MAZE A
 POWER MAZE B
 179	North West Corner Floor
 
-180      Fuel supply cap (filled)
+180      Fuel supply cap (filled) (not a location just a value for the filled fuel instead of the empty that is a location
 181     "Gun Rest" - May not be randomizable
+
 
 
