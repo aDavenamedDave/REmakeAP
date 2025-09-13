@@ -35,8 +35,8 @@ Room names are taken from http://www.evilresource.com/resident-evil-remake/maps
 31	"OB - By Wheelbarrow"
 32	"BR - Drained Bathtub"
 33	"CS - Study Desk Drawer"
-34	"CS - West Wall Bookcase 2"
-35	"CS - West Wall Bookcase 1"
+34	"CS - West Wall Bookcase 1"
+35	"CS - West Wall Bookcase 2"
 36	"EWS - Floor by Item Box"
 37	"OP - Forest's Corpse"
 38	"EWS - Floor Resupply One"
@@ -230,6 +230,7 @@ POWER MAZE B
 
 180      Fuel supply cap (filled) (not a location just a value for the filled fuel instead of the empty that is a location
 181     "Gun Rest" - May not be randomizable
+
 
 
 
