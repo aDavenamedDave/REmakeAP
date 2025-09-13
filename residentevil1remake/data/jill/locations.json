@@ -4,6 +4,7 @@
         "region": "Small Library",
         "original_item": "Lighter",
         "condition": {},
+        "locval": 0,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -25,6 +26,7 @@
         "region": "Dining Room",
         "original_item": "Ink Ribbon",
         "condition": {},
+        "locval": 1,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -35,6 +37,7 @@
         "region": "Dining Room",
         "original_item": "Blue Gemstone",
         "condition": {},
+        "locval": 2,
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
@@ -47,6 +50,7 @@
         "condition": {
             "items" :["Gold Emblem"]
         },
+        "locval": 3,
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
@@ -67,6 +71,7 @@
         "region": "West Wing Outer Stairway",
         "original_item": "Handgun Magazine",
         "condition": {},
+        "locval": 4,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -76,6 +81,7 @@
         "name": "WWOS - Left Herb by Chairs",
         "region": "West Wing Outer Stairway",
         "original_item": "Green Herb",
+        "locval": 5,
         "condition": {},    
         "item_object": "",
         "parent_object": "",
@@ -86,36 +92,8 @@
         "name": "WWOS - Right Herb by Chairs",
         "region": "West Wing Outer Stairway",
         "original_item": "Green Herb",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item": []
-    },
-    {
-        "name": "SSR - Cabinet next to Entrance",
-        "region": "Small Storeroom",
-        "original_item": "Battery Pack",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item": []
-    },
-    {
-        "name": "SSR - Desk Drawer",
-        "region": "Small Storeroom",
-        "original_item": "Ink Ribbon",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": ""
-    },
-    {
-        "name": "SSR - Gun Case",
-        "region": "Small Storeroom",
-        "original_item": "Broken Shotgun",
-        "condition": {},    
+        "condition": {},
+        "locval": 6,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -125,19 +103,31 @@
         "name": "NC - Cabinet near Western Entrance",
         "region": "Northern Corridor",
         "original_item": "Battery Pack",
-        "condition": {
-            
-        },    
+        "condition": {},
+        "locval": 7,
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
     },
     {
+        "name": "RB - On Bed",
+        "region": "Researcher's Bedroom",
+        "original_item": "Handgun Magazine",
+        "condition": {},
+         "locval": 8,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+
+    {
         "name": "RB - Floor Inside Wardrobe",
         "region": "Researcher's Bedroom",
         "original_item": "Battery Pack",
-        "condition": {
-            },    
+        "condition": {},  
+        "locval": 9,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -145,23 +135,57 @@
         "force_item":""
     },
     {
-        "name": "RB - On Bed",
-        "region": "Researcher's Bedroom",
-        "original_item": "Handgun Magazine",
+        "name": "SSR - Cabinet next to Entrance",
+        "region": "Small Storeroom",
+        "original_item": "Battery Pack",
+        "condition": {},
+         "locval": 10,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+        {
+        "name": "SSR - Gun Case",
+        "region": "Small Storeroom",
+        "original_item": "Broken Shotgun",
+        "condition": {},
+        "locval": 11,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "SSR - Desk Drawer",
+        "region": "Small Storeroom",
+        "original_item": "Ink Ribbon",
+        "condition": {},
+        "locval": 12,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+      {
+        "name": "TSR - Right Side",
+        "region": "Tiger Statue Room",
+        "original_item": "Shotgun Shells",
         "condition": {
-            },    
+            "items":[ "Blue Gemstone"]}, 
+        "locval": 13,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
-    },
+    }, 
     {
         "name": "TSR - Left Side",
         "region": "Tiger Statue Room",
         "original_item": "MO Disk 1",
         "condition": {
-            "items":["Yellow Gemstone"]},    
+            "items":["Yellow Gemstone"]},
+        "locval": 14,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -169,17 +193,18 @@
         "force_item":""
     },
     {
-        "name": "TSR - Right Side",
-        "region": "Tiger Statue Room",
-        "original_item": "Shotgun Shells",
-        "condition": {
-            "items":[ "Blue Gemstone"]},    
+        "name": "Bar - Bookshelf Behind Cabinet",
+        "region": "Bar",
+        "original_item": "Missing Music",
+        "condition": {},
+        "locval": 15,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
+  
     {
         "name": "GH - Against Wall 5",
         "region": "Greenhouse",
@@ -247,23 +272,14 @@
         "condition": {
             "items":["Herbicide"]
         },    
+        "locval": 16,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
-    {
-        "name": "Bar - Bookshelf Behind Cabinet",
-        "region": "Bar",
-        "original_item": "Missing Music",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
+    
     {
         "name": "Bar - Hidden Hallway",
         "region": "Bar",
@@ -277,11 +293,40 @@
         "forbid_item":[],
         "randomized":0
     },
+   {
+        "name": "GY - End of Graveyard",
+        "region": "Graveyard",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            
+        }, 
+        "locval": 17,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LG - On Ground Outside",
+        "region": "Large Gallery",
+        "original_item": "Mask Without Mouth",
+        "condition": {
+            
+        },   
+        "locval": 18,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
     {
         "name": "AR - End of Blocked off Hallway",
         "region": "Art Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},  
+        "locval": 19,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -295,6 +340,7 @@
         "condition": {
             
         },    
+        "locval": 20,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -307,7 +353,65 @@
         "original_item": "Handgun Magazine",
         "condition": {
             
+        },   
+        "locval": 21,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+        {
+        "name": "LAR - Desk Drawer",
+        "region": "Large Art Room",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            
+        },
+        "locval": 22,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "MR - Floor by Southern Wall",
+        "region": "Mirror Room",
+        "original_item": "Dagger",
+        "condition": {
+            
         },    
+        "locval": 23,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+        {
+        "name": "MR - Cabinet",
+        "region": "Mirror Room",
+        "original_item": "Emblem Key",
+        "condition": {
+            
+        },    
+        "locval": 24,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+   
+    {
+        "name": "MR - Floor by Mirror",
+        "region": "Mirror Room",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        },    
+        "locval": 25,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -315,17 +419,28 @@
         "force_item":""
     },
     {
-        "name": "BR - Drained Bathtub",
-        "region": "Bathroom",
-        "original_item": "Dagger",
-        "condition": {
-            
-        },    
+        "name": "LR - Near End of Table",
+        "region": "Living Room",
+        "original_item": "Ink Ribbon",
+        "condition": {},
+         "locval": 26,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
-        "force_item":""
+        "randomized": 0
+    },
+    {
+        "name": "LR - Far end of Table",
+        "region": "Living Room",
+        "original_item": "Dagger",
+        "condition": {},  
+         "locval": 27,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "randomized": 0
     },
     {
         "name": "OB - Wheelbarrow",
@@ -333,7 +448,36 @@
         "original_item": "Herbicide",
         "condition": {
             
+        },
+         "locval": 28,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+      {
+        "name": "OB - Right Herb by Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Green Herb",
+        "condition": {
+            
         },    
+         "locval": 29,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+      {
+        "name": "OB - Left Herb by Wheelbarrow",
+        "region": "Outside Boiler",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        }, 
+        "locval": 30,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -346,26 +490,32 @@
         "original_item": "Red Herb",
         "condition": {
             
-        },    
+        }, 
+         "locval": 31,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
+
+
     {
-        "name": "OB - Left Herb by Wheelbarrow",
-        "region": "Outside Boiler",
-        "original_item": "Green Herb",
+        "name": "BR - Drained Bathtub",
+        "region": "Bathroom",
+        "original_item": "Dagger",
         "condition": {
             
-        },   
+        }, 
+         "locval": 32,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
+    
+  
     {
         
         "name": "AT - Richard Gets Eaten",
@@ -395,64 +545,43 @@
         "randomized": 0
     },
     {
-        "name": "OB - Right Herb by Wheelbarrow",
-        "region": "Outside Boiler",
-        "original_item": "Green Herb",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "LG - On Ground Outside",
-        "region": "Large Gallery",
-        "original_item": "Mask Without Mouth",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
         "name": "CS - West Wall Bookcase 1",
-        "region": "Courtyard Study",
-        "original_item": "Battery Pack",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "CS - West Wall Bookcase 2",
         "region": "Courtyard Study",
         "original_item": "Metal Object",
         "condition": {
             
-        },    
+        },   
+        "locval": 34,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
+    
+    {
+        "name": "CS - West Wall Bookcase 2",
+        "region": "Courtyard Study",
+        "original_item": "Battery Pack",
+        "condition": {
+            
+        },  
+        "locval": 35,
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
     {
         "name": "CS - Study Desk Drawer",
         "region": "Courtyard Study",
         "original_item": "Shotgun Shells",
         "condition": {
             
-        },    
+        },   
+        "locval": 33,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -465,7 +594,9 @@
         "original_item": "Fuel Canteen",
         "condition": {
             
-        },    
+        },   
+        
+        "locval": 36,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -478,7 +609,8 @@
         "original_item": "First Aid Spray",
         "condition": {
             "locations":["DP - Trap in Passage"]
-        },    
+        },
+        "locval": 38,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -491,118 +623,36 @@
         "original_item": "Incendiary Rounds",
         "condition": {
             "locations":["DP - Trap in Passage"]
-        },    
+        },  
+        "locval": 40,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "force_item":""
     },
-    {
-        "name": "LR - Near End of Table",
-        "region": "Living Room",
-        "original_item": "Ink Ribbon",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "randomized": 0
-    },
-    {
-        "name": "LR - Far end of Table",
-        "region": "Living Room",
-        "original_item": "Dagger",
-        "condition": {},    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "randomized": 0
-    },
+    
     {
         "name": "LR - Gun Rest",
         "region": "Living Room",
         "original_item": "Shotgun",
-        "condition": {        },    
+        "condition": {        },
+        "locval": 181,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
         "forbid_item":[],
         "randomized": 0
     },
-    {
-        "name": "LAR - Desk Drawer",
-        "region": "Large Art Room",
-        "original_item": "Ink Ribbon",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "MR - Floor by Mirror",
-        "region": "Mirror Room",
-        "original_item": "Green Herb",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "MR - Cabinet",
-        "region": "Mirror Room",
-        "original_item": "Emblem Key",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "MR - Floor by Southern Wall",
-        "region": "Mirror Room",
-        "original_item": "Dagger",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
-    {
-        "name": "GY - End of Graveyard",
-        "region": "Graveyard",
-        "original_item": "Shotgun Shells",
-        "condition": {
-            
-        },    
-        "item_object": "",
-        "parent_object": "",
-        "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
-    },
+    
     {
         "name": "SP - By Gravestone",
         "region": "Secret Passage",
         "original_item": "Last Book Volume 1 - Medal of Eagle",
         "condition": {
             
-        },    
+        },  
+        "locval": 47,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -615,7 +665,8 @@
         "original_item": "Shotgun Shells",
         "condition": {
             
-        },    
+        },  
+        "locval": 41,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -628,7 +679,8 @@
         "original_item": "Battery Pack",
         "condition": {
             
-        },    
+        }, 
+        "locval": 42,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -641,6 +693,7 @@
         "original_item": "First Aid Spray",
         "condition": {
         },    
+        "locval": 43,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -654,6 +707,7 @@
         "condition": {
             "locations":["42 - Fireplace in Plant Room"]
         },    
+        "locval": 44,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -667,6 +721,7 @@
         "condition": {
             "locations":["42 - Fireplace in Plant Room"]
         },    
+        "locval": 45,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -680,6 +735,7 @@
         "condition": {
             "locations":["42 - Fireplace in Plant Room"]
         },    
+        "locval": 46,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -690,7 +746,8 @@
         "name": "MG - Green Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},  
+         "locval": 108,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -701,7 +758,8 @@
         "name": "MG - Blue Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Blue Herb",
-        "condition": {},    
+        "condition": {},   
+         "locval": 109,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -712,7 +770,8 @@
         "name": "CC - Counter by Door",
         "region": "'C' Corridor",
         "original_item": "Wooden Mount",
-        "condition": {},    
+        "condition": {},  
+        "locval": 78,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -723,7 +782,8 @@
         "name": "AR - Armor Puzzle",
         "region": "Armor Room",
         "original_item": "Mask Without All",
-        "condition": {},    
+        "condition": {},  
+        "locval": 79,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -734,7 +794,8 @@
         "name": "PR - Left Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {}, 
+        "locval": 71,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -745,7 +806,8 @@
         "name": "PR - Right Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {}, 
+        "locval": 70,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -756,7 +818,8 @@
         "name": "AT - Boxes in Corner",
         "region": "Attic",
         "original_item": "Mask Without Nose",
-        "condition": {},    
+        "condition": {},  
+        "locval": 77,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -778,7 +841,8 @@
         "name": "SDR - On Table",
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
-        "condition": {},    
+        "condition": {}, 
+        "locval": 73,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -792,6 +856,7 @@
         "condition": {
             "items":["Lighter"]
         },    
+        "locval": 72,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -805,6 +870,7 @@
         "condition": {
             "items":["Lighter"]
         },    
+        "locval": 74,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -815,7 +881,8 @@
         "name": "SL - South Entrance Desk",
         "region": "Small Library",
         "original_item": "Dog Whistle",
-        "condition": {},   
+        "condition": {}, 
+        "locval": 82,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -826,7 +893,8 @@
         "name": "SL - Desk by Chessboard",
         "region": "Small Library",
         "original_item": "Handgun Magazine",
-        "condition": {},    
+        "condition": {},  
+        "locval": 83,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -837,7 +905,8 @@
         "name": "DEER - By Entrance Across from Mount",
         "region": "Deer Room",
         "original_item": "Red Herb",
-        "condition": {},    
+        "condition": {},  
+        "locval": 88,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -848,7 +917,8 @@
         "name": "BED - Chair by Desk",
         "region": "Bedroom",
         "original_item": "First Aid Box - First Aid Spray",
-        "condition": {},    
+        "condition": {}, 
+        "locval": 84,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -859,7 +929,8 @@
         "name": "BED - Dresser",
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
-        "condition": {},    
+        "condition": {},   
+        "locval": 86,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -870,7 +941,8 @@
         "name": "BED - Corner of Room",
         "region": "Bedroom",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},  
+        "locval": 87,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -881,7 +953,8 @@
         "name": "FTR - Hook Display",
         "region": "Fish Tank Room",
         "original_item": "Fishhook",
-        "condition": {},    
+        "condition": {}, 
+        "locval": 89,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -891,7 +964,8 @@
         "name": "FTR - Lure Display",
         "region": "Fish Tank Room",
         "original_item": "Bee Specimen",
-        "condition": {},    
+        "condition": {},  
+        "locval": 90,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -902,7 +976,8 @@
         "name": "FTR - Insect Display",
         "region": "Fish Tank Room",
         "original_item": "Lure Without Hook",
-        "condition": {},    
+        "condition": {},   
+        "locval": 91,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -916,6 +991,7 @@
         "condition": {
             "items":["Lure Without Hook", "Bee Specimen", "Fishhook"]
         },   
+        "locval": 92,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -926,7 +1002,8 @@
         "name": "RR - Floor by Window and Door",
         "region": "Resting Room",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},  
+        "locval": 81,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -937,7 +1014,8 @@
         "name": "STR - On Cabinet by Hole",
         "region": "Sliding Trap Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},  
+        "locval": 80,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -949,6 +1027,7 @@
         "region": "Dining Room 2F",
         "original_item": "Dagger",
         "condition": {},    
+        "locval": 49,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -961,7 +1040,8 @@
         "original_item": "Green Herb",
         "condition": {
             
-        },    
+        },   
+        "locval": 50,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -974,7 +1054,8 @@
         "original_item": "Golden Arrow - Arrowhead",
         "condition": {
             
-        },    
+        },   
+        "locval": 51,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -987,7 +1068,8 @@
         "original_item": "Handgun Magazine",
         "condition": {
             
-        },    
+        },  
+        "locval": 52,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1013,7 +1095,8 @@
         "original_item": "Green Herb",
         "condition": {
             
-        },    
+        },  
+        "locval": 65,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1026,7 +1109,8 @@
         "original_item": "Green Herb",
         "condition": {
             
-        },    
+        },   
+        "locval": 64,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1039,7 +1123,8 @@
         "original_item": "Last Book Volume 2 - Medal of Wolf",
         "condition": {
             
-        },    
+        },  
+        "locval": 66,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1053,6 +1138,7 @@
         "condition": {
             "items":["Dog Whistle"]
         },    
+        "locval": 48,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1065,7 +1151,8 @@
         "original_item": "Grenade Rounds",
         "condition": {
             
-        },    
+        },   
+        "locval": 60,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1078,7 +1165,8 @@
         "original_item": "Red Gemstone",
         "condition": {
             
-        },    
+        },   
+        "locval": 61,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1092,6 +1180,7 @@
         "condition": {
             
         },    
+        "locval": 62,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1105,6 +1194,7 @@
         "condition": {
             
         },    
+        "locval": 63,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1118,6 +1208,7 @@
         "condition":{
             
         },
+        "locval": 53,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1131,6 +1222,7 @@
         "condition":{
             
         },
+        "locval": 54,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1144,6 +1236,7 @@
         "condition":{
             
         },
+        "locval": 55,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1157,6 +1250,7 @@
         "condition":{
             
         },
+        "locval": 56,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1170,6 +1264,7 @@
         "condition":{
             
         },
+        "locval": 59,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1183,6 +1278,7 @@
         "condition":{
             
         },
+        "locval": 58,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1196,6 +1292,7 @@
         "condition":{
             
         },
+        "locval": 57,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1209,6 +1306,7 @@
         "condition":{
             "items":["Golden Arrow - Arrowhead"]
         },
+        "locval": 100,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1222,6 +1320,7 @@
         "condition":{
             "items":["Mask Without Nose","Mask Without Eyes", "Mask Without Mouth", "Mask Without All"]
         },
+        "locval": 102,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1235,6 +1334,7 @@
         "condition":{
             "items":["Mask Without All","Mask Without Eyes","Mask Without Mouth","Mask Without Nose"]
         },
+        "locval": 101,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1248,6 +1348,7 @@
         "condition":{
             
         },
+        "locval": 67,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1261,6 +1362,7 @@
         "condition":{
             
         },
+        "locval": 37,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1274,6 +1376,7 @@
         "condition":{
             
         },
+        "locval": 68,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1287,6 +1390,7 @@
         "condition":{
             
         },
+        "locval": 69,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1300,6 +1404,7 @@
         "condition":{
             
         },
+        "locval": 93,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1313,6 +1418,7 @@
         "condition":{
             
         },
+        "locval": 95,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1326,6 +1432,7 @@
         "condition":{
             
         },
+        "locval": 96,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1339,6 +1446,7 @@
         "condition":{
             
         },
+        "locval": 97,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1350,6 +1458,7 @@
         "region": "Concrete Passage 2",
         "original_item": "Handgun Magazine",
         "condition":{ },
+        "locval": 98,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1361,6 +1470,7 @@
         "region": "Concrete Passage 1",
         "original_item": "Shotgun Shells",
         "condition":{  },
+        "locval": 99,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1372,6 +1482,7 @@
         "region": "Zigzag Path",
         "original_item": "Red Herb",
         "condition":{ },
+        "locval": 110,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1379,12 +1490,13 @@
         "force_item":""
     },
     {
-        "name": "SHA - Left Crest",
+        "name": "SHA - Sun Crest",
         "region": "Small Headstone Area",
         "original_item": "Sun Crest",
         "condition":{
             "items":["Wind Crest"]
         },
+        "locval": 105,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1392,12 +1504,13 @@
         "force_item":""
     },
     {
-        "name": "SHA - Middle Crest",
+        "name": "SHA - Moon Crest",
         "region": "Small Headstone Area",
         "original_item": "Moon Crest",
         "condition":{
             "items":["Wind Crest"]
         },
+        "locval": 103,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1405,12 +1518,13 @@
         "force_item":""
     },
     {
-        "name": "SHA - Right Crest",
+        "name": "SHA - Star Crest",
         "region": "Small Headstone Area",
         "original_item": "Star Crest",
         "condition":{
             "items":["Wind Crest"]
         },
+        "locval": 104,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1424,6 +1538,7 @@
         "condition":{
             "items":["Sun Crest", "Moon Crest", "Star Crest"]
         },
+        "locval": 106,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1435,6 +1550,7 @@
         "region": "Cabin",
         "original_item": "Square Crank",
         "condition":{ },
+        "locval": 107,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1446,6 +1562,7 @@
         "region": "Mining Area",
         "original_item": "Ink Ribbon",
         "condition":{},
+        "locval": 111,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1456,7 +1573,10 @@
         "name": "MA - End of Passageway",
         "region": "Mining Area",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition":{
+            "items":["Hexagon Crank"]
+        },
+        "locval": 112,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1468,6 +1588,7 @@
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
         "condition":{},
+        "locval": 115,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1479,6 +1600,7 @@
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
         "condition":{ },
+        "locval": 113,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1490,6 +1612,7 @@
         "region": "Generator Room",
         "original_item": "Shaft",
         "condition":{ },
+        "locval": 114,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1501,6 +1624,7 @@
         "region": "Enrico Room",
         "original_item": "Hexagon Crank",
         "condition":{},
+        "locval": 116,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1512,6 +1636,7 @@
         "region": "Boulder Passage 1",
         "original_item": "Shotgun Shells",
         "condition":{},
+        "locval": 117,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1523,6 +1648,7 @@
         "region": "Spider Room",
         "original_item": "Survival Knife",
         "condition":{},
+        "locval": 118,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1534,6 +1660,7 @@
         "region": "Straight Passage",
         "original_item": "Blue Herb",
         "condition":{},
+        "locval": 120,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1545,6 +1672,7 @@
         "region": "Straight Passage",
         "original_item": "Blue Herb",
         "condition":{},
+        "locval": 119,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1556,6 +1684,7 @@
         "region": "Boulder Passage 2",
         "original_item": "First Aid Box - First Aid Spray",
         "condition":{},
+        "locval": 121,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1567,6 +1696,7 @@
         "region": "Underground Statue Room",
         "original_item": "Cylinder",
         "condition":{},
+        "locval": 122,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1578,6 +1708,7 @@
         "region": "Garbage Compactor Room",
         "original_item": "Broken Flamethrower",
         "condition":{},
+        "locval": 123,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1589,6 +1720,7 @@
         "region": "Winding Underground Passage",
         "original_item": "Green Herb",
         "condition":{ },
+        "locval": 124,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1600,6 +1732,7 @@
         "region": "Winding Underground Passage",
         "original_item": "Red Herb",
         "condition":{ },
+        "locval": 125,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1611,6 +1744,7 @@
         "region": "Underground Storage Room",
         "original_item": "Magnum Rounds",
         "condition":{},
+        "locval": 126,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1622,6 +1756,7 @@
         "region": "Underground Storage Room",
         "original_item": "Handgun Magazine",
         "condition":{ },
+        "locval": 127,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1633,6 +1768,7 @@
         "region": "Underground Storage Room",
         "original_item": "Battery Pack",
         "condition":{},
+        "locval": 128,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1644,6 +1780,7 @@
         "region": "Lisa's Room",
         "original_item": "Jewelry Box - Stone Ring",
         "condition":{},
+        "locval": 129,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1655,6 +1792,7 @@
         "region": "Lisa's Room",
         "original_item": "Blue Herb",
         "condition":{ },
+        "locval": 130,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1666,6 +1804,7 @@
         "region": "Lisa's Room",
         "original_item": "Green Herb",
         "condition":{},
+        "locval": 131,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1677,6 +1816,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{},
+        "locval": 134,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1688,6 +1828,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{ },
+        "locval": 133,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1699,6 +1840,7 @@
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
         "condition":{},
+        "locval": 132,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1710,6 +1852,7 @@
         "region": "Residence Storeroom",
         "original_item": "Ink Ribbon",
         "condition":{},
+        "locval": 135,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1721,6 +1864,7 @@
         "region": "Residence Storeroom",
         "original_item": "Battery Pack",
         "condition":{},
+        "locval": 136,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1732,6 +1876,7 @@
         "region": "Room 001",
         "original_item": "Self-Defense Gun",
         "condition":{},
+        "locval": 137,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1743,6 +1888,7 @@
         "region": "Room 001",
         "original_item": "Handgun Magazine",
         "condition":{},
+        "locval": 138,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1754,6 +1900,7 @@
         "region": "Room 001 Bathroom",
         "original_item": "Control Room Key",
         "condition":{},
+        "locval": 139,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1765,6 +1912,7 @@
         "region": "Rec Room",
         "original_item": "Green Herb",
         "condition":{},
+        "locval": 140,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1776,6 +1924,7 @@
         "region": "Rec Room",
         "original_item": "Green Herb",
         "condition":{},
+        "locval": 141,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1783,10 +1932,11 @@
         "force_item":""
     },
     {
-        "name": "REC - Bar Downstairs 1",
+        "name": "REC - Bar Downstairs, Book",
         "region": "Rec Room",
         "original_item": "Red Book - Unprinted Book",
         "condition":{},
+        "locval": 142,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1794,10 +1944,11 @@
         "force_item":""
     },
     {
-        "name": "REC - Bar Downstairs 2",
+        "name": "REC - Bar Downstairs, FAB",
         "region": "Rec Room",
         "original_item": "First Aid Box - Mixed Herbs (G+B)",
         "condition":{},
+        "locval": 143,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1809,6 +1960,7 @@
         "region": "Rec Room",
         "original_item": "Shotgun Shells",
         "condition":{},
+        "locval": 144,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1820,6 +1972,7 @@
         "region": "Room 002 Bathroom",
         "original_item": "Key for Room 001",
         "condition":{},
+        "locval": 145,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1831,6 +1984,7 @@
         "region": "Gallery",
         "original_item": "Handgun Magazine",
         "condition":{},
+        "locval": 146,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1842,6 +1996,7 @@
         "region": "Gallery",
         "original_item": "Insecticide",
         "condition":{ },
+        "locval": 147,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1853,6 +2008,7 @@
         "region": "Gallery",
         "original_item": "Key for Room 003",
         "condition":{},
+        "locval": 148,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1864,6 +2020,7 @@
         "region": "Gallery",
         "original_item": "Red Herb",
         "condition":{},
+        "locval": 149,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1875,6 +2032,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{},
+        "locval": 75,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1886,6 +2044,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{},
+        "locval": 76,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1897,6 +2056,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{},
+        "locval": 85,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1908,6 +2068,7 @@
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
         "condition":{},
+        "locval": 94,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1919,6 +2080,7 @@
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
         "condition":{},
+        "locval": 150,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1930,6 +2092,7 @@
         "region": "Aqua Ring Entry",
         "original_item": "Green Herb",
         "condition":{ },
+        "locval": 151,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1941,6 +2104,7 @@
         "region": "Control Room",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
         "condition":{},
+        "locval": 152,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1952,6 +2116,7 @@
         "region": "Aqua Ring Storage",
         "original_item": "Shotgun Shells",
         "condition":{},
+        "locval": 153,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1963,6 +2128,7 @@
         "region": "Aqua Ring Water Tank",
         "original_item": "Gallery Key",
         "condition":{},
+        "locval": 154,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1974,6 +2140,7 @@
         "region": "Aqua Ring Exit",
         "original_item": "Magnum Rounds",
         "condition":{},
+        "locval": 155,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1985,6 +2152,7 @@
         "region": "Item Box Room",
         "original_item": "Ink Ribbon",
         "condition":{},
+        "locval": 156,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -1996,6 +2164,7 @@
         "region": "Laboratory Stairway",
         "original_item": "Green Herb",
         "condition":{},
+        "locval": 158,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2007,6 +2176,7 @@
         "region": "Laboratory Stairway",
         "original_item": "Green Herb",
         "condition":{},
+        "locval": 157,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2018,6 +2188,7 @@
         "region": "Laboratory Stairway",
         "original_item": "MO Disk 3",
         "condition":{},
+        "locval": 159,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2029,6 +2200,7 @@
         "region": "'O' Room",
         "original_item": "Dagger",
         "condition":{},
+        "locval": 169,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2040,6 +2212,7 @@
         "region": "Operating Room",
         "original_item": "Magnum Rounds",
         "condition":{ },
+        "locval": 170,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2051,6 +2224,7 @@
         "region": "Operating Room",
         "original_item": "Battery Pack",
         "condition":{},
+        "locval": 171,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2062,6 +2236,7 @@
         "region": "Operating Room",
         "original_item": "First Aid Box - Green Herb",
         "condition":{},
+        "locval": 172,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2073,6 +2248,7 @@
         "region": "Pass Code Corridor",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
         "condition":{},
+        "locval": 164,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2084,6 +2260,7 @@
         "region": "X-ray Room A",
         "original_item": "X-ray of CLARK",
         "condition":{},
+        "locval": 167,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2095,6 +2272,7 @@
         "region": "X-ray Room A",
         "original_item": "X-ray of GAIL",
         "condition":{ },
+        "locval": 168,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2106,6 +2284,7 @@
         "region": "X-ray Room B",
         "original_item": "Slide Filter",
         "condition":{ },
+        "locval": 166,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2117,6 +2296,7 @@
         "region": "X-ray Room B",
         "original_item": "Incendiary Rounds",
         "condition":{},
+        "locval": 165,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2128,6 +2308,7 @@
         "region": "Visual Data Room",
         "original_item": "First Aid Spray",
         "condition":{},
+        "locval": 160,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2139,6 +2320,7 @@
         "region": "Visual Data Room",
         "original_item": "MO Disk 2",
         "condition":{},
+        "locval": 161,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2150,6 +2332,7 @@
         "region": "Visual Data Room",
         "original_item": "Shotgun Shells",
         "condition":{},
+        "locval": 162,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2161,6 +2344,7 @@
         "region": "Visual Data Room",
         "original_item": "Power Room Key",
         "condition":{},
+        "locval": 163,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2172,6 +2356,7 @@
         "region": "Morgue",
         "original_item": "Battery Pack",
         "condition":{},
+        "locval": 173,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2183,6 +2368,7 @@
         "region": "Morgue",
         "original_item": "Shotgun Shells",
         "condition":{},
+        "locval": 174,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2190,10 +2376,11 @@
         "force_item":""
     },
     {
-        "name": "LL - Next to Typewriter 1",
+        "name": "LL - Next to Typewriter, Ink",
         "region": "Laboratory Lounge",
         "original_item": "Ink Ribbon",
         "condition":{},
+        "locval": 175,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2201,10 +2388,11 @@
         "force_item":""
     },
     {
-        "name": "LL - Next to Typewriter 2",
+        "name": "LL - Next to Typewriter, FAS",
         "region": "Laboratory Lounge",
         "original_item": "First Aid Spray",
         "condition":{},
+        "locval": 176,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2216,6 +2404,7 @@
         "region": "Laboratory Lounge",
         "original_item": "Grenade Rounds",
         "condition":{},
+        "locval": 177,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2227,6 +2416,7 @@
         "region": "Power Maze A",
         "original_item": "Fuel Supply Capsule (Empty)",
         "condition":{},
+        "locval": 178,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2238,6 +2428,7 @@
         "region": "Power Maze B",
         "original_item": "Battery Pack",
         "condition":{},
+        "locval": 179,
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -2258,6 +2449,7 @@
         "victory": true
     }
 ]
+
 
 
 
