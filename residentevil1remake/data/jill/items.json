@@ -3,6 +3,7 @@
         "type": "Key",
         "name": "Book of Curses - Sword Key",
         "decimal": "16",
+		"itemval": 100,
         "count": 1,
         "progression": 1
     },
@@ -17,6 +18,7 @@
         "type": "Gating",
         "name": "Shield Key",
         "decimal": "2F", 
+		"itemval": 3,
         "count": 1,
         "progression": 1
     },
@@ -31,6 +33,7 @@
         "type": "Key",
         "name": "Helmet Key",
         "decimal": "30",
+		"itemval": 34,
         "count": 1,
         "progression": 1
     },
@@ -38,6 +41,7 @@
         "type": "Gating",
         "name": "Key for Room 001",
         "decimal": "31",
+		"itemval": 145,
         "count": 1,
         "progression": 1
     },
@@ -45,6 +49,7 @@
         "type": "Gating",
         "name": "Key for Room 003",
         "decimal": "32",
+		"itemval": 148,
         "count": 1,
         "progression": 1
     },
@@ -52,6 +57,7 @@
         "type": "Gating",
         "name": "Mask Without Mouth",
         "decimal": "7D",
+		"itemval": 18,
         "count": 1,
         "progression": 1
     },
@@ -59,6 +65,7 @@
         "type": "Gating",
         "name": "Mask Without Eyes",
         "decimal": "7F",
+		"itemval": 16,
         "count": 1,
         "progression": 1
     },
@@ -66,6 +73,7 @@
         "type": "Gating",
         "name": "Mask Without Nose",
         "decimal": "80",
+		"itemval": 77,
         "count": 1,
         "progression": 1
     },
@@ -73,6 +81,7 @@
         "type": "Gating",
         "name": "Mask Without All",
         "decimal": "63",
+		"itemval": 79,
         "count": 1,
         "progression": 1
     },
@@ -80,6 +89,7 @@
         "type": "Gating",
         "name": "Battery",
         "decimal": "43",
+		"itemval": 59,
         "count": 1,
         "progression": 1
         
@@ -88,6 +98,7 @@
         "type": "Gating",
         "name": "Dog Whistle",
         "decimal": "60",
+		"itemval": 82,
         "count": 1,
         "progression": 1
     },
@@ -95,6 +106,7 @@
         "type": "Key",
         "name": "Square Crank",
         "decimal": "3C",
+		"itemval": 107,
         "count": 1,
         "progression": 1
     },
@@ -102,6 +114,7 @@
         "type": "Gating",
         "name": "Hexagon Crank",
         "decimal": "3D",
+		"itemval": 116,
         "count": 1,
         "progression": 1
     },
@@ -109,6 +122,7 @@
         "type": "Gating",
         "name": "Cylinder",
         "decimal": "7B",
+		"itemval": 122,
         "count": 1,
         "progression": 1
     },
@@ -116,6 +130,7 @@
         "type": "Key",
         "name": "Jewelry Box - Stone Ring",
         "decimal": "67",
+		"itemval": 129,
         "count": 1,
         "progression": 1
     },
@@ -123,6 +138,7 @@
         "type": "Key",
         "name": "Metal Object",
         "decimal": "41",
+		"itemval": 34,
         "count": 1,
         "progression": 1
     },
@@ -130,6 +146,7 @@
         "type": "Key",
         "name": "Stone and Metal Object",
         "decimal": "35",
+		"itemval": 102,
         "count": 1,
         "progression": 1
     },
@@ -137,6 +154,7 @@
         "type": "Gating",
         "name": "Control Room Key",
         "decimal": "6E",
+		"itemval": 139,
         "count": 1,
         "progression": 1
     },
@@ -144,6 +162,7 @@
         "type": "Gating",
         "name": "Red Book - Unprinted Book",
         "decimal": "5A",
+		"itemval": 142,
         "count": 1,
         "progression": 1
     },
@@ -151,6 +170,7 @@
         "type": "Key",
         "name": "Last Book Volume 1 - Medal of Eagle",
         "decimal": "5B",
+		"itemval": 47,
         "count": 1,
         "progression": 1
     },
@@ -158,6 +178,7 @@
         "type": "Key",
         "name": "Last Book Volume 2 - Medal of Wolf",
         "decimal": "5C",
+		"itemval": 66,
         "count": 1,
         "progression": 1
     },
@@ -165,6 +186,7 @@
         "type": "Gating",
         "name": "Gallery Key",
         "decimal": "1E",
+		"itemval": 154,
         "count": 1,
         "progression": 1
     },
@@ -172,6 +194,7 @@
         "type": "Gating",
         "name": "Key for the Power Area",
         "decimal": "36",
+		"itemval": 163,
         "count": 1,
         "progression": 1
     },
@@ -179,6 +202,7 @@
         "type": "Gating",
         "name": "Broken Flamethrower",
         "decimal": "6B",
+		"itemval": 123,
         "count": 1,
         "progression": 1
     },
@@ -186,6 +210,7 @@
         "type": "Gating",
         "name": "Golden Arrow - Arrowhead",
         "decimal": "15",
+		"itemval": 51,
         "count": 1,
         "progression": 1
     },
@@ -193,13 +218,7 @@
         "type": "Gating",
         "name": "Emblem Key",
         "decimal": "66",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Power Room Key",
-        "decimal": "36",
+		"itemval": 24,
         "count": 1,
         "progression": 1
     },
@@ -207,6 +226,7 @@
         "type": "Gating",
         "name": "Yellow Gemstone",
         "decimal": "4A",
+		"itemval": 62,
         "count": 1,
         "progression": 1
     },
@@ -214,6 +234,7 @@
         "type": "Gating",
         "name": "Red Gemstone",
         "decimal": "48",
+		"itemval": 61,
         "count": 1,
         "progression": 1
     },
@@ -221,6 +242,7 @@
         "type": "Gating",
         "name": "Blue Gemstone",
         "decimal": "49",
+		"itemval": 2,
         "count": 1,
         "progression": 1
     },
@@ -229,6 +251,7 @@
         "type": "Gating",
         "name": "Fuel Supply Capsule (Empty)",
         "decimal": "1F",
+		"itemval": 178,
         "count": 1,
         "progression": 1
     },
@@ -236,6 +259,7 @@
         "type": "Gating",
         "name": "Fuel Supply Capsule (Filled)",
         "decimal": "1F",
+		"itemval": 180,
         "count": 1,
         "progression": 1
     },
@@ -243,6 +267,7 @@
         "type": "Gating",
         "name": "Herbicide",
         "decimal": "4C",
+		"itemval": 28,
         "count": 1,
         "progression": 1
     },
@@ -250,6 +275,7 @@
         "type": "Gating",
         "name": "Missing Music",
         "decimal": "20",
+		"itemval": 15,
         "count": 1,
         "progression": 1
     },
@@ -257,6 +283,7 @@
         "type": "Gating",
         "name": "Music, Mid-Pages",
         "decimal": "47",
+		"itemval": 74,
         "count": 1,
         "progression": 1
     },
@@ -264,6 +291,7 @@
         "type": "Consumable",
         "name": "Broken Shotgun",
         "decimal": "4B",
+		"itemval": 11,
         "count": 1,
         "progression": 0
     },
@@ -271,6 +299,7 @@
         "type": "Gating",
         "name": "Lighter",
         "decimal": "4D",
+		"itemval": 0,
         "count": 1,
         "progression": 1
     },
@@ -278,6 +307,7 @@
         "type": "Gating",
         "name": "Fishhook",
         "decimal": "75",
+		"itemval": 89,
         "count": 1,
         "progression": 1
     },
@@ -286,6 +316,7 @@
         "name": "Moon Crest",
         "groups":["Crest"],
         "decimal": "103",
+		"itemval": 103,
         "count": 1,
         "progression": 1
     },
@@ -294,6 +325,7 @@
         "name": "Wind Crest",
         "groups":["Crest"],
         "decimal": "92",
+		"itemval": 92,
         "count": 1,
         "progression": 1
     },
@@ -310,6 +342,7 @@
         "name": "Sun Crest",
         "groups":["Crest"],
         "decimal": "105",
+		"itemval": 105,
         "count": 1,
         "progression": 1
     },
@@ -317,6 +350,7 @@
         "type": "Gating",
         "name": "Bee Specimen",
         "decimal": "73",
+		"itemval": 73,
         "count": 1,
         "progression": 1
     },
@@ -324,6 +358,7 @@
         "type": "Gating",
         "name": "Lure of a Bee",
         "decimal": "74",
+		"itemval": 74,
         "count": 1,
         "progression": 1
     },
@@ -331,6 +366,7 @@
         "type": "Lore",
         "name": "X-ray of CLARK",
         "decimal": "77",
+		"itemval": 167,
         "count": 1,
         "progression": 0
     },
@@ -338,6 +374,7 @@
         "type": "Lore",
         "name": "X-ray of GAIL",
         "decimal": "78",
+		"itemval": 168,
         "count": 1,
         "progression": 0
     },
@@ -345,6 +382,7 @@
         "type": "Consumable",
         "name": "MO Disk 1",
         "decimal": "5D",
+		"itemval": 14,
         "count": 1,
         "progression": 0
     },
@@ -352,6 +390,7 @@
         "type": "Consumable",
         "name": "MO Disk 2",
         "decimal": "5E",
+		"itemval": 14,
         "count": 1,
         "progression": 0
     },
@@ -359,6 +398,7 @@
         "type": "Consumable",
         "name": "MO Disk 3",
         "decimal": "5F",
+		"itemval": 14,
         "count": 1,
         "progression": 0
     },    
@@ -366,6 +406,7 @@
         "type": "Lore",
         "name": "Wooden Mount",
         "decimal":"6C",
+		"itemval": 78,
         "count":1,
         "progression": 0
     },
@@ -373,6 +414,7 @@
         "type": "Gating",
         "name": "Lure Without Hook",
         "decimal":"74",
+		"itemval": 75,
         "count":1,
         "progression": 1
     },
@@ -380,6 +422,7 @@
         "type": "Gating",
         "name": "Collar - Imitation of a Key",
         "decimal":"18",
+		"itemval": 48,
         "count":1,
         "progression": 1
     },
@@ -388,6 +431,7 @@
         "type": "Consumable",
         "name": "Ink Ribbon",
         "decimal": "44",
+		"itemval": 1,
         "count": 3,
         "progression": 0
     },
@@ -395,6 +439,7 @@
         "type": "Consumable",
         "name": "Empty Bottle",
         "decimal": "50",
+		"itemval": 75,
         "count": 1,
         "progression": 0
     },
@@ -402,6 +447,7 @@
         "type": "Consumable",
         "name": "Fuel Canteen",
         "decimal": "1B",
+		"itemval": 36,
         "count": 1,
         "progression": 0
     },
@@ -409,6 +455,7 @@
         "type": "Lore",
         "name": "Slide Filter",
         "decimal": "6D",
+		"itemval": 166,
         "count": 1,
         "progression": 0
     },
@@ -417,6 +464,7 @@
         "type": "Recovery",
         "name": "First Aid Spray",
         "decimal": "1",
+		"itemval": 38,
         "count": 1,
         "progression": 0
     },
@@ -424,6 +472,7 @@
         "type": "Recovery",
         "name": "Green Herb",
         "decimal": "2",
+		"itemval": 5,
         "count": 1,
         "progression": 0
     },
@@ -431,6 +480,7 @@
         "type": "Recovery",
         "name": "Red Herb",
         "decimal": "3",
+		"itemval": 31,
         "count": 1,
         "progression": 0
     },
@@ -438,6 +488,7 @@
         "type": "Recovery",
         "name": "Blue Herb",
         "decimal": "4",
+		"itemval": 96,
         "count": 1,
         "progression": 0
     },
@@ -445,6 +496,7 @@
         "type": "Recovery",
         "name": "First Aid Box - Green Herb",
         "decimal": "65",
+		"itemval": 172,
         "count": 1,
         "progression": 0
     },
@@ -452,6 +504,7 @@
         "type": "Recovery",
         "name": "First Aid Box - First Aid Spray",
         "decimal": "68",
+		"itemval": 84,
         "count": 1,
         "progression": 0
     },
@@ -459,6 +512,7 @@
         "type": "Recovery",
         "name": "First Aid Box - Mixed Herbs (G+G)",
         "decimal": "83",
+		"itemval": 152,
         "count": 1,
         "progression": 0
     },
@@ -466,6 +520,7 @@
         "type": "Recovery",
         "name": "First Aid Box - Mixed Herbs (G+B)",
         "decimal": "84",
+		"itemval": 143,
         "count": 1,
         "progression": 0
     },
@@ -482,6 +537,7 @@
         "type": "Weapon",
         "name": "Shotgun",
         "decimal": "06",
+		"itemval": 181,
         "count": 6,
         "progression": 0,
         "ammo": "Shotgun Shells"
@@ -498,6 +554,7 @@
         "type": "Weapon",
         "name": "Magnum Revolver",
         "decimal": "0B",
+		"itemval": 106,
         "count": 6,
         "progression": 0,
         "ammo": "Magnum Rounds"
@@ -520,6 +577,7 @@
         "type": "Weapon",
         "name": "Self-Defense Gun",
         "decimal": "04",
+		"itemval": 137,
         "count": 1,
         "progression": 0
     },
@@ -527,6 +585,7 @@
         "type": "Weapon",
         "name": "Grenade Launcher - Grenade",
         "decimal": "07",
+		"itemval": 37,
         "count": 6,
         "progression": 0,
         "ammo": "Grenade Rounds"
@@ -551,6 +610,7 @@
         "type": "Subweapon",
         "name": "Dagger",
         "decimal": "70",
+		"itemval": 19,
         "count": 1,
         "progression": 0
     },
@@ -565,6 +625,7 @@
         "type": "Subweapon",
         "name": "Battery Pack",
         "decimal": "72",
+		"itemval": 7,
         "count": 1,
         "progression": 0
     },
@@ -572,6 +633,7 @@
         "type": "Subweapon",
         "name": "Survival Knife",
         "decimal": "42",
+		"itemval": 118,
         "count": 3,
         "progression": 0
     },
@@ -580,6 +642,7 @@
         "type": "Ammo",
         "name": "Handgun Magazine",
         "decimal": "11",
+		"itemval": 4,	
         "count": 15,
         "progression": 0
     },
@@ -587,6 +650,7 @@
         "type": "Ammo",
         "name": "Grenade Rounds",
         "decimal": "10",
+		"itemval": 46,
         "count": 6,
         "progression": 0
     },
@@ -594,6 +658,7 @@
         "type": "Ammo",
         "name": "Shotgun Shells",
         "decimal": "12",
+		"itemval": 13,
         "count": 7,
         "progression": 0
     },
@@ -601,6 +666,7 @@
         "type": "Ammo",
         "name": "Acid Rounds",
         "decimal": "13",
+		"itemval": 57,
         "count": 6,
         "progression": 0
     },
@@ -608,6 +674,7 @@
         "type": "Ammo",
         "name": "Incendiary Rounds",
         "decimal": "14",
+		"itemval": 40,
         "count": 6,
         "progression": 0
     },
@@ -615,6 +682,7 @@
         "type": "Ammo",
         "name": "Magnum Rounds",
         "decimal": "19",
+		"itemval": 126,
         "count": 6,
         "progression": 0
     },
@@ -626,5 +694,6 @@
         "progression": 1
     }
 ]
+
 
 
