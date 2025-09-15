@@ -359,12 +359,12 @@ class ResidentEvil1Remake(World):
 
 
 #######################################################################################################################################################################
-     x = 0
-    with open(os.path.join(f"ItemList{self._format_option_text(self.options.character)}Normal.txt", 'w') as f:    Need to put item list as integer??
-        while x<=180
-             
-    Need to write programming to automatically write the itemlist file for the randomizer (may be changed if randomizer is altered or new randomizer made)
-    Top may need rewritten file should have name "ItemListJillNormal.txt" for Jill and "ItemListChrisNormal.txt" for Chris
+ #    x = 0
+ #   with open(os.path.join(f"ItemList{self._format_option_text(self.options.character)}Normal.txt", 'w') as f:    Need to put item list as integer??
+  #      while x<=180
+  #           
+  #  Need to write programming to automatically write the itemlist file for the randomizer (may be changed if randomizer is altered or new randomizer made)
+  #  Top may need rewritten file should have name "ItemListJillNormal.txt" for Jill and "ItemListChrisNormal.txt" for Chris
   #################################################################################################################################################################  
     def _replace_pool_item_with(self, pool, from_item_name, to_item_name) -> list:
         items_to_remove = [item for item in pool if item.name == from_item_name]
