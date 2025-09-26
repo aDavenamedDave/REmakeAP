@@ -7,7 +7,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item": {"Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
+        "forbid_item": ["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
                         "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003", "Green Herb", 
                         "Ink Ribbon", "Shotgun Shells", "First Aid Spray", "Red Herb", "Blue Herb", "Red Gemstone", "Blue Gemstone", "Yellow Gemstone", "Handgun Magazine", "Flash Grenade",
                         "Old Key", "MO Disk 1", "MO Disk 2", "MO Disk 3", "Missing Music", "Dagger", "Mask Without Mouth", "Mask Without Eyes", "Mask Without Nose", "Mask Without All", 
@@ -15,7 +15,7 @@
                         "Golden Arrow - Arrowhead", "Fuel Supply Capsule (Empty)", "Fuel Supply Capsule (Filled)", "Emblem Key", "Power Room Key", "Shaft", "Insecticide", "Herbicide",
                         "Wooden Mount", "Music, Mid-Pages", "Fishhook", "Moon Crest", "Wind Crest", "Star Crest", "Sun Crest", "Bee Specimen", "Lure of a Bee", "X-ray of CLARK",
                         "X-ray of GAIL", "Collar - Imitation of a Key", "Lure Without Hook", "Fuel Canteen", "Slide Filter", "First Aid Box - Green Herb", "First Aid Box - First Aid Spray",
-                        "First Aid Box - Mixed Herbs (G+G)", "First Aid Box - Mixed Herbs (G+B)", "Self-Defense Gun", "Survival Knife",  "Magnum Rounds"}
+                        "First Aid Box - Mixed Herbs (G+G)", "First Aid Box - Mixed Herbs (G+B)", "Self-Defense Gun", "Survival Knife",  "Magnum Rounds"]
     },
     {
         "name": "DR - Dining Table",
@@ -2260,6 +2260,7 @@
         "victory": true
     }
 ]
+
 
 
 
