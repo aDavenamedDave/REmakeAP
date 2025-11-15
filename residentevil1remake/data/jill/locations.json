@@ -2071,7 +2071,9 @@
         "name": "42 - Fireplace in Plant Room",
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
-        "condition":{},
+        "condition":{
+            "items": ["Collar"]
+        },
         "locval": 150,
         "item_object": "i048",
         "parent_object": "",
@@ -2441,6 +2443,7 @@
         "victory": true
     }
 ]
+
 
 
 
