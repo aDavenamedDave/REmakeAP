@@ -1896,7 +1896,7 @@
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
         "condition":{
-            "locations":["Dog"]
+            "items" ["Collar"]
         },
         "item_object": "",
         "parent_object": "",
@@ -2260,6 +2260,7 @@
         "victory": true
     }
 ]
+
 
 
 
