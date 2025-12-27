@@ -366,7 +366,11 @@
         "from": "Roofed Passage",
         "to": "Garden Shed",
         "condition":{
-            "items": ["Stone and Metal Object"]
+            "items": [
+                
+                ["Stone and Metal Object"],
+                ["Jewelry Box - Stone Ring", "Metal Object"]
+            ]
         }
     },
     {
@@ -758,3 +762,4 @@
         }
     }
 ]
+
