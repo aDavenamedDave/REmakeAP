@@ -2072,7 +2072,7 @@
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
         "condition":{
-            "items": ["Collar"]
+            "items": ["Collar - Imitation of a Key", "Armor Key"]
         },
         "locval": 150,
         "item_object": "i048",
@@ -2443,6 +2443,7 @@
         "victory": true
     }
 ]
+
 
 
 
