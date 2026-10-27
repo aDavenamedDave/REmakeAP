@@ -484,8 +484,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Ink Ribbon"
+        "forbid_item":[]
     },
     {
         "name": "LR - Far end of Table",
@@ -495,8 +494,7 @@
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Dagger"
+        "forbid_item":[]
     },
     {
         "name": "LR - Gun Rest",
@@ -834,9 +832,20 @@
         "force_item":""
     },
     {
-        "name": "BED - Dark Chest Opposite Foot of Bed",
+        "name": "BED - Desk Opposite Foot of Bed",
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BED - Dark Chest Opposite Foot of Bed",
+        "region": "Bedroom",
+        "original_item": "Old Key",
         "condition": {},    
         "item_object": "",
         "parent_object": "",
