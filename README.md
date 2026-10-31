@@ -3,3 +3,7 @@ Do not have the info for the Door randomization in Benn Powells randomizer
 Jill and Chris Normal are Functional. Jill is beatable;
 due to Chris getting disposable keys for doors, may need multiple testing
 
+Credit to:
+aDavenamedDave
+Fuzzy
+Youment
