@@ -214,42 +214,63 @@ class ResidentEvil1Remake(World):
             pool.remove(eligible_items[0])
 
         self.multiworld.itempool += pool
-       ##################################################### ###
-    #def generate_output(self, output_directory: str) -> None:
-
-     #   char = str(self.options.character)
         
-      #  if char == "Character(Jill)":
-       #     with open(os.path.join(output_directory,f"ItemListJillNormal"+ ".txt"), "w") as f:
-                
-        #        X = 0
-         #       while X<180:
-          #         
-                    
-           #       f.write(something +"\n"),
-            #      locval+=1
-            #at some point may change rest of this to add in enemy rando, door rando, and lock rando
-         #       f.write("ENEMYRANDODATA\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n")
-          #      f.write("DOORRANDODATA\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n") 
-           #     f.write("-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"   + "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"  + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"
-            #    + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"
-             #   + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" +"LOCKRANDODATA\n")
-        
-        #else:
-         #   with open(os.path.join(output_directory,f"ItemListChrisNormal"+ ".txt"), "w") as f:
-          #      locval = 0
+    def generate_output(self, output_directory: str) -> None:
+        import os
 
-           #     while locval<180:
+        char = self._get_character()
+        filename = f"ItemList{'Jill' if char == 'jill' else 'Chris'}Normal.txt"
 
-            #        f.write(str(locval) +"\n"),
-             #       locval+=1
-            #at some point may change rest of this to add in enemy rando, door rando, and lock rando
-              #  f.write("ENEMYRANDODATA\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n")
-               # f.write("DOORRANDODATA\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n") 
-                #f.write("-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"   + "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"  + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" + "-1\n" + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"
-              #  + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"
-               # + "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n"+ "-1\n" +"LOCKRANDODATA\n")
- 
+        # Build locval -> itemval mapping from AP-placed items
+        # locval is the index used by Ben Powell's randomizer (0-179)
+        locval_to_itemval = {}
+
+        scenario_locations = self.source_locations[self.player]
+
+        # Build a lookup dict from location address -> AP location object
+        # This avoids name mismatch issues (region names get a suffix like (J) added by Data.py)
+        address_to_ap_location = {loc.address: loc for loc in self.multiworld.get_locations(self.player) if loc.address}
+
+        for loc_name, loc_data in scenario_locations.items():
+            locval = loc_data.get('locval')
+            if locval is None or locval >= 180:
+                continue  # skip non-randomizable locations and locval 180/181
+
+            # Get the item placed at this location by AP using address
+            loc_address = loc_data.get('id')
+            ap_location = address_to_ap_location.get(loc_address)
+            if ap_location is None:
+                locval_to_itemval[locval] = -1
+                continue
+            placed_item = ap_location.item
+
+            if placed_item is None:
+                locval_to_itemval[locval] = -1
+                continue
+
+            # If location is not randomized, write its locval (signals randomizer to leave it untouched)
+            if loc_data.get('randomized') == 0:
+                locval_to_itemval[locval] = locval
+            else:
+                # Use the itemval of the AP-placed item
+                item_data = self.item_name_to_item.get(placed_item.name, {})
+                locval_to_itemval[locval] = item_data.get('itemval', -1)
+
+        with open(os.path.join(output_directory, filename), "w") as f:
+            for locval in range(180):
+                itemval = locval_to_itemval.get(locval, -1)  # -1 for missing locvals (e.g. 39 for Jill)
+                f.write(f"{itemval}\n")
+
+            # Enemy rando data (not randomized for now, all -1)
+            f.write("ENEMYRANDODATA\n")
+            f.write(("-1\n") * 53)
+
+            # Door rando data (not randomized for now, all -1)
+            f.write("DOORRANDODATA\n")
+            f.write(("-1\n") * 220)
+
+            # Lock rando data
+            f.write("LOCKRANDODATA\n")
 
     ##############
     #
