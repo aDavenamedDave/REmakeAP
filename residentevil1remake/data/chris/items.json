@@ -6,6 +6,13 @@
         "count": 1,
         "progression": 1
     },
+	{
+        "type": "Key",
+        "name": "Lock Pick",
+        "decimal": "2B",
+        "count": 1,
+        "progression": 1
+    },
     {
         "type": "Gating",
         "name": "Shield Key",
