@@ -501,7 +501,7 @@
     {
         "type": "Weapon",
         "name": "Handgun",
-        "decimal": "04",
+        "decimal": "03",
         "count": 15,
         "progression": 0,
         "ammo": "Handgun Magazine"
