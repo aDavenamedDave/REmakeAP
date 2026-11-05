@@ -192,7 +192,7 @@
     },
     {
         "type": "Gating",
-        "name": "Key for the Power Area",
+        "name": "Power Room Key",
         "decimal": "36",
 		"itemval": 163,
         "count": 1,
