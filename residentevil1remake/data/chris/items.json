@@ -213,7 +213,7 @@
     {
         "type": "Key",
         "name": "Power Room Key",
-        "decimal": "something",
+        "decimal": "36",
         "count": 1,
         "progression": 1
     },
@@ -221,21 +221,21 @@
     {
         "type": "Gating",
         "name": "Blue Gemstone",
-        "decimal": "something", 
+        "decimal": "49", 
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Red Gemstone",
-        "decimal": "something", 
+        "decimal": "48", 
         "count": 1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Yellow Gemstone",
-        "decimal": "something", 
+        "decimal": "4A", 
         "count": 1,
         "progression": 1
     },
