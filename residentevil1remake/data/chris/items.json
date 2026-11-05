@@ -291,7 +291,7 @@
     {
         "type": "Lore",
         "name": "Wooden Mount",
-        "decimal":"something",
+        "decimal":"6C",
         "count":1,
         "progression": 0
     },
@@ -400,14 +400,14 @@
     {
         "type": "Gating",
         "name": "Collar - Imitation of a Key",
-        "decimal":"something",
+        "decimal":"18",
         "count":1,
         "progression": 1
     },
     {
         "type": "Gating",
         "name": "Lure Without Hook",
-        "decimal":"something",
+        "decimal":"74",
         "count":1,
         "progression": 1
     },
@@ -422,21 +422,21 @@
     {
         "type": "Consumable",
         "name": "Empty Bottle",
-        "decimal": "something",
+        "decimal": "50",
         "count": 1,
         "progression": 0
     },
     {
         "type": "Consumable",
         "name": "Fuel Canteen",
-        "decimal": "something",
+        "decimal": "1B",
         "count": 1,
         "progression": 0
     },
     {
         "type": "Consumable",
         "name": "Slide Filter",
-        "decimal": "something",
+        "decimal": "6D",
         "count": 1,
         "progression": 0
     },
