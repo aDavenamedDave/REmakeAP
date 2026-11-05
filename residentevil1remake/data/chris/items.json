@@ -530,6 +530,31 @@
         "progression": 0,
         "ammo": "Magnum Rounds"
     },
+	 {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Grenade",
+        "decimal": "07",
+		"itemval": 37,
+        "count": 6,
+        "progression": 0,
+        "ammo": "Grenade Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Acid",
+        "decimal": "08",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Acid Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Incendiary",
+        "decimal": "09",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Incendiary Rounds"
+    },
     {
         "type": "Weapon",
         "name": "Flamethrower",
