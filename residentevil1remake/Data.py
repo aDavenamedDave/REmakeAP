@@ -30,7 +30,7 @@ class Data:
         scenario_suffix = ' ({})'.format(character[0].upper())
         scenario_suffix_hardcore = ' ({}H)'.format(character[0].upper()) # makes hardcore location variations unique
 
-        location_start = item_start = 3000000000 + character_offsets[character] + scenario_offsets[scenario]
+        location_start = item_start = character_offsets[character] + scenario_offsets[scenario]
 
         ###
         # Add standard regions
