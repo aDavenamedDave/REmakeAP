@@ -1,21 +1,88 @@
 [
     {
-        "name": "MH - Main Hall Floor",  
+        "name": "MH - Main Hall Floor",
         "region": "Main Hall",
         "original_item": "Handgun",
         "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item": ["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-                        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003", "Green Herb", 
-                        "Ink Ribbon", "Shotgun Shells", "First Aid Spray", "Red Herb", "Blue Herb", "Red Gemstone", "Blue Gemstone", "Yellow Gemstone", "Handgun Magazine", "Flash Grenade",
-                        "Old Key", "MO Disk 1", "MO Disk 2", "MO Disk 3", "Missing Music", "Dagger", "Mask Without Mouth", "Mask Without Eyes", "Mask Without Nose", "Mask Without All", 
-                        "Battery", "Dog Whistle", "Square Crank", "Hexagon Crank", "Cylinder", "Control Room Key", "Red Book - Unprinted Book", "Gallery Key", "Power Room Key", "Broken Flamethrower",
-                        "Golden Arrow - Arrowhead", "Fuel Supply Capsule (Empty)", "Fuel Supply Capsule (Filled)", "Emblem Key", "Power Room Key", "Shaft", "Insecticide", "Herbicide",
-                        "Wooden Mount", "Music, Mid-Pages", "Fishhook", "Moon Crest", "Wind Crest", "Star Crest", "Sun Crest", "Bee Specimen", "Lure of a Bee", "X-ray of CLARK",
-                        "X-ray of GAIL", "Collar - Imitation of a Key", "Lure Without Hook", "Fuel Canteen", "Slide Filter", "First Aid Box - Green Herb", "First Aid Box - First Aid Spray",
-                        "First Aid Box - Mixed Herbs (G+G)", "First Aid Box - Mixed Herbs (G+B)", "Self-Defense Gun", "Survival Knife",  "Magnum Rounds"]
+        "forbid_item": [
+            "Stone and Metal Object",
+            "Key For Power Area",
+            "Jewelry Box - Stone Ring",
+            "Metal Object",
+            "Last Book Volume 1",
+            "Last Book Volume 2",
+            "Emblem Key",
+            "Wooden Emblem",
+            "Gold Emblem",
+            "Book of Curses",
+            "Armor Key",
+            "Shield Key",
+            "Helmet Key",
+            "Key for Room 001",
+            "Key for Room 003",
+            "Green Herb",
+            "Ink Ribbon",
+            "Shotgun Shells",
+            "First Aid Spray",
+            "Red Herb",
+            "Blue Herb",
+            "Red Gemstone",
+            "Blue Gemstone",
+            "Yellow Gemstone",
+            "Handgun Magazine",
+            "Flash Grenade",
+            "Old Key",
+            "MO Disk 1",
+            "MO Disk 2",
+            "MO Disk 3",
+            "Musical Score - Book",
+            "Dagger",
+            "Mask Without Mouth",
+            "Mask Without Eyes",
+            "Mask Without Nose",
+            "Mask Without All",
+            "Battery",
+            "Dog Whistle",
+            "Square Crank",
+            "Hexagon Crank",
+            "Cylinder",
+            "Control Room Key",
+            "Red Book",
+            "Gallery Key",
+            "Broken Flamethrower",
+            "Golden Arrow",
+            "Fuel Supply Capsule - Empty",
+            "Fuel Supply Capsule - Filled",
+            "Emblem Key",
+            "Shaft",
+            "Insecticide",
+            "Herbicide",
+            "Wooden Mount",
+            "Musical Score - Sheet",
+            "Fishhook",
+            "Moon Crest",
+            "Wind Crest",
+            "Star Crest",
+            "Sun Crest",
+            "Bee Specimen",
+            "Lure of a Bee",
+            "X-ray of CLARK",
+            "X-ray of GAIL",
+            "Dog Collar",
+            "Lure Of A Bee",
+            "Fuel Canteen",
+            "Slide Filter",
+            "First Aid Box - Green Herb",
+            "First Aid Box - First Aid Spray",
+            "First Aid Box - Mixed Herbs (G+G)",
+            "First Aid Box - Mixed Herbs (G+B)",
+            "Self-Defense Gun",
+            "Survival Knife",
+            "Magnum Rounds"
+        ]
     },
     {
         "name": "DR - Dining Table",
@@ -36,22 +103,23 @@
         "parent_object": "",
         "folder_path": ""
     },
-       {
+    {
         "name": "DR - Behind Clock",
         "region": "Dining Room",
         "original_item": "Shield Key",
         "condition": {
-            "items" :[ "Gold Emblem"]
+            "items": [
+                "Gold Emblem"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
-        
     },
     {
         "name": "DR - Above Fireplace",
         "region": "Dining Room",
-        "original_item": "Emblem",
+        "original_item": "Wooden Emblem",
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -72,7 +140,7 @@
         "name": "WWOS - Left Herb by Chairs",
         "region": "West Wing Outer Stairway",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -82,7 +150,7 @@
         "name": "WWOS - Right Herb by Chairs",
         "region": "West Wing Outer Stairway",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -92,7 +160,7 @@
         "name": "SSR - Cabinet Next to Entrance",
         "region": "Small Storeroom",
         "original_item": "Flash Grenade",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -102,7 +170,7 @@
         "name": "SSR - Desk Drawer",
         "region": "Small Storeroom",
         "original_item": "Ink Ribbon",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
@@ -111,7 +179,7 @@
         "name": "SSR - Gun Case",
         "region": "Small Storeroom",
         "original_item": "Broken Shotgun",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
@@ -121,7 +189,7 @@
         "name": "NC - Cabinet near Western Entrance",
         "region": "Northern Corridor",
         "original_item": "Flash Grenade",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": ""
@@ -130,771 +198,799 @@
         "name": "RB - Floor Inside Wardrobe",
         "region": "Researcher's Bedroom",
         "original_item": "Old Key",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "RB - On Bed",
         "region": "Researcher's Bedroom",
         "original_item": "Handgun Magazine",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "TSR - Left Side",
         "region": "Tiger Statue Room",
         "original_item": "MO Disk 1",
         "condition": {
-            "items":["Yellow Gemstone"]
-        },    
+            "items": [
+                "Yellow Gemstone"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "TSR - Right Side",
         "region": "Tiger Statue Room",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":["Blue Gemstone"]
-        },    
+            "items": [
+                "Blue Gemstone"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GH - Against Wall 5",
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":[ "Herbicide"]
-        },    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Green Herb"
+        "forbid_item": [],
+        "force_item": "Green Herb"
     },
     {
         "name": "GH - Against Wall 1",
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":["Herbicide"]
-        },    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Green Herb"
+        "forbid_item": [],
+        "force_item": "Green Herb"
     },
     {
         "name": "GH - Against Wall 2",
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":[ "Herbicide"]
-        },    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Green Herb"
+        "forbid_item": [],
+        "force_item": "Green Herb"
     },
     {
         "name": "GH - Against Wall 3",
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":[ "Herbicide"]
-        },    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Green Herb"
+        "forbid_item": [],
+        "force_item": "Green Herb"
     },
     {
         "name": "GH - Against Wall 4",
         "region": "Greenhouse",
         "original_item": "Green Herb",
         "condition": {
-            "items":[ "Herbicide"]},    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Green Herb"
+        "forbid_item": [],
+        "force_item": "Green Herb"
     },
     {
         "name": "GH - Past Fountain Roots",
         "region": "Greenhouse",
         "original_item": "Mask Without Eyes",
         "condition": {
-            "items":["Herbicide"]
-        },    
+            "items": [
+                "Herbicide"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "Bar - Bookshelf Behind Cabinet",
         "region": "Bar",
-        "original_item": "Missing Music",
-        "condition": {
-            
-        },    
+        "original_item": "Musical Score - Sheet",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "Bar - Hidden Hallway",
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem", "Missing Music", "Music, Mid-Pages"]
-        },    
+            "items": [
+                "Wooden Emblem",
+                "Musical Score - Sheet",
+                "Musical Score - Book"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Gold Emblem"
+        "forbid_item": [],
+        "force_item": "Gold Emblem"
     },
     {
         "name": "AR - End of Blocked off Hallway",
         "region": "Art Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LC - Under 1st Cabinet",
         "region": "'L' Corridor",
         "original_item": "Dagger",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+            "items": [
+                "Book of Curses"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LC - Under 2nd Cabinet",
         "region": "'L' Corridor",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+            "items": [
+                "Book of Curses"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BR - Drained Bathtub",
         "region": "Bathroom",
         "original_item": "Old Key",
         "condition": {
-            "items":["Book of Curses - Sword Key"]
-        },    
+            "items": [
+                "Book of Curses"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OB - Wheelbarrow",
         "region": "Outside Boiler",
         "original_item": "Herbicide",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OB - By Wheelbarrow",
         "region": "Outside Boiler",
         "original_item": "Red Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OB - Left Herb by Wheelbarrow",
         "region": "Outside Boiler",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OB - Right Herb by Wheelbarrow",
         "region": "Outside Boiler",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LG - On Ground Outside",
         "region": "Large Gallery",
         "original_item": "Mask Without Mouth",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CS - West Wall Bookcase 1",
         "region": "Courtyard Study",
         "original_item": "Flash Grenade",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CS - West Wall Bookcase 2",
         "region": "Courtyard Study",
         "original_item": "Metal Object",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CS - Desk Drawer",
         "region": "Courtyard Study",
         "original_item": "Shotgun Shells",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "EWS - Floor by Item Box",
         "region": "East Wing Storeroom",
         "original_item": "Fuel Canteen",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-        {
+    {
         "name": "EWS - Small Table by Typewriter",
         "region": "East Wing Storeroom",
         "original_item": "Old Key",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "EWS - Floor Resupply One",
         "region": "East Wing Storeroom",
         "original_item": "First Aid Spray",
         "condition": {
-            "locations":["DP - Trap in Passage"]
-        },    
+            "locations": [
+                "DP - Trap in Passage"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "EWS - Floor Resupply Two",
         "region": "East Wing Storeroom",
         "original_item": "Handgun Magazine",
         "condition": {
-             "locations":["DP - Trap in Passage"]
-        },    
+            "locations": [
+                "DP - Trap in Passage"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-        {
+    {
         "name": "EWS - Floor Resupply Three",
         "region": "East Wing Storeroom",
         "original_item": "Shotgun Shells",
         "condition": {
-             "locations":["DP - Trap in Passage"]
-        },    
+            "locations": [
+                "DP - Trap in Passage"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LR - Near End of Table",
         "region": "Living Room",
         "original_item": "Ink Ribbon",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[]
+        "forbid_item": []
     },
     {
         "name": "LR - Far end of Table",
         "region": "Living Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[]
+        "forbid_item": []
     },
     {
         "name": "LR - Gun Rest",
         "region": "Living Room",
         "original_item": "Shotgun",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Shotgun"
+        "forbid_item": [],
+        "force_item": "Shotgun"
     },
     {
         "name": "LAR - Desk Drawer",
         "region": "Large Art Room",
         "original_item": "Ink Ribbon",
-        "condition": {
-            
-        },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MR - Floor by Mirror",
         "region": "Mirror Room",
         "original_item": "Green Herb",
-        "condition": {
-            
-        },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MR - Cabinet",
         "region": "Mirror Room",
         "original_item": "Emblem Key",
-        "condition": {
-            
-        },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MR - Floor by Southern Wall",
         "region": "Mirror Room",
         "original_item": "Dagger",
-        "condition": {
-            
-        },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GY - End of Graveyard",
         "region": "Graveyard",
         "original_item": "Shotgun Shells",
         "condition": {
-            "items":[]
-        },    
+            "items": []
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SP - By Gravestone",
         "region": "Secret Passage",
-        "original_item": "Last Book Volume 1 - Medal of Eagle",
-        "condition": {},    
+        "original_item": "Last Book Volume 1",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Floor by Door",
         "region": "Garden Shed",
         "original_item": "Shotgun Shells",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Shelf Near Top of Stairs",
         "region": "Garden Shed",
         "original_item": "Flash Grenade",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Shelf Near Stairs",
         "region": "Garden Shed",
         "original_item": "First Aid Spray",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Floor Resupply One",
         "region": "Garden Shed",
         "original_item": "Flash Grenade",
         "condition": {
-            "locations":["42 - Fireplace in Plant Room"]
-        },    
+            "locations": [
+                "42 - Fireplace in Plant Room"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Floor Resupply Two",
         "region": "Garden Shed",
         "original_item": "First Aid Spray",
         "condition": {
-            "locations":["42 - Fireplace in Plant Room"]
-        },    
+            "locations": [
+                "42 - Fireplace in Plant Room"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GS - Floor Resupply Three",
         "region": "Garden Shed",
         "original_item": "Shotgun Shells",
         "condition": {
-           "locations":["42 - Fireplace in Plant Room"]
-        },    
+            "locations": [
+                "42 - Fireplace in Plant Room"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-     {
+    {
         "name": "MG - Green Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-     {
+    {
         "name": "MG - Blue Herb by Fountain",
         "region": "Main Garden",
         "original_item": "Blue Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CC - Counter by Door",
         "region": "'C' Corridor",
         "original_item": "Wooden Mount",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "AR - Armor Puzzle",
         "region": "Armor Room",
         "original_item": "Mask Without All",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "PR - Left Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "PR - Right Herb by Pillar",
         "region": "Pillar Room",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "AT - Boxes in Corner",
         "region": "Attic",
         "original_item": "Mask Without Nose",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-        {
+    {
         "name": "Shelves by Entrance",
         "region": "Attic",
         "original_item": "Shotgun Shells",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SDR - On Table",
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SDR - Cabinet in Corner",
         "region": "Small Dining Room",
         "original_item": "Handgun Magazine",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SDR - Behind Bookcase",
         "region": "Small Dining Room",
-        "original_item": "Music, Mid-Pages",
-        "condition": { },    
+        "original_item": "Musical Score - Sheet",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SL - South Entrance Desk",
         "region": "Small Library",
         "original_item": "Dog Whistle",
-        "condition": {},   
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SL - Desk by Chessboard",
         "region": "Small Library",
         "original_item": "Handgun Magazine",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "DEER - By Entrance Across from Mount",
         "region": "Deer Room",
         "original_item": "Red Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BED - Chair by Desk",
         "region": "Bedroom",
         "original_item": "First Aid Box - First Aid Spray",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BED - Dresser",
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BED - Desk Opposite Foot of Bed",
         "region": "Bedroom",
         "original_item": "Ink Ribbon",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BED - Dark Chest Opposite Foot of Bed",
         "region": "Bedroom",
         "original_item": "Old Key",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BED - Corner of Room",
         "region": "Bedroom",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "FTR - Hook Display",
         "region": "Fish Tank Room",
         "original_item": "Fishhook",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[]
-        
+        "forbid_item": []
     },
     {
         "name": "FTR - Lure Display",
         "region": "Fish Tank Room",
         "original_item": "Bee Specimen",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
+        "forbid_item": [],
         "randomized": 0
     },
     {
         "name": "FTR - Insect Display",
         "region": "Fish Tank Room",
-        "original_item": "Lure Without Hook",
-        "condition": {},    
+        "original_item": "Lure Of A Bee",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
+        "forbid_item": [],
         "randomized": 0
     },
     {
@@ -902,1370 +998,1451 @@
         "region": "Fish Tank Room",
         "original_item": "Wind Crest",
         "condition": {
-            "items":["Lure Without Hook", "Bee Specimen", "Fishhook"]
-        },    
+            "items": [
+                "Lure Of A Bee",
+                "Bee Specimen",
+                "Fishhook"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "RR - Floor by Window and Door",
         "region": "Resting Room",
         "original_item": "Green Herb",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "STR - On Cabinet by Hole",
         "region": "Sliding Trap Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "DR2 - By Door to Mirror Corridor",
         "region": "Dining Room 2F",
         "original_item": "Dagger",
         "condition": {
-            "items":[]
-        },    
+            "items": []
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MC - By Crimson Head",
         "region": "Mirror Corridor",
         "original_item": "Green Herb",
         "condition": {
-            "items":[]
-        },    
+            "items": []
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MC - In Statue",
         "region": "Mirror Corridor",
-        "original_item": "Golden Arrow - Arrowhead",
+        "original_item": "Golden Arrow",
         "condition": {
-            "items":[]
-        },    
+            "items": []
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MC - By Mirror at End of Corridor",
         "region": "Mirror Corridor",
         "original_item": "Handgun Magazine",
         "condition": {
-            "items":[]
-        },    
+            "items": []
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "DP - Trap in Passage",
         "region": "Death Passage",
         "original_item": "Armor Key",
         "condition": {
-            "items":["Collar - Imitation of a Key"]
-        },    
+            "items": [
+                "Dog Collar"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Armor Key"
+        "forbid_item": [],
+        "force_item": "Armor Key"
     },
     {
         "name": "LIB - By Window (Left)",
         "region": "Library",
         "original_item": "Green Herb",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LIB - By Window (Right)",
         "region": "Library",
         "original_item": "Green Herb",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LIB - Glass Case",
         "region": "Library",
-        "original_item": "Last Book Volume 2 - Medal of Wolf",
-        "condition": { },    
+        "original_item": "Last Book Volume 2",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OUTB - Dog",
         "region": "Outside Balcony",
-        "original_item": "Collar - Imitation of a Key",
+        "original_item": "Dog Collar",
         "condition": {
-            "items":["Dog Whistle"]
-        },    
+            "items": [
+                "Dog Whistle"
+            ]
+        },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
+        "forbid_item": [],
         "randomized": 0
     },
     {
         "name": "TR - Below Deer Mount",
         "region": "Trophy Room",
         "original_item": "Shotgun Shells",
-        "condition": { },    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "TR - Deer Mount",
         "region": "Trophy Room",
         "original_item": "Red Gemstone",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "TR - Bull Mount",
         "region": "Trophy Room",
         "original_item": "Yellow Gemstone",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "TR - North West Cabinet",
         "region": "Trophy Room",
         "original_item": "Dagger",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "EC - Left Green in Alcove",
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "EC - Right Green in Alcove",
         "region": "Elevator Corridor",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "Red in Alcove",
         "region": "Elevator Corridor",
         "original_item": "Red Herb",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MAT - Floor by Door 1",
         "region": "Materials Room",
         "original_item": "Shotgun Shells",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "AE - Floor by Dining Room Door",
         "region": "Attic Entry",
         "original_item": "Flash Grenade",
-        "condition": {},    
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MAT - Shelf",
         "region": "Materials Room",
         "original_item": "Battery",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MAT - Floor further from Door",
         "region": "Materials Room",
         "original_item": "Flash Grenade",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MAT - Floor by Door 2",
         "region": "Materials Room",
         "original_item": "Shotgun Shells",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CRY - On Pedestal",
         "region": "Crypt",
-        "original_item": "Book of Curses - Sword Key",
-        "condition":{},
+        "original_item": "Book of Curses",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CRY - In Coffin",
         "region": "Crypt",
         "original_item": "Stone and Metal Object",
-        "condition":{
-            "items":["Mask Without Nose","Mask Without Eyes", "Mask Without Mouth", "Mask Without All"]
+        "condition": {
+            "items": [
+                "Mask Without Nose",
+                "Mask Without Eyes",
+                "Mask Without Mouth",
+                "Mask Without All"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CRY - Beside Fallen Coffin",
         "region": "Crypt",
         "original_item": "Shotgun Shells",
-        "condition":{
-            "items":["Mask Without All","Mask Without Eyes","Mask Without Mouth","Mask Without Nose"]
+        "condition": {
+            "items": [
+                "Mask Without All",
+                "Mask Without Eyes",
+                "Mask Without Mouth",
+                "Mask Without Nose"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OP - Bench",
         "region": "Outside Patio",
         "original_item": "Dagger",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OP - Left Herb at end of Patio",
         "region": "Outside Patio",
         "original_item": "Green Herb",
-        "condition":{
-            
-        },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OP - Right Herb at end of Patio",
         "region": "Outside Patio",
         "original_item": "Green Herb",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "KIT - On Table",
         "region": "Kitchen",
         "original_item": "Dagger",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "KIT - South West Corner Shelf Rack",
         "region": "Kitchen",
         "original_item": "Old Key",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CP2 - Red Floor Herb",
         "region": "Concrete Passage 2",
         "original_item": "Red Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CP2 - Blue Floor Herb",
         "region": "Concrete Passage 2",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CP2 - Floor by Fence",
         "region": "Concrete Passage 2",
         "original_item": "Dagger",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CP2 - Boxes by West Door",
         "region": "Concrete Passage 2",
         "original_item": "Handgun Magazine",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CP1 - Dead End",
         "region": "Concrete Passage 1",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ZZP - By Gate",
         "region": "Zigzag Path",
         "original_item": "Red Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SHA - Left Crest",
         "region": "Small Headstone Area",
         "original_item": "Sun Crest",
-        "condition":{
-            "items":[ "Wind Crest"]
+        "condition": {
+            "items": [
+                "Wind Crest"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SHA - Middle Crest",
         "region": "Small Headstone Area",
         "original_item": "Moon Crest",
-        "condition":{
-            "items":[ "Wind Crest"]
+        "condition": {
+            "items": [
+                "Wind Crest"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SHA - Right Crest",
         "region": "Small Headstone Area",
         "original_item": "Star Crest",
-        "condition":{
-            "items":["Wind Crest"]
+        "condition": {
+            "items": [
+                "Wind Crest"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "SHA - Left Gravestone",
         "region": "Small Headstone Area",
-        "original_item": "Magnum Revolver",
-        "condition":{
-            "items":["Sun Crest", "Moon Crest", "Star Crest"]
+        "original_item": "Magnum",
+        "condition": {
+            "items": [
+                "Sun Crest",
+                "Moon Crest",
+                "Star Crest"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CAB - Wood Plank",
         "region": "Cabin",
         "original_item": "Square Crank",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MA - By Typewriter",
         "region": "Mining Area",
         "original_item": "Ink Ribbon",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "MA - End of Passageway",
         "region": "Mining Area",
         "original_item": "Green Herb",
-        "condition":{
-            "items":["Hexagon Crank"]
+        "condition": {
+            "items": [
+                "Hexagon Crank"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GR - By Elevator",
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GR - By Door to Enrico Room",
         "region": "Generator Room",
         "original_item": "Handgun Magazine",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GR - Power to Elevator",
         "region": "Generator Room",
         "original_item": "Shaft",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Shaft"
+        "forbid_item": [],
+        "force_item": "Shaft"
     },
     {
         "name": "Enrico",
         "region": "Enrico Room",
         "original_item": "Hexagon Crank",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BP1 - Shelf Past Boulder",
         "region": "Boulder Passage 1",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
-        {
+    {
         "name": "BP1 - Panel by Entrance",
         "region": "Boulder Passage 1",
         "original_item": "Flamethrower",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "randomized":0
+        "forbid_item": [],
+        "randomized": 0
     },
     {
         "name": "SR - Barrel",
         "region": "Spider Room",
         "original_item": "Survival Knife",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "STP - Left Herb by Map",
         "region": "Straight Passage",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "STP - Right Herb by Map",
         "region": "Straight Passage",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "BP2 - Shelf Past 2nd Boulder",
         "region": "Boulder Passage 2",
         "original_item": "First Aid Box - First Aid Spray",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "USR - Statue Puzzle",
         "region": "Underground Statue Room",
         "original_item": "Cylinder",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Cylinder"
+        "forbid_item": [],
+        "force_item": "Cylinder"
     },
     {
         "name": "GCR - Garbage Compactor",
         "region": "Garbage Compactor Room",
         "original_item": "Broken Flamethrower",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
+        "forbid_item": [],
         "randomized": 0
     },
     {
         "name": "WUP - Green Herb on Floor",
         "region": "Winding Underground Passage",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "WUP - Red Herb on Floor",
         "region": "Winding Underground Passage",
         "original_item": "Red Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "USTR - Pile of Boxes opposite Cargo Transporter 1",
         "region": "Underground Storage Room",
         "original_item": "Magnum Rounds",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "USTR - Pile of Boxes opposite Cargo Transporter 2",
         "region": "Underground Storage Room",
         "original_item": "Handgun Magazine",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "USTR - Pile of Boxes opposite Cargo Transporter 3",
         "region": "Underground Storage Room",
         "original_item": "Flash Grenade",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LIS - Lisa's Desk",
         "region": "Lisa's Room",
         "original_item": "Jewelry Box - Stone Ring",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LIS - Offshoot Near Ladder",
         "region": "Lisa's Room",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "LIS - Offshoot Near Ladder 2",
         "region": "Lisa's Room",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ENTC - Left Herb by Entrance",
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ENTC - Middle Herb by Entrance",
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ENTC - Right Herb by Entrance",
         "region": "Entry Corridor",
         "original_item": "Blue Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "RSR - By Typewriter",
         "region": "Residence Storeroom",
         "original_item": "Ink Ribbon",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "RSR - On Bookshelf",
         "region": "Residence Storeroom",
         "original_item": "Flash Grenade",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "001 - Desk by Hanged Man",
         "region": "Room 001",
         "original_item": "Self-Defense Gun",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "001 - Desk by Bookcase",
         "region": "Room 001",
         "original_item": "Handgun Magazine",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "001B - Shelf by Toilet",
         "region": "Room 001 Bathroom",
         "original_item": "Control Room Key",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "Floor near Entrance",
         "region": "Rec Room",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "REC - Floor next to Wine",
         "region": "Rec Room",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "REC - Bar Downstairs 1",
         "region": "Rec Room",
-        "original_item": "Red Book - Unprinted Book",
-        "condition":{},
+        "original_item": "Red Book",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "REC - Bar Downstairs 2",
         "region": "Rec Room",
         "original_item": "First Aid Box - Mixed Herbs (G+B)",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "REC - Round Table near Bar",
         "region": "Rec Room",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "002B - Drained Bathtub",
         "region": "Room 002 Bathroom",
         "original_item": "Key for Room 001",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GAL - Table in Middle",
         "region": "Gallery",
         "original_item": "Handgun Magazine",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GAL - Stung Corpse",
         "region": "Gallery",
         "original_item": "Insecticide",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Insecticide"
+        "forbid_item": [],
+        "force_item": "Insecticide"
     },
     {
         "name": "GAL - Desk Under Hive",
         "region": "Gallery",
         "original_item": "Key for Room 003",
-        "condition":{
-            "items":["Insecticide"]
+        "condition": {
+            "items": [
+                "Insecticide"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "GAL - Double Doors",
         "region": "Gallery",
         "original_item": "Red Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "RMR - Bottle 1",
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"",
+        "forbid_item": [],
+        "force_item": "",
         "randomized": 0
     },
     {
         "name": "RMR - Bottle 2",
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"",
+        "forbid_item": [],
+        "force_item": "",
         "randomized": 0
     },
     {
         "name": "RMR - Bottle 3",
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"",
+        "forbid_item": [],
+        "force_item": "",
         "randomized": 0
     },
     {
         "name": "RMR - Bottle 4",
         "region": "Residence Medical Room",
         "original_item": "Empty Bottle",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"",
+        "forbid_item": [],
+        "force_item": "",
         "randomized": 0
     },
     {
         "name": "42 - Fireplace in Plant Room",
         "region": "Plant 42 Room",
         "original_item": "Helmet Key",
-        "condition":{
-            "items" :["Collar - Imitation of a Key", "Armor Key"]
+        "condition": {
+            "items": [
+                "Dog Collar",
+                "Armor Key"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "AREN - Floor at end of Hall",
         "region": "Aqua Ring Entry",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "CON - Floor near Pressure Regulator",
         "region": "Control Room",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ARS - Floor by Junk",
         "region": "Aqua Room Storage",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ARWT - Key Rack in Water",
         "region": "Aqua Ring Water Tank",
         "original_item": "Gallery Key",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "ARWT - Floor Halfway in Room",
         "region": "Aqua Ring Water Tank",
         "original_item": "Assault Shotgun",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "randomized":0
+        "forbid_item": [],
+        "randomized": 0
     },
     {
         "name": "ARX - Barrel by Ladder",
         "region": "Aqua Ring Exit",
         "original_item": "Magnum Rounds",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "IBR - Floor by Item Box",
         "region": "Item Box Room",
         "original_item": "Ink Ribbon",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LS - Left by Railing",
         "region": "Laboratory Stairway",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LS - Right by Railing",
         "region": "Laboratory Stairway",
         "original_item": "Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LS - On Gurney",
         "region": "Laboratory Stairway",
         "original_item": "MO Disk 2",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "OR - Shelf by Fan",
         "region": "'O' Room",
         "original_item": "Dagger",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "OPR - Floor in Corner",
         "region": "Operating Room",
         "original_item": "Magnum Rounds",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "OPR - Shelves by Body Bags 1",
         "region": "Operating Room",
         "original_item": "Flash Grenade",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "OPR - Shelves by Body Bags 2",
         "region": "Operating Room",
         "original_item": "First Aid Box - Green Herb",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":""
+        "forbid_item": [],
+        "force_item": ""
     },
     {
         "name": "PCC - Floor by Entrance",
         "region": "Pass Code Corridor",
         "original_item": "First Aid Box - Mixed Herbs (G+G)",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "CELL - Floor by Bed",
         "region": "Cell",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":[],
-        "force_item":"Shotgun Shells"
+        "forbid_item": [],
+        "force_item": "Shotgun Shells"
     },
     {
         "name": "XRA - Box by Lightswitch",
         "region": "X-ray Room A",
         "original_item": "X-ray of CLARK",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "XRA - Bench by South Wall",
         "region": "X-ray Room A",
         "original_item": "X-ray of GAIL",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "XRB - Desk by X-ray",
         "region": "X-ray Room B",
         "original_item": "Slide Filter",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "XRB - In Sink",
         "region": "X-ray Room B",
         "original_item": "Magnum Rounds",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "VDR - Table by Entrance",
         "region": "Visual Data Room",
         "original_item": "First Aid Spray",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "VDR - Shelf near Entrance",
         "region": "Visual Data Room",
         "original_item": "MO Disk 3",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "VDR - Cupboard in Corner",
         "region": "Visual Data Room",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "VDR - Secret Editing Room",
         "region": "Visual Data Room",
-        "original_item": "Power Room Key",
-        "condition":{},
+        "original_item": "Key For Power Area",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "MOR - Desk in Corner",
         "region": "Morgue",
         "original_item": "Flash Grenade",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "MOR - North East Corner Shelf",
         "region": "Morgue",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LL - Next to Typewriter 1",
         "region": "Laboratory Lounge",
         "original_item": "Ink Ribbon",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LL - Next to Typewriter 2",
         "region": "Laboratory Lounge",
         "original_item": "First Aid Spray",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "LL - Floor by Table",
         "region": "Laboratory Lounge",
         "original_item": "Shotgun Shells",
-        "condition":{},
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "PMA - Fuelling Device",
         "region": "Power Maze A",
-        "original_item": "Fuel Supply Capsule (Empty)",
-        "condition":{},
+        "original_item": "Fuel Supply Capsule - Empty",
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
     {
         "name": "PMB - North West Corner Floor",
         "region": "Power Maze B",
         "original_item": "Flash Grenade",
-        "condition":{ },
+        "condition": {},
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "forbid_item":["Stone and Metal Object"],
-        "force_item":""
+        "forbid_item": [
+            "Stone and Metal Object"
+        ],
+        "force_item": ""
     },
-
     {
         "name": "Victory",
         "region": "Heliport",
         "condition": {
-            "items": ["Stone and Metal Object", "Power Room Key", "Jewelry Box - Stone Ring", "Metal Object", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-                        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
+            "items": [
+                "Stone and Metal Object",
+                "Key For Power Area",
+                "Jewelry Box - Stone Ring",
+                "Metal Object",
+                "Last Book Volume 1",
+                "Last Book Volume 2",
+                "Emblem Key",
+                "Wooden Emblem",
+                "Gold Emblem",
+                "Book of Curses",
+                "Armor Key",
+                "Shield Key",
+                "Helmet Key",
+                "Key for Room 001",
+                "Key for Room 003"
+            ]
         },
         "item_object": "",
         "parent_object": "",
         "folder_path": "",
-        "id": null,
+        "id": 133,
         "victory": true
     }
 ]
