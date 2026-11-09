@@ -1,652 +1,950 @@
-[ 
+[
     {
-        "type": "Key",
-        "name": "Book of Curses - Sword Key",
-        "decimal": "16",
-        "count": 1,
-        "progression": 1
-    },
-	{
-        "type": "Key",
-        "name": "Lock Pick",
-        "decimal": "2B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Shield Key",
-        "decimal": "2F", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Armor Key",
-        "decimal": "2E", 
-        "count": 1,
-        "progression": 1
-    },
-	{
-        "type": "Key",
-        "name": "Helmet Key",
-        "decimal": "30",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Key for Room 001",
-        "decimal": "31",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Key for Room 003",
-        "decimal": "32",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Mask Without Mouth",
-        "decimal": "7D",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Mask Without Eyes",
-        "decimal": "7F",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Mask Without Nose",
-        "decimal": "80",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Mask Without All",
-        "decimal": "63",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Battery",
-        "decimal": "43",
-        "count": 1,
-        "progression": 1
-        
-    },
-    {
-        "type": "Gating",
-        "name": "Dog Whistle",
-        "decimal": "60",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Square Crank",
-        "decimal": "3C",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Hexagon Crank",
-        "decimal": "3D",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Cylinder",
-        "decimal": "7B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Jewelry Box - Stone Ring",
-        "decimal": "67",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Metal Object",
-        "decimal": "41",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Stone and Metal Object",
-        "decimal": "35",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Control Room Key",
-        "decimal": "6E",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Red Book - Unprinted Book",
-        "decimal": "5A",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Last Book Volume 1 - Medal of Eagle",
-        "decimal": "5B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Last Book Volume 2 - Medal of Wolf",
-        "decimal": "5C",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Gallery Key",
-        "decimal": "1E",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Power Room Key",
-        "decimal": "36",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Broken Flamethrower",
-        "decimal": "6B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Golden Arrow - Arrowhead",
-        "decimal": "15",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Fuel Supply Capsule (Empty)",
-        "decimal": "1F",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Fuel Supply Capsule (Filled)",
-        "decimal": "1F",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Emblem Key",
-        "decimal": "1F",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Key",
-        "name": "Power Room Key",
-        "decimal": "36",
-        "count": 1,
-        "progression": 1
-    },
-
-    {
-        "type": "Gating",
-        "name": "Blue Gemstone",
-        "decimal": "49", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Red Gemstone",
-        "decimal": "48", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Yellow Gemstone",
-        "decimal": "4A", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Emblem",
-        "decimal": "something", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Gold Emblem",
-        "decimal": "something", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Shaft",
-        "decimal": "something", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Insecticide",
-        "decimal": "something", 
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Old Key",
-        "decimal": "2C",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Herbicide",
-        "decimal": "4C",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Missing Music",
-        "decimal": "20",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Lore",
-        "name": "Wooden Mount",
-        "decimal":"6C",
-        "count":1,
-        "progression": 0
-    },
-    {
-        "type": "Gating",
-        "name": "Music, Mid-Pages",
-        "decimal": "47",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Broken Shotgun",
-        "decimal": "4B",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Fishhook",
-        "decimal": "75",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Moon Crest",
-        "groups":["Crest"],
-        "decimal": "103",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Wind Crest",
-        "groups":["Crest"],
-        "decimal": "92",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Star Crest",
-        "groups":["Crest"],
-        "decimal": "104",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Sun Crest",
-        "groups":["Crest"],
-        "decimal": "105",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Bee Specimen",
-        "decimal": "73",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Lure of a Bee",
-        "decimal": "74",
-        "count": 1,
-        "progression": 1
-    },
-    {
-        "type": "Lore",
-        "name": "X-ray of CLARK",
-        "decimal": "77",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Lore",
-        "name": "X-ray of GAIL",
-        "decimal": "78",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "MO Disk 1",
-        "decimal": "5D",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "MO Disk 2",
-        "decimal": "5E",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "MO Disk 3",
-        "decimal": "5F",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Gating",
-        "name": "Collar - Imitation of a Key",
-        "decimal":"18",
-        "count":1,
-        "progression": 1
-    },
-    {
-        "type": "Gating",
-        "name": "Lure Without Hook",
-        "decimal":"74",
-        "count":1,
-        "progression": 1
-    },
-
-    {
-        "type": "Consumable",
-        "name": "Ink Ribbon",
-        "decimal": "44",
-        "count": 3,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "Empty Bottle",
-        "decimal": "50",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "Fuel Canteen",
-        "decimal": "1B",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Consumable",
-        "name": "Slide Filter",
-        "decimal": "6D",
-        "count": 1,
-        "progression": 0
-    },
-
-    {
-        "type": "Recovery",
-        "name": "First Aid Spray",
+        "type": "Weapon",
+        "name": "Jill's Knife",
         "decimal": "1",
         "count": 1,
         "progression": 0
     },
     {
-        "type": "Recovery",
-        "name": "Green Herb",
+        "type": "Weapon",
+        "name": "Chris's Knife",
         "decimal": "2",
         "count": 1,
         "progression": 0
     },
     {
-        "type": "Recovery",
-        "name": "Red Herb",
+        "type": "Weapon",
+        "name": "Handgun",
         "decimal": "3",
-        "count": 1,
-        "progression": 0
+        "count": 15,
+        "progression": 0,
+        "ammo": "Handgun Magazine"
     },
     {
-        "type": "Recovery",
-        "name": "Blue Herb",
+        "type": "Weapon",
+        "name": "Self Defense Gun",
         "decimal": "4",
         "count": 1,
         "progression": 0
     },
     {
-        "type": "Recovery",
-        "name": "First Aid Box - Green Herb",
-        "decimal": "65",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Recovery",
-        "name": "First Aid Box - First Aid Spray",
-        "decimal": "68",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Recovery",
-        "name": "First Aid Box - Mixed Herbs (G+G)",
-        "decimal": "83",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Recovery",
-        "name": "First Aid Box - Mixed Herbs (G+B)",
-        "decimal": "84",
-        "count": 1,
-        "progression": 0
-    },
-
-    {
         "type": "Weapon",
-        "name": "Handgun",
-        "decimal": "03",
-        "count": 15,
-        "progression": 0,
-        "ammo": "Handgun Magazine"
+        "name": "Infinite Ammo Gun",
+        "decimal": "5",
+        "count": 1,
+        "progression": 0
     },
-	{
+    {
         "type": "Weapon",
         "name": "Shotgun",
-        "decimal": "06",
+        "decimal": "6",
         "count": 6,
         "progression": 0,
         "ammo": "Shotgun Shells"
     },
     {
         "type": "Weapon",
-        "name": "Assault Shotgun",
-        "decimal": "0D",
-        "count": 10,
-        "progression": 0,
-        "ammo": "Shotgun Shells"
-    },
-    {
-        "type": "Weapon",
-        "name": "Magnum Revolver",
-        "decimal": "0B",
-        "count": 6,
-        "progression": 0,
-        "ammo": "Magnum Rounds"
-    },
-	 {
-        "type": "Weapon",
-        "name": "Grenade Launcher - Grenade",
-        "decimal": "07",
-		"itemval": 37,
-        "count": 6,
-        "progression": 0,
-        "ammo": "Grenade Rounds"
-    },
-    {
-        "type": "Weapon",
-        "name": "Grenade Launcher - Acid",
-        "decimal": "08",
-        "count": 6,
-        "progression": 0,
-        "ammo": "Acid Rounds"
-    },
-    {
-        "type": "Weapon",
-        "name": "Grenade Launcher - Incendiary",
-        "decimal": "09",
-        "count": 6,
-        "progression": 0,
-        "ammo": "Incendiary Rounds"
-    },
-    {
-        "type": "Weapon",
-        "name": "Flamethrower",
-        "decimal": "0C",
-        "count": 100,
-        "progression": 0
-    },
-    {
-        "type": "Weapon",
-        "name": "Self-Defense Gun",
-        "decimal": "04",
-        "count": 1,
-        "progression": 0
-    },
-    {
-        "type": "Weapon",
-        "name": "Grenade Launcher",
-        "decimal": "07",
+        "name": "Grenade Launcher - Grenade Shells",
+        "decimal": "7",
         "count": 6,
         "progression": 0,
         "ammo": "Grenade Shells"
     },
     {
         "type": "Weapon",
-        "name": "Survival Knife",
+        "name": "Grenade Launcher - Acid Rounds",
+        "decimal": "8",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Acid Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Incendiary Rounds",
+        "decimal": "9",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Incendiary Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Rocket Launcher",
+        "decimal": "10",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Weapon",
+        "name": "Magnum",
+        "decimal": "11",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Magnum Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Flamethrower",
+        "decimal": "12",
+        "count": 100,
+        "progression": 0
+    },
+    {
+        "type": "Weapon",
+        "name": "Assault Shotgun",
+        "decimal": "13",
+        "count": 10,
+        "progression": 0,
+        "ammo": "Shotgun Shells"
+    },
+    {
+        "type": "Weapon",
+        "name": "Infinite Rocket Launcher",
+        "decimal": "14",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Weapon",
+        "name": "Barry's 44 Magnum",
+        "decimal": "15",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Grenade Shells",
+        "decimal": "16",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Handgun Magazine",
+        "decimal": "17",
+        "count": 15,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Shotgun Shells",
+        "decimal": "18",
+        "count": 7,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Acid Rounds",
+        "decimal": "19",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Incendiary Rounds",
+        "decimal": "20",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Golden Arrow",
+        "decimal": "21",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Book of Curses",
+        "decimal": "22",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Fake Armor Key - Untransformed",
+        "decimal": "23",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Dog Collar",
+        "decimal": "24",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Ammo",
+        "name": "Magnum Ammo",
+        "decimal": "25",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Emblem Key - Untransformed",
+        "decimal": "26",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Consumable",
+        "name": "Fuel Canteen",
+        "decimal": "27",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Arrowhead",
+        "decimal": "28",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fake Armor Key",
+        "decimal": "29",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Gallery Key",
+        "decimal": "30",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fuel Supply Capsule - Filled And Closed",
+        "decimal": "31",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Musical Score - Book",
+        "decimal": "32",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Recovery",
+        "name": "First Aid Spray",
+        "decimal": "33",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Green Herb",
+        "decimal": "34",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Red Herb",
+        "decimal": "35",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Blue Herb",
+        "decimal": "36",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+G)",
+        "decimal": "37",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+G+G)",
+        "decimal": "38",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+R)",
+        "decimal": "39",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+R+B)",
+        "decimal": "40",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+B)",
+        "decimal": "41",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Mixed Herbs (G+G+B)",
         "decimal": "42",
         "count": 1,
         "progression": 0
     },
-
+    {
+        "type": "Gating",
+        "name": "LockPick",
+        "decimal": "43",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Old Key",
+        "decimal": "44",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Sword Key",
+        "decimal": "45",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Armor Key",
+        "decimal": "46",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Shield Key",
+        "decimal": "47",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Helmet Key",
+        "decimal": "48",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Key for Room 001",
+        "decimal": "49",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Key for Room 003",
+        "decimal": "50",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Medal of Eagle",
+        "decimal": "51",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Medal of Wolf",
+        "decimal": "52",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Stone And Metal Object",
+        "decimal": "53",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Key For Power Area",
+        "decimal": "54",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Master Key",
+        "decimal": "55",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Star Crest",
+        "groups": [
+            "Crest"
+        ],
+        "decimal": "56",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Wind Crest",
+        "groups": [
+            "Crest"
+        ],
+        "decimal": "57",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Sun Crest",
+        "groups": [
+            "Crest"
+        ],
+        "decimal": "58",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Moon Crest",
+        "groups": [
+            "Crest"
+        ],
+        "decimal": "59",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Square Crank",
+        "decimal": "60",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Hexagon Crank",
+        "decimal": "61",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Cosmetic",
+        "name": "Closet Key",
+        "decimal": "62",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Emblem Key",
+        "decimal": "63",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Stone Ring",
+        "decimal": "64",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Metal Object",
+        "decimal": "65",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Weapon",
+        "name": "Survival Knife",
+        "decimal": "66",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Battery",
+        "decimal": "67",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Consumable",
+        "name": "Ink Ribbon",
+        "decimal": "68",
+        "count": 3,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Wooden Emblem",
+        "decimal": "69",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Gold Emblem",
+        "decimal": "70",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Sheet Music",
+        "decimal": "71",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Red Gem",
+        "decimal": "72",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Blue Gem",
+        "decimal": "73",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Yellow Gem",
+        "decimal": "74",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Broken Shotgun",
+        "decimal": "75",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Herbicide",
+        "decimal": "76",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Lighter",
+        "decimal": "77",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Serum",
+        "decimal": "78",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Transceiver",
+        "decimal": "79",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Consumable",
+        "name": "Empty Bottle",
+        "decimal": "80",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "Water",
+        "decimal": "81",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "UMB No. 3",
+        "decimal": "82",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "NP-004",
+        "decimal": "83",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "Yellow-6",
+        "decimal": "84",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "UMB No. 7",
+        "decimal": "85",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "UMB No.10",
+        "decimal": "86",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "VP-017",
+        "decimal": "87",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Consumable",
+        "name": "V-Jolt",
+        "decimal": "88",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "unkown",
+        "name": "Bugged Item (Explosive Round Become White Book When Inspected)",
+        "decimal": "89",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Key",
+        "name": "Red Book",
+        "decimal": "90",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Last Book Volume 1",
+        "decimal": "91",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Last Book Volume 2",
+        "decimal": "92",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "MO Disk 1",
+        "decimal": "93",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "MO Disk 2",
+        "decimal": "94",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "MO Disk 3",
+        "decimal": "95",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Dog Whistle",
+        "decimal": "96",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fuse Unit",
+        "decimal": "97",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fuel Supply Capsule - Filled And Open",
+        "decimal": "98",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Jewelry Box - Stone Ring",
+        "decimal": "99",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Insecticide",
+        "decimal": "100",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Recovery",
+        "name": "Aid Box - First Aid Spray",
+        "decimal": "101",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Jewelry Box - Emblem Key",
+        "decimal": "102",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Jewelry Box - Mask Without All",
+        "decimal": "103",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Recovery",
+        "name": "Aid Box - Green Herb",
+        "decimal": "104",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Aid Box - Blue Herb",
+        "decimal": "105",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Signal Rockets",
+        "decimal": "106",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Gating",
+        "name": "Broken Flamethrower",
+        "decimal": "107",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Lore",
+        "name": "Wooden Mount",
+        "decimal": "108",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Lore",
+        "name": "Slide Filter",
+        "decimal": "109",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Key",
+        "name": "Control Room Key",
+        "decimal": "110",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fuel Supply Capsule - Empty",
+        "decimal": "111",
+        "count": 1,
+        "progression": 1
+    },
     {
         "type": "Subweapon",
         "name": "Dagger",
-        "decimal": "70",
+        "decimal": "112",
         "count": 1,
         "progression": 0
     },
     {
         "type": "Subweapon",
         "name": "Flash Grenade",
-        "decimal": "71",
+        "decimal": "113",
         "count": 1,
         "progression": 0
     },
-
-
     {
-        "type": "Ammo",
-        "name": "Handgun Magazine",
-        "decimal": "11",
-        "count": 15,
+        "type": "Subweapon",
+        "name": "Stun Gun",
+        "decimal": "114",
+        "count": 1,
         "progression": 0
     },
     {
-        "type": "Ammo",
-        "name": "Grenade Shells",
-        "decimal": "10",
-        "count": 6,
+        "type": "Gating",
+        "name": "Bee Specimen",
+        "decimal": "115",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Lure Of A Bee",
+        "decimal": "116",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Fishhook",
+        "decimal": "117",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Lure Of A Bee On A Fishhook",
+        "decimal": "118",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Lore",
+        "name": "X-ray of CLARK",
+        "decimal": "119",
+        "count": 1,
         "progression": 0
     },
     {
-        "type": "Ammo",
-        "name": "Shotgun Shells",
-        "decimal": "12",
-        "count": 7,
+        "type": "Lore",
+        "name": "X-ray of GAIL",
+        "decimal": "120",
+        "count": 1,
         "progression": 0
     },
     {
-        "type": "Ammo",
-        "name": "Acid Shells",
-        "decimal": "13",
-        "count": 6,
+        "type": "Gating",
+        "name": "Battery Pack",
+        "decimal": "121",
+        "count": 1,
         "progression": 0
     },
     {
-        "type": "Ammo",
-        "name": "Incendiary Shells",
-        "decimal": "14",
-        "count": 6,
+        "type": "Gating",
+        "name": "Shaft",
+        "decimal": "122",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Cylinder",
+        "decimal": "123",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Cylinder Shaft",
+        "decimal": "124",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Mask Without All",
+        "decimal": "125",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Mask Without Eye",
+        "decimal": "126",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Mask Without Nose",
+        "decimal": "127",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Mask Without Mouth",
+        "decimal": "128",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Consumable",
+        "name": "Musical Score - Sheet",
+        "decimal": "129",
+        "count": 1,
         "progression": 0
     },
     {
-        "type": "Ammo",
-        "name": "Magnum Rounds",
-        "decimal": "19",
-        "count": 6,
+        "type": "Lore",
+        "name": "Map",
+        "decimal": "130",
+        "count": 1,
         "progression": 0
     },
-
+    {
+        "type": "Recovery",
+        "name": "First Aid Box - Mixed Herbs (G+B)",
+        "decimal": "131",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "First Aid Box - Mixed Herbs (G+G)",
+        "decimal": "132",
+        "count": 1,
+        "progression": 0
+    },
     {
         "name": "Victory",
-        "id": null,
+        "id": 133,
         "progression": 1
     }
 ]
