@@ -59,7 +59,7 @@
     {
         "name": "DR - Above Fireplace",
         "region": "Dining Room",
-        "original_item": "Emblem",
+        "original_item": "Wooden Emblem",
         "item_object": "i069",
         "parent_object": "",
         "folder_path": "",
@@ -195,7 +195,7 @@
     {
         "name": "Bar - Bookshelf Behind Cabinet",
         "region": "Bar",
-        "original_item": "Missing Music",
+        "original_item": "Musical Score - Book",
         "condition": {},
         "locval": 15,
         "item_object": "i032",
@@ -285,7 +285,7 @@
         "region": "Bar",
         "original_item": "Gold Emblem",
         "condition": {
-            "items":["Emblem","Music, Mid-Pages", "Missing Music"]
+            "items":["Wooden Emblem","Musical Score - Book", "Musical Score - Sheet"]
         },    
         "item_object": "i070",
         "parent_object": "",
@@ -375,7 +375,7 @@
         "forbid_item":[],
         "force_item":""
     },
-     {
+    {
         "name": "MR - Floor by Southern Wall",
         "region": "Mirror Room",
         "original_item": "Dagger",
@@ -389,7 +389,7 @@
         "forbid_item":[],
         "force_item":""
     },
-        {
+    {
         "name": "MR - Cabinet",
         "region": "Mirror Room",
         "original_item": "Emblem Key",
@@ -646,7 +646,7 @@
     {
         "name": "SP - By Gravestone",
         "region": "Secret Passage",
-        "original_item": "Last Book Volume 1 - Medal of Eagle",
+        "original_item": "Last Book Volume 1",
         "condition": {
             
         },  
@@ -864,7 +864,7 @@
     {
         "name": "SDR - Behind Bookcase",
         "region": "Small Dining Room",
-        "original_item": "Music, Mid-Pages",
+        "original_item": "Musical Score - Sheet",
         "condition": {
             "items":["Lighter"]
         },    
@@ -1047,7 +1047,7 @@
     {
         "name": "MC - In Statue",
         "region": "Mirror Corridor",
-        "original_item": "Golden Arrow - Arrowhead",
+        "original_item": "Golden Arrow",
         "condition": { },   
         "locval": 51,
         "item_object": "i021",
@@ -1112,7 +1112,7 @@
     {
         "name": "LIB - Glass Case",
         "region": "Library",
-        "original_item": "Last Book Volume 2 - Medal of Wolf",
+        "original_item": "Last Book Volume 2",
         "condition": {
             
         },  
@@ -1126,7 +1126,7 @@
     {
         "name": "OUTB - Dog",
         "region": "Outside Balcony",
-        "original_item": "Collar - Imitation of a Key",
+        "original_item": "Dog Collar",
         "condition": {
             "items":["Dog Whistle"]
         },    
@@ -1294,9 +1294,9 @@
     {
         "name": "CRY - On Pedestal",
         "region": "Crypt",
-        "original_item": "Book of Curses - Sword Key",
+        "original_item": "Book of Curses",
         "condition":{
-            "items":["Golden Arrow - Arrowhead"]
+            "items":["Golden Arrow"]
         },
         "locval": 100,
         "item_object": "i022",
@@ -1526,7 +1526,7 @@
     {
         "name": "SHA - Left Gravestone",
         "region": "Small Headstone Area",
-        "original_item": "Magnum Revolver",
+        "original_item": "Magnum",
         "condition":{
             "items":["Sun Crest", "Moon Crest", "Star Crest"]
         },
@@ -2408,7 +2408,7 @@
     {
         "name": "PMA - Fuelling Device",
         "region": "Power Maze A",
-        "original_item": "Fuel Supply Capsule (Empty)",
+        "original_item": "Fuel Supply Capsule - Empty",
         "condition":{},
         "locval": 178,
         "item_object": "i110",
@@ -2433,8 +2433,16 @@
         "name": "Victory",
         "region": "Heliport",
         "condition": {
-            "items": ["Stone and Metal Object", "Power Room Key", "Metal Object", "Jewelry Box - Stone Ring", "Last Book Volume 1 - Medal of Eagle", "Last Book Volume 2 - Medal of Wolf", 
-                        "Emblem Key", "Emblem", "Gold Emblem", "Book of Curses - Sword Key", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
+            "items": ["Stone and Metal Object", 
+                        "Key for Power Area", 
+                        "Metal Object", 
+                        "Jewelry Box - Stone Ring", 
+                        "Last Book Volume 1", 
+                        "Last Book Volume 2", 
+                        "Emblem Key", 
+                        "Wooden Emblem", 
+                        "Gold Emblem", 
+                        "Book of Curses", "Armor Key", "Shield Key", "Helmet Key", "Key for Room 001", "Key for Room 003"]
         },
         "item_object": "",
         "parent_object": "",
