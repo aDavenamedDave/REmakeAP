@@ -30,7 +30,7 @@
         "from": "Tea Room",
         "to": "Kitchen",
         "condition": {
-            "items": ["Book of Curses - Sword Key"]
+            "items": ["Book of Curses"]
         }
     },
     { 
@@ -87,7 +87,7 @@
         "from": "Dining Room 2F",
         "to": "West Wing Inner Stairway",
         "condition": {
-            "items": ["Book of Curses - Sword Key"]
+            "items": ["Book of Curses"]
         }
     },
     { 
@@ -123,7 +123,7 @@
         "from": "Main Hall",
         "to": "'C' Corridor",
         "condition": {
-            "items": ["Book of Curses - Sword Key"]
+            "items": ["Book of Curses"]
         }
     },
     
@@ -179,7 +179,7 @@
         "from": "Graveyard",
         "to": "Crypt",
         "condition": {
-            "items": ["Golden Arrow - Arrowhead"]
+            "items": ["Golden Arrow"]
         }
     },
     { 
@@ -191,7 +191,7 @@
         "from": "Art Room",
         "to": "'L' Corridor",
         "condition": {
-            "items": ["Book of Curses - Sword Key"]
+            "items": ["Book of Curses"]
         }
     },
     { 
@@ -378,7 +378,7 @@
                 ["Stone and Metal Object"],
                 ["Jewelry Box - Stone Ring", "Metal Object"]
                 ],
-            "locations": ["AT - Boxes in Corner"]
+            "locations": ["AT - Boxes in Corner", "OUTB - Dog"]
         }
     },
     {
@@ -656,7 +656,7 @@
         "from": "Fountain",
         "to": "Laboratory Entrance",
         "condition":{
-            "items": ["Last Book Volume 2 - Medal of Wolf", "Last Book Volume 1 - Medal of Eagle"]
+            "items": ["Last Book Volume 2", "Last Book Volume 1"]
         }
     },
     {
@@ -688,14 +688,14 @@
         "from": "'O' Room",
         "to": "Elevator Entry",
         "condition":{
-            "items": ["Power Room Key"]
+            "items": ["Key to the Power Area"]
         }
     },
     {
         "from": "'O' Room",
         "to": "Morgue",
         "condition":{
-            "items": ["Power Room Key"]
+            "items": ["Key to the Power Area"]
         }
     },
     {
