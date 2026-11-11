@@ -474,7 +474,13 @@
     {
         "from": "Spider Room",
         "to": "Straight Passage",
-        "condition":{}
+        "condition":{
+            "items":[ 
+                       ["Survival Knife"], ["Jill's Knife"], ["Chris's Knife"], 
+                       ["Grenade Launcher - Incendiary Rounds"], ["Grenade Launcher - Grenade Shells", "Incendiary Rounds"],
+                    ["Grenade Launcher - Acid Rounds", "Incendiary Rounds"]
+            ]
+        }
     },
     {
         "from": "Straight Passage",
